@@ -6,9 +6,7 @@
 
 ## Rodando o projeto
 
-Para configurar e executar o projeto localmente, **acesse primeiro** o arquivo [setup.md](./setup.md).
-
-Para configurar o MCP de banco (Codex/Claude), use o guia [docs/mcp/codex-mcp-db.md](./docs/mcp/codex-mcp-db.md).
+Para configurar e executar o projeto localmente, **acesse primeiro** o arquivo [setup.md](./setup.md)
 
 ---
 
