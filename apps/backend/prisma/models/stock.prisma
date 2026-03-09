@@ -1,0 +1,102 @@
+model Location {
+  id        String    @id @default(uuid())
+  name      String
+  address   String
+  isActive  Boolean   @map("is_active")
+  createdAt DateTime  @default(now()) @map("created_at")
+  updatedAt DateTime  @updatedAt @map("updated_at")
+  deletedAt DateTime?
+
+  stock Stock?
+
+  @@map("locations")
+}
+
+model Stock {
+  id   String @id @default(uuid())
+  name String
+
+  locationId String   @unique @map("location_id")
+  location   Location @relation(fields: [locationId], references: [id])
+
+  inventoryItems InventoryItem[]
+
+  createdAt DateTime  @default(now()) @map("created_at")
+  updatedAt DateTime  @updatedAt @map("updated_at")
+  deletedAt DateTime?
+
+  @@map("stocks")
+}
+
+model StockItem {
+  id        String @id @default(uuid())
+  costPrice Int
+  salePrice Int
+
+  // productId String  @unique @map("product_id")
+  // product   Product @relation(fields: [productId], references: [id])
+
+  inventoryItems InventoryItem[]
+
+  createdAt DateTime  @default(now()) @map("created_at")
+  updatedAt DateTime  @updatedAt @map("updated_at")
+  deletedAt DateTime?
+
+  @@map("stock_items")
+}
+
+// NOTE: Tabela Pivot: representa um StockItem dentro de um Estoque específico.
+model InventoryItem {
+  id String @id @default(uuid())
+
+  stockId String @map("stock_id")
+  stock   Stock  @relation(fields: [stockId], references: [id])
+
+  stockItemId String    @map("stock_item_id")
+  stockItem   StockItem @relation(fields: [stockItemId], references: [id])
+
+  movements Movement[]
+  snapshots Snapshot[]
+
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  @@unique([stockId, stockItemId], name: "unique_stock_item_in_stock")
+  @@map("inventory_items")
+}
+
+enum MovementType {
+  IN
+  OUT
+  ADJUSTMENT
+  TRANSFER
+}
+
+model Movement {
+  id       String       @id @default(uuid())
+  type     MovementType
+  quantity Int
+  reason   String?
+
+  inventoryItemId String        @map("inventory_item_id")
+  inventoryItem   InventoryItem @relation(fields: [inventoryItemId], references: [id])
+
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  @@map("movements")
+}
+
+model Snapshot {
+  id          String   @id @default(uuid())
+  quantity    Int
+  processedAt DateTime @map("processed_at")
+
+  inventoryItemId String        @map("inventory_item_id")
+  inventoryItem   InventoryItem @relation(fields: [inventoryItemId], references: [id])
+
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  @@map("snapshots")
+}

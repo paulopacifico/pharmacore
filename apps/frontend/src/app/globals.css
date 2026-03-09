@@ -1,0 +1,80 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+@import "@config/tailwindcss-config";
+@source "../../../../packages/**/*.{js,ts,jsx,tsx}";
+
+@theme inline {
+  --color-background: var(--color-bg-page);
+  --color-foreground: var(--color-text-primary);
+  --font-heading: var(--font-sora);
+  --font-body: var(--font-manrope);
+}
+
+body {
+  background: var(--color-bg-page);
+  color: var(--color-text-primary);
+  font-family: var(--font-body), sans-serif;
+}
+
+html {
+  color-scheme: dark;
+}
+
+html[data-theme="light"] {
+  color-scheme: light;
+  --color-bg-page: #F3F6FB;
+  --color-bg-sidebar: #FFFFFF;
+  --color-bg-card: #FFFFFF;
+  --color-bg-card-hover: #F4F7FC;
+  --color-bg-input: #FFFFFF;
+
+  --color-text-primary: #0F172A;
+  --color-text-secondary: #334155;
+  --color-text-muted: #64748B;
+  --color-text-on-accent: #F8FAFC;
+
+  --color-border-subtle: #D9E1EC;
+  --color-border-card: #D0D9E6;
+  --color-border-strong: #B8C4D6;
+  --color-border-input: #C7D3E3;
+
+  --color-accent-blue: #2563EB;
+  --color-accent-purple: #4F46E5;
+  --color-accent-cyan: #0891B2;
+
+  --color-status-success: #059669;
+  --color-status-error: #E11D48;
+  --color-status-warning: #D97706;
+  --color-status-info: #2563EB;
+
+  --color-kpi-blue: #2563EB;
+  --color-kpi-purple: #4F46E5;
+  --color-kpi-cyan: #0E7490;
+  --color-kpi-graphite: #334155;
+
+  --color-glass-card: #0F172A08;
+  --color-glass-border: #0F172A14;
+  --color-nav-active-bg: #E8EEF8;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading), sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+@keyframes marquee {
+  0% {
+    transform: translateX(0);
+  }
+
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-marquee {
+  animation: marquee 25s linear infinite;
+}

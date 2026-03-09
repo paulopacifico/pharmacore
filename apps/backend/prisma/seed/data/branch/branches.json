@@ -1,0 +1,5105 @@
+{
+  "total": 300,
+  "items": [
+    {
+      "id": "215aba3c-62db-48b6-9b39-93890918824a",
+      "name": "Farmácia Popular Juiz de Fora",
+      "cnpj": "11222333000181",
+      "isActive": true,
+      "address": {
+        "street": "Rua Martins",
+        "number": "3869",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Juiz de Fora",
+        "state": "MG",
+        "zip": "90020-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2016-01-03"
+    },
+    {
+      "id": "50545f89-60f7-4f8f-bd6e-d895da9dca66",
+      "name": "Farmácia Saúde Centro",
+      "cnpj": "11222333000281",
+      "isActive": true,
+      "address": {
+        "street": "Rua da Glória",
+        "number": "2080",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Blumenau",
+        "state": "SC",
+        "zip": "01310-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2020-12-13"
+    },
+    {
+      "id": "a8b70439-3783-4158-a119-d340026e5ff2",
+      "name": "Farmácia Saúde Jardim Maia",
+      "cnpj": "11222333000381",
+      "isActive": false,
+      "address": {
+        "street": "Rua Floriano Peixoto",
+        "number": "1559",
+        "complement": "Sobrado",
+        "neighborhood": "Jardim Maia",
+        "city": "Guarulhos",
+        "state": "SP",
+        "zip": "80020-310",
+        "country": "Brasil"
+      },
+      "establishedAt": "2011-04-13"
+    },
+    {
+      "id": "c6e6444f-aab5-4c24-8b18-dc8410ce64ff",
+      "name": "Farmácia Tubarão Centro",
+      "cnpj": "11222333000481",
+      "isActive": true,
+      "address": {
+        "street": "Rua Galdino Pimentel",
+        "number": "393",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Tubarão",
+        "state": "SC",
+        "zip": "90020-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2013-05-04"
+    },
+    {
+      "id": "d342e337-af26-4d6e-aa00-b054ee8fb96a",
+      "name": "Farmácia Conjunto Noé Trajano",
+      "cnpj": "11222333000581",
+      "isActive": true,
+      "address": {
+        "street": "Av. das Américas",
+        "number": "759",
+        "complement": "",
+        "neighborhood": "Conjunto Noé Trajano",
+        "city": "Patos",
+        "state": "PB",
+        "zip": "01310-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2014-11-16"
+    },
+    {
+      "id": "8ad7e0d4-af81-48f1-9a83-41fb93d778a8",
+      "name": "Farmácia Popular Sobradinho",
+      "cnpj": "11222333000681",
+      "isActive": true,
+      "address": {
+        "street": "Rua do Ouvidor",
+        "number": "901",
+        "complement": "",
+        "neighborhood": "Vila Águas Claras",
+        "city": "Sobradinho",
+        "state": "DF",
+        "zip": "13015-010",
+        "country": "Brasil"
+      },
+      "establishedAt": "2018-10-27"
+    },
+    {
+      "id": "672f676b-64a1-48c7-a0ee-6ee362795315",
+      "name": "Farmácia Saúde Arniqueiras",
+      "cnpj": "11222333000781",
+      "isActive": true,
+      "address": {
+        "street": "Av. Pres. Costa e Silva",
+        "number": "1479",
+        "complement": "Galpão 3",
+        "neighborhood": "Arniqueiras",
+        "city": "Palmas",
+        "state": "TO",
+        "zip": "88010-002",
+        "country": "Brasil"
+      },
+      "establishedAt": "2013-11-02"
+    },
+    {
+      "id": "d64b4d64-da42-44aa-808d-dfb3198f02e2",
+      "name": "Farmácia Saúde Ribeira",
+      "cnpj": "11222333000881",
+      "isActive": true,
+      "address": {
+        "street": "Rua Paraíba",
+        "number": "2526",
+        "complement": "",
+        "neighborhood": "Ribeira",
+        "city": "Penedo",
+        "state": "AL",
+        "zip": "74015-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2015-04-15"
+    },
+    {
+      "id": "6d47842a-2dd6-4d53-8dcb-4e59133ff6e6",
+      "name": "Drogaria Centro",
+      "cnpj": "11222333000981",
+      "isActive": true,
+      "address": {
+        "street": "Alameda Santos",
+        "number": "867",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Várzea Grande",
+        "state": "MT",
+        "zip": "29010-090",
+        "country": "Brasil"
+      },
+      "establishedAt": "2016-09-18"
+    },
+    {
+      "id": "e8bdff5f-069e-4c77-a516-24a6a18cf204",
+      "name": "Farmácia Cuiabá Porto",
+      "cnpj": "11222333001081",
+      "isActive": true,
+      "address": {
+        "street": "Av. Sete de Setembro",
+        "number": "1642",
+        "complement": "1º andar",
+        "neighborhood": "Porto",
+        "city": "Cuiabá",
+        "state": "MT",
+        "zip": "90020-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2017-03-18"
+    },
+    {
+      "id": "a10fbf1f-3e7b-4a6d-bc99-dc4c73228f1a",
+      "name": "Farmácia Balneário Camboriú Estados",
+      "cnpj": "11222333001181",
+      "isActive": true,
+      "address": {
+        "street": "Av. Independência",
+        "number": "2407",
+        "complement": "Bloco 1",
+        "neighborhood": "Estados",
+        "city": "Balneário Camboriú",
+        "state": "SC",
+        "zip": "30130-151",
+        "country": "Brasil"
+      },
+      "establishedAt": "2021-04-23"
+    },
+    {
+      "id": "a9882891-bf9e-4de5-9e9e-30d82e65fe9c",
+      "name": "Farmácia Edgar",
+      "cnpj": "11222333001281",
+      "isActive": true,
+      "address": {
+        "street": "Rua Uruguai",
+        "number": "3576",
+        "complement": "Casa",
+        "neighborhood": "Edgar",
+        "city": "Bauru",
+        "state": "SP",
+        "zip": "66015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2018-01-21"
+    },
+    {
+      "id": "02159f3d-95d4-4b3e-ac1c-c7b738b95f94",
+      "name": "Farmácia Petrolina Areia Branca",
+      "cnpj": "11222333001381",
+      "isActive": true,
+      "address": {
+        "street": "Rua Duque de Caxias",
+        "number": "1912",
+        "complement": "",
+        "neighborhood": "Areia Branca",
+        "city": "Petrolina",
+        "state": "PE",
+        "zip": "22020-001",
+        "country": "Brasil"
+      },
+      "establishedAt": "2012-03-15"
+    },
+    {
+      "id": "bb19276d-3a1b-4550-9f19-953f1413c670",
+      "name": "Drogaria São Luís",
+      "cnpj": "11222333001481",
+      "isActive": true,
+      "address": {
+        "street": "Av. Nossa Senhora de Copacabana",
+        "number": "476",
+        "complement": "",
+        "neighborhood": "Jardim Renascença",
+        "city": "São Luís",
+        "state": "MA",
+        "zip": "13015-010",
+        "country": "Brasil"
+      },
+      "establishedAt": "2020-07-25"
+    },
+    {
+      "id": "d37d0871-cdf5-4358-b730-eae008c70e37",
+      "name": "Drogaria Embu das Artes",
+      "cnpj": "11222333001581",
+      "isActive": true,
+      "address": {
+        "street": "Rua Augusta",
+        "number": "1398",
+        "complement": "",
+        "neighborhood": "Santo Eduardo",
+        "city": "Embu das Artes",
+        "state": "SP",
+        "zip": "70386-700",
+        "country": "Brasil"
+      },
+      "establishedAt": "2011-04-06"
+    },
+    {
+      "id": "088f2186-38b0-490c-a3b8-fc68491f9ccb",
+      "name": "Drogaria Sumaré",
+      "cnpj": "11222333001681",
+      "isActive": true,
+      "address": {
+        "street": "Av. Moreira e Silva",
+        "number": "3706",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Sumaré",
+        "state": "SP",
+        "zip": "01320-200",
+        "country": "Brasil"
+      },
+      "establishedAt": "2018-02-04"
+    },
+    {
+      "id": "b322b812-b86a-4208-b9d0-2d937b037763",
+      "name": "Farmácia Ilhéus Centro",
+      "cnpj": "11222333001781",
+      "isActive": true,
+      "address": {
+        "street": "Rua Pamplona",
+        "number": "2413",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Ilhéus",
+        "state": "BA",
+        "zip": "74015-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2024-10-13"
+    },
+    {
+      "id": "c5673400-747c-465f-9fb7-83be5ba14c66",
+      "name": "Farmácia Popular Campina Grande",
+      "cnpj": "11222333001881",
+      "isActive": true,
+      "address": {
+        "street": "Rua General Osório",
+        "number": "1554",
+        "complement": "1º andar",
+        "neighborhood": "Catolé",
+        "city": "Campina Grande",
+        "state": "PB",
+        "zip": "50050-080",
+        "country": "Brasil"
+      },
+      "establishedAt": "2016-08-27"
+    },
+    {
+      "id": "06721bd0-d028-464f-9ff4-367cf6099c0c",
+      "name": "Farmácia Timon Centro",
+      "cnpj": "11222333001981",
+      "isActive": true,
+      "address": {
+        "street": "Rua Funchal",
+        "number": "2418",
+        "complement": "Casa",
+        "neighborhood": "Centro",
+        "city": "Timon",
+        "state": "MA",
+        "zip": "29010-090",
+        "country": "Brasil"
+      },
+      "establishedAt": "2019-07-01"
+    },
+    {
+      "id": "a91cc56c-d787-4ae4-a0fe-91cf8be2eeeb",
+      "name": "Drogaria Aparecida de Goiânia",
+      "cnpj": "11222333002081",
+      "isActive": true,
+      "address": {
+        "street": "Rua Galdino Pimentel",
+        "number": "2768",
+        "complement": "",
+        "neighborhood": "Independência",
+        "city": "Aparecida de Goiânia",
+        "state": "GO",
+        "zip": "90020-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2008-07-19"
+    },
+    {
+      "id": "ff266e36-824c-4b95-b950-f8c8cca65282",
+      "name": "Drogaria Jardim Califórnia",
+      "cnpj": "11222333002181",
+      "isActive": true,
+      "address": {
+        "street": "Rua Quinze de Novembro",
+        "number": "1063",
+        "complement": "",
+        "neighborhood": "Jardim Califórnia",
+        "city": "Três Lagoas",
+        "state": "MS",
+        "zip": "01320-200",
+        "country": "Brasil"
+      },
+      "establishedAt": "2010-04-02"
+    },
+    {
+      "id": "c6e74a3e-dc84-47a3-b013-9ae7d8ffa72e",
+      "name": "Farmácia Passo Fundo São José",
+      "cnpj": "11222333002281",
+      "isActive": true,
+      "address": {
+        "street": "Rua 15 de Novembro",
+        "number": "3004",
+        "complement": "",
+        "neighborhood": "São José",
+        "city": "Passo Fundo",
+        "state": "RS",
+        "zip": "22020-001",
+        "country": "Brasil"
+      },
+      "establishedAt": "2024-01-27"
+    },
+    {
+      "id": "3c404d7a-f23a-420a-9bd1-1df4ac70f0bb",
+      "name": "Farmácia Saúde Centro",
+      "cnpj": "11222333002381",
+      "isActive": true,
+      "address": {
+        "street": "Rua Principal",
+        "number": "495",
+        "complement": "1º andar",
+        "neighborhood": "Centro",
+        "city": "Santa Luzia",
+        "state": "MG",
+        "zip": "50050-080",
+        "country": "Brasil"
+      },
+      "establishedAt": "2011-11-24"
+    },
+    {
+      "id": "b3ee5c1f-92b9-4f94-9334-5a8b1331e775",
+      "name": "Drogaria Bessa",
+      "cnpj": "11222333002481",
+      "isActive": true,
+      "address": {
+        "street": "Rua Peixoto Gomide",
+        "number": "3618",
+        "complement": "Loja 1",
+        "neighborhood": "Bessa",
+        "city": "João Pessoa",
+        "state": "PB",
+        "zip": "22020-001",
+        "country": "Brasil"
+      },
+      "establishedAt": "2019-12-01"
+    },
+    {
+      "id": "9a9da298-1099-47c9-bf48-6d250b4798f4",
+      "name": "Drogaria Boa Vista",
+      "cnpj": "11222333002581",
+      "isActive": true,
+      "address": {
+        "street": "Rua Marechal Deodoro",
+        "number": "2536",
+        "complement": "",
+        "neighborhood": "Mecejana",
+        "city": "Boa Vista",
+        "state": "RR",
+        "zip": "80020-310",
+        "country": "Brasil"
+      },
+      "establishedAt": "2018-02-01"
+    },
+    {
+      "id": "68a3d0dd-818a-4298-a107-fcb8f70cc956",
+      "name": "Drogaria Bela Vista",
+      "cnpj": "11222333002681",
+      "isActive": true,
+      "address": {
+        "street": "Rua Pamplona",
+        "number": "2171",
+        "complement": "",
+        "neighborhood": "Bela Vista",
+        "city": "Colatina",
+        "state": "ES",
+        "zip": "90020-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2023-01-15"
+    },
+    {
+      "id": "b72169df-da56-4b37-a62e-a4bc44efa2a2",
+      "name": "Farmácia Saúde Lagoinha",
+      "cnpj": "11222333002781",
+      "isActive": false,
+      "address": {
+        "street": "Rua Álvares Cabral",
+        "number": "3256",
+        "complement": "",
+        "neighborhood": "Lagoinha",
+        "city": "Ibirité",
+        "state": "MG",
+        "zip": "50050-080",
+        "country": "Brasil"
+      },
+      "establishedAt": "2019-01-14"
+    },
+    {
+      "id": "7de6be7a-0357-45d4-9da9-c86b6459710f",
+      "name": "Farmácia Saúde São João",
+      "cnpj": "11222333002881",
+      "isActive": true,
+      "address": {
+        "street": "Rua XV de Novembro",
+        "number": "3673",
+        "complement": "",
+        "neighborhood": "São João",
+        "city": "Pato Branco",
+        "state": "PR",
+        "zip": "50050-080",
+        "country": "Brasil"
+      },
+      "establishedAt": "2017-02-11"
+    },
+    {
+      "id": "9e60d9c4-8d3d-4549-a92e-60952bc60d35",
+      "name": "Drogaria Centro",
+      "cnpj": "11222333002981",
+      "isActive": true,
+      "address": {
+        "street": "Av. Moreira e Silva",
+        "number": "2174",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Joinville",
+        "state": "SC",
+        "zip": "59015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2017-08-24"
+    },
+    {
+      "id": "91a756fe-3275-42f1-a6a5-fbe221697c05",
+      "name": "Farmácia Caxias do Sul São Pelegrino",
+      "cnpj": "11222333003081",
+      "isActive": true,
+      "address": {
+        "street": "Rua Voluntários da Pátria",
+        "number": "2134",
+        "complement": "",
+        "neighborhood": "São Pelegrino",
+        "city": "Caxias do Sul",
+        "state": "RS",
+        "zip": "01310-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2020-06-16"
+    },
+    {
+      "id": "1daadb4d-3a41-498a-a6dc-3af07774fbfc",
+      "name": "Drogaria Diadema",
+      "cnpj": "11222333003181",
+      "isActive": false,
+      "address": {
+        "street": "Rua Peixoto Gomide",
+        "number": "909",
+        "complement": "",
+        "neighborhood": "Serra",
+        "city": "Diadema",
+        "state": "SP",
+        "zip": "69010-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2024-10-23"
+    },
+    {
+      "id": "45f92815-6136-41b7-ad23-8ef7a57c8926",
+      "name": "Farmácia Costeira",
+      "cnpj": "11222333003281",
+      "isActive": true,
+      "address": {
+        "street": "Av. Nossa Senhora de Copacabana",
+        "number": "1583",
+        "complement": "",
+        "neighborhood": "Costeira",
+        "city": "Paranaguá",
+        "state": "PR",
+        "zip": "30130-151",
+        "country": "Brasil"
+      },
+      "establishedAt": "2008-06-02"
+    },
+    {
+      "id": "26221758-1d08-45aa-b8f2-94ba7d6c89cb",
+      "name": "Farmácia Saúde Ouro Preto",
+      "cnpj": "11222333003381",
+      "isActive": true,
+      "address": {
+        "street": "Rua Uruguai",
+        "number": "887",
+        "complement": "Fundos",
+        "neighborhood": "Ouro Preto",
+        "city": "Arapiraca",
+        "state": "AL",
+        "zip": "66015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2018-02-14"
+    },
+    {
+      "id": "92b4d440-dcce-456f-bfde-db38b1bb045b",
+      "name": "Farmácia Jardim América",
+      "cnpj": "11222333003481",
+      "isActive": true,
+      "address": {
+        "street": "Rua José Paulino",
+        "number": "543",
+        "complement": "",
+        "neighborhood": "Jardim América",
+        "city": "Dourados",
+        "state": "MS",
+        "zip": "59015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2017-10-09"
+    },
+    {
+      "id": "f173317a-1beb-4f51-8936-2ea68a4a3934",
+      "name": "Drogaria Presidente Prudente",
+      "cnpj": "11222333003581",
+      "isActive": true,
+      "address": {
+        "street": "Rua da Consolação",
+        "number": "621",
+        "complement": "Fundos",
+        "neighborhood": "Jardim Marupiara",
+        "city": "Presidente Prudente",
+        "state": "SP",
+        "zip": "90020-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2023-11-08"
+    },
+    {
+      "id": "d5e9d6e7-cc81-4751-8dfc-b38c5ce72246",
+      "name": "Farmácia Daniel Fonseca",
+      "cnpj": "11222333003681",
+      "isActive": true,
+      "address": {
+        "street": "Rua Duque de Caxias",
+        "number": "39",
+        "complement": "",
+        "neighborhood": "Daniel Fonseca",
+        "city": "Uberlândia",
+        "state": "MG",
+        "zip": "60165-121",
+        "country": "Brasil"
+      },
+      "establishedAt": "2010-07-09"
+    },
+    {
+      "id": "6399a801-cbe5-4b6b-b294-0c799268ae1f",
+      "name": "Farmácia Jaraguá do Sul Centenário",
+      "cnpj": "11222333003781",
+      "isActive": true,
+      "address": {
+        "street": "Rua Vergueiro",
+        "number": "1416",
+        "complement": "",
+        "neighborhood": "Centenário",
+        "city": "Jaraguá do Sul",
+        "state": "SC",
+        "zip": "29010-090",
+        "country": "Brasil"
+      },
+      "establishedAt": "2019-08-01"
+    },
+    {
+      "id": "bffff914-d745-49c1-8f76-58f57d287ede",
+      "name": "Drogaria Fortaleza",
+      "cnpj": "11222333003881",
+      "isActive": true,
+      "address": {
+        "street": "Rua XV de Novembro",
+        "number": "2844",
+        "complement": "Sl 101",
+        "neighborhood": "Cambeba",
+        "city": "Fortaleza",
+        "state": "CE",
+        "zip": "74015-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2019-11-25"
+    },
+    {
+      "id": "7866275b-b3a9-4b6c-9c04-3db264945647",
+      "name": "Farmácia Ponta Verde",
+      "cnpj": "11222333003981",
+      "isActive": true,
+      "address": {
+        "street": "Rua Barão do Rio Branco",
+        "number": "3569",
+        "complement": "",
+        "neighborhood": "Ponta Verde",
+        "city": "Maceió",
+        "state": "AL",
+        "zip": "01310-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2015-10-05"
+    },
+    {
+      "id": "6133d6ed-e75b-4415-98d0-6fbf189f16da",
+      "name": "Drogaria Centro",
+      "cnpj": "11222333004081",
+      "isActive": true,
+      "address": {
+        "street": "Rua Felipe Schmidt",
+        "number": "3569",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "São José dos Campos",
+        "state": "SP",
+        "zip": "01452-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2024-09-21"
+    },
+    {
+      "id": "9f8b2615-4863-4ce9-9209-36eb059eeb98",
+      "name": "Farmácia Popular Imperatriz",
+      "cnpj": "11222333004181",
+      "isActive": true,
+      "address": {
+        "street": "Rua da Consolação",
+        "number": "3642",
+        "complement": "",
+        "neighborhood": "Cacau",
+        "city": "Imperatriz",
+        "state": "MA",
+        "zip": "29010-090",
+        "country": "Brasil"
+      },
+      "establishedAt": "2020-02-14"
+    },
+    {
+      "id": "8ad07a0f-1855-43ca-a5ed-f7d79162b9b2",
+      "name": "Farmácia Maria Antônia",
+      "cnpj": "11222333004281",
+      "isActive": true,
+      "address": {
+        "street": "Rua Visconde de Pirajá",
+        "number": "1144",
+        "complement": "",
+        "neighborhood": "Maria Antônia",
+        "city": "Sumaré",
+        "state": "SP",
+        "zip": "59015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2015-02-28"
+    },
+    {
+      "id": "4c0e9a88-a421-44e6-876f-b86a81db0f98",
+      "name": "Farmácia Pres. Altino",
+      "cnpj": "11222333004381",
+      "isActive": true,
+      "address": {
+        "street": "Rua Dias Ferreira",
+        "number": "3821",
+        "complement": "Fundos",
+        "neighborhood": "Pres. Altino",
+        "city": "Osasco",
+        "state": "SP",
+        "zip": "70386-700",
+        "country": "Brasil"
+      },
+      "establishedAt": "2021-11-08"
+    },
+    {
+      "id": "c3dec029-5801-44d2-abe0-a2b792e2310e",
+      "name": "Farmácia Centro",
+      "cnpj": "11222333004481",
+      "isActive": true,
+      "address": {
+        "street": "Rua Conselheiro Dantas",
+        "number": "694",
+        "complement": "Sl 101",
+        "neighborhood": "Centro",
+        "city": "Caucaia",
+        "state": "CE",
+        "zip": "01452-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2018-10-22"
+    },
+    {
+      "id": "35b3c6ec-c399-4f21-9337-f98e9ee3bc6e",
+      "name": "Farmácia Saúde Buritizal",
+      "cnpj": "11222333004581",
+      "isActive": true,
+      "address": {
+        "street": "Rua Voluntários da Pátria",
+        "number": "2731",
+        "complement": "Sala 2",
+        "neighborhood": "Buritizal",
+        "city": "Macapá",
+        "state": "AP",
+        "zip": "59015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2018-11-27"
+    },
+    {
+      "id": "42ce2911-5860-4306-8d4d-5945c32b2a2a",
+      "name": "Farmácia Popular Indaiatuba",
+      "cnpj": "11222333004681",
+      "isActive": true,
+      "address": {
+        "street": "Rua Florêncio de Abreu",
+        "number": "2645",
+        "complement": "",
+        "neighborhood": "Jardim Morumbi",
+        "city": "Indaiatuba",
+        "state": "SP",
+        "zip": "69010-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2024-10-10"
+    },
+    {
+      "id": "0e741fa0-ef0f-45c3-8e1f-24d1d10e8396",
+      "name": "Drogaria Tubarão",
+      "cnpj": "11222333004781",
+      "isActive": true,
+      "address": {
+        "street": "Rua dos Andradas",
+        "number": "2434",
+        "complement": "",
+        "neighborhood": "Humaitá",
+        "city": "Tubarão",
+        "state": "SC",
+        "zip": "59015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2014-10-02"
+    },
+    {
+      "id": "16b612e7-710c-490b-9bb5-25768279bb3b",
+      "name": "Drogaria Sete Lagoas",
+      "cnpj": "11222333004881",
+      "isActive": true,
+      "address": {
+        "street": "Rua Dom Pedro II",
+        "number": "2978",
+        "complement": "",
+        "neighborhood": "Industrial",
+        "city": "Sete Lagoas",
+        "state": "MG",
+        "zip": "13015-010",
+        "country": "Brasil"
+      },
+      "establishedAt": "2019-01-25"
+    },
+    {
+      "id": "74704628-a5a6-42de-a49b-9df69dc6ddea",
+      "name": "Farmácia Salgado",
+      "cnpj": "11222333004981",
+      "isActive": true,
+      "address": {
+        "street": "Rua Teodoro Sampaio",
+        "number": "3334",
+        "complement": "1º andar",
+        "neighborhood": "Salgado",
+        "city": "Caruaru",
+        "state": "PE",
+        "zip": "66015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2019-07-23"
+    },
+    {
+      "id": "65fe6024-daf9-4217-b4e2-d4c216e448ba",
+      "name": "Farmácia Saúde Brás",
+      "cnpj": "11222333005081",
+      "isActive": true,
+      "address": {
+        "street": "Av. Independência",
+        "number": "2290",
+        "complement": "",
+        "neighborhood": "Brás",
+        "city": "São Paulo",
+        "state": "SP",
+        "zip": "59015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2014-03-15"
+    },
+    {
+      "id": "504516b2-c331-47cb-a198-fbad49bb499b",
+      "name": "Drogaria Gleba Palhano",
+      "cnpj": "11222333005181",
+      "isActive": true,
+      "address": {
+        "street": "Alameda Santos",
+        "number": "977",
+        "complement": "",
+        "neighborhood": "Gleba Palhano",
+        "city": "Londrina",
+        "state": "PR",
+        "zip": "70386-700",
+        "country": "Brasil"
+      },
+      "establishedAt": "2023-04-27"
+    },
+    {
+      "id": "c5cfd4ee-6068-4d57-b920-c806b06c11b0",
+      "name": "Drogaria Belo Horizonte",
+      "cnpj": "11222333005281",
+      "isActive": true,
+      "address": {
+        "street": "Rua Sete de Abril",
+        "number": "2959",
+        "complement": "Loja 1",
+        "neighborhood": "Serra",
+        "city": "Belo Horizonte",
+        "state": "MG",
+        "zip": "59015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2012-11-02"
+    },
+    {
+      "id": "5fa57558-9807-40bc-aab2-4349732fb960",
+      "name": "Farmácia Saúde Junco",
+      "cnpj": "11222333005381",
+      "isActive": true,
+      "address": {
+        "street": "Rua Conselheiro Dantas",
+        "number": "2502",
+        "complement": "Sl 101",
+        "neighborhood": "Junco",
+        "city": "Picos",
+        "state": "PI",
+        "zip": "66015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2018-05-22"
+    },
+    {
+      "id": "93ed8c7d-7f21-464f-b423-16fbf749107f",
+      "name": "Farmácia Popular Rondonópolis",
+      "cnpj": "11222333005481",
+      "isActive": true,
+      "address": {
+        "street": "Rua dos Andradas",
+        "number": "445",
+        "complement": "Sala 2",
+        "neighborhood": "Centro",
+        "city": "Rondonópolis",
+        "state": "MT",
+        "zip": "60165-121",
+        "country": "Brasil"
+      },
+      "establishedAt": "2017-06-17"
+    },
+    {
+      "id": "e4fa8496-8cf9-4e67-8921-5d002bec8807",
+      "name": "Drogaria Pompeu",
+      "cnpj": "11222333005581",
+      "isActive": true,
+      "address": {
+        "street": "Av. Desembargador Moreira",
+        "number": "576",
+        "complement": "",
+        "neighborhood": "Pompeu",
+        "city": "Sabará",
+        "state": "MG",
+        "zip": "88010-002",
+        "country": "Brasil"
+      },
+      "establishedAt": "2023-12-21"
+    },
+    {
+      "id": "8500a38f-5832-4946-8995-93f49ca8d63d",
+      "name": "Farmácia Popular Ananindeua",
+      "cnpj": "11222333005681",
+      "isActive": true,
+      "address": {
+        "street": "Rua Estados Unidos",
+        "number": "1947",
+        "complement": "Casa",
+        "neighborhood": "Águas Lindas",
+        "city": "Ananindeua",
+        "state": "PA",
+        "zip": "60165-121",
+        "country": "Brasil"
+      },
+      "establishedAt": "2013-11-08"
+    },
+    {
+      "id": "48a53d4b-ea7f-417b-8978-c974614e95d9",
+      "name": "Farmácia Joinville Anita Garibaldi",
+      "cnpj": "11222333005781",
+      "isActive": true,
+      "address": {
+        "street": "Rua Felipe Schmidt",
+        "number": "1448",
+        "complement": "Sala 2",
+        "neighborhood": "Anita Garibaldi",
+        "city": "Joinville",
+        "state": "SC",
+        "zip": "59015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2013-04-28"
+    },
+    {
+      "id": "375b08f9-e678-4abc-bec4-0757344f443f",
+      "name": "Drogaria Balsas",
+      "cnpj": "11222333005881",
+      "isActive": true,
+      "address": {
+        "street": "Rua Pernambuco",
+        "number": "2897",
+        "complement": "Sobrado",
+        "neighborhood": "Jardim Tropical",
+        "city": "Balsas",
+        "state": "MA",
+        "zip": "22020-001",
+        "country": "Brasil"
+      },
+      "establishedAt": "2005-06-05"
+    },
+    {
+      "id": "63c7525c-0ecd-47ab-92c9-9cbce4e83ba3",
+      "name": "Farmácia Trindade",
+      "cnpj": "11222333005981",
+      "isActive": true,
+      "address": {
+        "street": "Rua dos Pinheiros",
+        "number": "3378",
+        "complement": "Sl 101",
+        "neighborhood": "Trindade",
+        "city": "Florianópolis",
+        "state": "SC",
+        "zip": "69010-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2010-02-10"
+    },
+    {
+      "id": "d23b1dd5-ac9a-45ee-bc2e-c2297943bc55",
+      "name": "Drogaria Barra Alegre",
+      "cnpj": "11222333006081",
+      "isActive": true,
+      "address": {
+        "street": "Rua dos Andradas",
+        "number": "622",
+        "complement": "Casa",
+        "neighborhood": "Barra Alegre",
+        "city": "Ipatinga",
+        "state": "MG",
+        "zip": "50050-080",
+        "country": "Brasil"
+      },
+      "establishedAt": "2019-03-26"
+    },
+    {
+      "id": "da32f035-1b59-4fa2-ba9a-ad61ffb69101",
+      "name": "Drogaria João Pessoa",
+      "cnpj": "11222333006181",
+      "isActive": true,
+      "address": {
+        "street": "Rua Chile",
+        "number": "1524",
+        "complement": "",
+        "neighborhood": "Tambaú",
+        "city": "João Pessoa",
+        "state": "PB",
+        "zip": "90020-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2013-01-19"
+    },
+    {
+      "id": "528fc157-1994-4ee4-a82c-8a2243c5415a",
+      "name": "Farmácia Feira de Santana Brasília",
+      "cnpj": "11222333006281",
+      "isActive": false,
+      "address": {
+        "street": "Av. Independência",
+        "number": "1493",
+        "complement": "",
+        "neighborhood": "Brasília",
+        "city": "Feira de Santana",
+        "state": "BA",
+        "zip": "69010-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2020-02-27"
+    },
+    {
+      "id": "dd0f9b81-6d3d-4245-9289-18410a87e6d5",
+      "name": "Drogaria Campinas",
+      "cnpj": "11222333006381",
+      "isActive": true,
+      "address": {
+        "street": "Rua do Imperador",
+        "number": "3478",
+        "complement": "",
+        "neighborhood": "Guanabara",
+        "city": "Campinas",
+        "state": "SP",
+        "zip": "30130-151",
+        "country": "Brasil"
+      },
+      "establishedAt": "2013-06-13"
+    },
+    {
+      "id": "1dbeec84-1304-4154-96ee-bb66f3d0dece",
+      "name": "Farmácia Popular Guarulhos",
+      "cnpj": "11222333006481",
+      "isActive": false,
+      "address": {
+        "street": "Rua Conselheiro Dantas",
+        "number": "2670",
+        "complement": "1º andar",
+        "neighborhood": "Pimentas",
+        "city": "Guarulhos",
+        "state": "SP",
+        "zip": "50050-080",
+        "country": "Brasil"
+      },
+      "establishedAt": "2010-08-11"
+    },
+    {
+      "id": "a677cfe5-fc74-4055-9f12-31a78d590a58",
+      "name": "Farmácia Centro",
+      "cnpj": "11222333006581",
+      "isActive": true,
+      "address": {
+        "street": "Rua Dom Pedro II",
+        "number": "1203",
+        "complement": "1º andar",
+        "neighborhood": "Centro",
+        "city": "Santo André",
+        "state": "SP",
+        "zip": "90020-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2010-03-16"
+    },
+    {
+      "id": "cb639499-6303-4bd0-9142-9affc1b7c8c3",
+      "name": "Drogaria Embu das Artes",
+      "cnpj": "11222333006681",
+      "isActive": true,
+      "address": {
+        "street": "Rua General Osório",
+        "number": "1385",
+        "complement": "Loja 1",
+        "neighborhood": "Santo Eduardo",
+        "city": "Embu das Artes",
+        "state": "SP",
+        "zip": "66015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2021-06-19"
+    },
+    {
+      "id": "deea1d9c-ac70-4615-baf0-8ec19337961c",
+      "name": "Farmácia Saúde Vila dos Pescadores",
+      "cnpj": "11222333006781",
+      "isActive": true,
+      "address": {
+        "street": "Rua Pernambuco",
+        "number": "895",
+        "complement": "",
+        "neighborhood": "Vila dos Pescadores",
+        "city": "Paranaguá",
+        "state": "PR",
+        "zip": "29010-090",
+        "country": "Brasil"
+      },
+      "establishedAt": "2024-09-16"
+    },
+    {
+      "id": "64d9ad36-f6e7-400e-8f34-b793717bcefc",
+      "name": "Farmácia Junco",
+      "cnpj": "11222333006881",
+      "isActive": true,
+      "address": {
+        "street": "Alameda Santos",
+        "number": "1909",
+        "complement": "",
+        "neighborhood": "Junco",
+        "city": "Picos",
+        "state": "PI",
+        "zip": "40060-001",
+        "country": "Brasil"
+      },
+      "establishedAt": "2015-06-01"
+    },
+    {
+      "id": "2d651abc-f236-4ab7-b4eb-b2b8a9f61a1e",
+      "name": "Drogaria Junco",
+      "cnpj": "11222333006981",
+      "isActive": true,
+      "address": {
+        "street": "Av. Independência",
+        "number": "864",
+        "complement": "",
+        "neighborhood": "Junco",
+        "city": "Picos",
+        "state": "PI",
+        "zip": "90020-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2019-09-09"
+    },
+    {
+      "id": "d23199ac-001c-4944-b4e8-b48400ad49c5",
+      "name": "Drogaria Cariacica",
+      "cnpj": "11222333007081",
+      "isActive": true,
+      "address": {
+        "street": "Rua Vergueiro",
+        "number": "805",
+        "complement": "",
+        "neighborhood": "Campo Grande",
+        "city": "Cariacica",
+        "state": "ES",
+        "zip": "90020-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2024-12-03"
+    },
+    {
+      "id": "a06d192f-64de-48e7-abec-cf395eade4ee",
+      "name": "Farmácia Saúde Vila Aurora",
+      "cnpj": "11222333007181",
+      "isActive": true,
+      "address": {
+        "street": "Av. Beira Mar",
+        "number": "3125",
+        "complement": "",
+        "neighborhood": "Vila Aurora",
+        "city": "Rondonópolis",
+        "state": "MT",
+        "zip": "74015-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2022-08-25"
+    },
+    {
+      "id": "f78520b6-c896-4e8f-a7b0-499041375a7d",
+      "name": "Drogaria Centro",
+      "cnpj": "11222333007281",
+      "isActive": true,
+      "address": {
+        "street": "Rua Duque de Caxias",
+        "number": "2022",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Balneário Camboriú",
+        "state": "SC",
+        "zip": "40060-001",
+        "country": "Brasil"
+      },
+      "establishedAt": "2016-05-18"
+    },
+    {
+      "id": "801c409c-18ef-4d05-83cc-af68b76be338",
+      "name": "Farmácia Popular Montes Claros",
+      "cnpj": "11222333007381",
+      "isActive": true,
+      "address": {
+        "street": "Av. Hermes da Fonseca",
+        "number": "1485",
+        "complement": "",
+        "neighborhood": "Santos Reis",
+        "city": "Montes Claros",
+        "state": "MG",
+        "zip": "01310-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2017-01-10"
+    },
+    {
+      "id": "9f87c199-03fd-4228-8466-f65c7afa297b",
+      "name": "Farmácia Araraquara Centro",
+      "cnpj": "11222333007481",
+      "isActive": true,
+      "address": {
+        "street": "Rua da Glória",
+        "number": "2244",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Araraquara",
+        "state": "SP",
+        "zip": "70386-700",
+        "country": "Brasil"
+      },
+      "establishedAt": "2024-02-27"
+    },
+    {
+      "id": "3bfcc50d-17a8-41e8-9b21-3d8e37904afa",
+      "name": "Farmácia Popular Lagarto",
+      "cnpj": "11222333007581",
+      "isActive": true,
+      "address": {
+        "street": "Alameda Franca",
+        "number": "1915",
+        "complement": "Bloco 1",
+        "neighborhood": "Prado",
+        "city": "Lagarto",
+        "state": "SE",
+        "zip": "01320-200",
+        "country": "Brasil"
+      },
+      "establishedAt": "2015-09-18"
+    },
+    {
+      "id": "6e6957e3-f02e-46b8-84a8-adf74b7ae36b",
+      "name": "Farmácia Saúde Ouro Preto",
+      "cnpj": "11222333007681",
+      "isActive": true,
+      "address": {
+        "street": "Av. Afonso Pena",
+        "number": "551",
+        "complement": "Fundos",
+        "neighborhood": "Ouro Preto",
+        "city": "Arapiraca",
+        "state": "AL",
+        "zip": "30130-151",
+        "country": "Brasil"
+      },
+      "establishedAt": "2020-01-21"
+    },
+    {
+      "id": "5918bcce-1d27-4e3d-900c-6ec9f5c4976b",
+      "name": "Farmácia Popular Penedo",
+      "cnpj": "11222333007781",
+      "isActive": true,
+      "address": {
+        "street": "Rua Cidade de Santos",
+        "number": "2564",
+        "complement": "",
+        "neighborhood": "Ribeira",
+        "city": "Penedo",
+        "state": "AL",
+        "zip": "60165-121",
+        "country": "Brasil"
+      },
+      "establishedAt": "2019-11-14"
+    },
+    {
+      "id": "f1020ca7-b9ea-4aca-acf4-28a9bf4308c7",
+      "name": "Drogaria Jardim Renascença",
+      "cnpj": "11222333007881",
+      "isActive": false,
+      "address": {
+        "street": "Rua Voluntários da Pátria",
+        "number": "8",
+        "complement": "1º andar",
+        "neighborhood": "Jardim Renascença",
+        "city": "São Luís",
+        "state": "MA",
+        "zip": "22020-001",
+        "country": "Brasil"
+      },
+      "establishedAt": "2023-01-02"
+    },
+    {
+      "id": "661dec8e-6b81-40ea-8eb8-a8b55bc24d8d",
+      "name": "Farmácia Picos Parque de Exposição",
+      "cnpj": "11222333007981",
+      "isActive": true,
+      "address": {
+        "street": "Rua Vergueiro",
+        "number": "3095",
+        "complement": "Fundos",
+        "neighborhood": "Parque de Exposição",
+        "city": "Picos",
+        "state": "PI",
+        "zip": "88010-002",
+        "country": "Brasil"
+      },
+      "establishedAt": "2020-12-21"
+    },
+    {
+      "id": "2b36d14e-432f-4d10-9fb1-c1c3df9b7416",
+      "name": "Drogaria Casa Caiada",
+      "cnpj": "11222333008081",
+      "isActive": true,
+      "address": {
+        "street": "Rua 15 de Novembro",
+        "number": "3156",
+        "complement": "Loja A",
+        "neighborhood": "Casa Caiada",
+        "city": "Olinda",
+        "state": "PE",
+        "zip": "69010-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2023-02-24"
+    },
+    {
+      "id": "539d6e46-df02-4126-a149-8c1df2a6e7b1",
+      "name": "Farmácia Rio do Sul Centro",
+      "cnpj": "11222333008181",
+      "isActive": true,
+      "address": {
+        "street": "Rua Paraná",
+        "number": "2502",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Rio do Sul",
+        "state": "SC",
+        "zip": "01452-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2019-09-10"
+    },
+    {
+      "id": "479f8525-5c38-45a6-9cc4-e92bf6d8195b",
+      "name": "Drogaria Santarém",
+      "cnpj": "11222333008281",
+      "isActive": true,
+      "address": {
+        "street": "Rua Floriano Peixoto",
+        "number": "3540",
+        "complement": "",
+        "neighborhood": "Uruará",
+        "city": "Santarém",
+        "state": "PA",
+        "zip": "69010-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2018-03-15"
+    },
+    {
+      "id": "4b17c8c6-0e34-436c-afd9-934ac346e35f",
+      "name": "Drogaria Umarizal",
+      "cnpj": "11222333008381",
+      "isActive": true,
+      "address": {
+        "street": "Rua Coronel Moreira Cesar",
+        "number": "202",
+        "complement": "Casa",
+        "neighborhood": "Umarizal",
+        "city": "Belém",
+        "state": "PA",
+        "zip": "90020-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2023-02-13"
+    },
+    {
+      "id": "e6363ac3-e0d1-4adc-969a-ef9aa0e3b14a",
+      "name": "Drogaria Bauru",
+      "cnpj": "11222333008481",
+      "isActive": true,
+      "address": {
+        "street": "Rua Galdino Pimentel",
+        "number": "556",
+        "complement": "Galpão 3",
+        "neighborhood": "Edgar",
+        "city": "Bauru",
+        "state": "SP",
+        "zip": "88010-002",
+        "country": "Brasil"
+      },
+      "establishedAt": "2014-09-14"
+    },
+    {
+      "id": "cd8749cd-6993-47c2-b4cd-a3291fef1151",
+      "name": "Farmácia Guarapuava Bonsucesso",
+      "cnpj": "11222333008581",
+      "isActive": true,
+      "address": {
+        "street": "Av. Moreira e Silva",
+        "number": "1370",
+        "complement": "",
+        "neighborhood": "Bonsucesso",
+        "city": "Guarapuava",
+        "state": "PR",
+        "zip": "74015-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2011-09-11"
+    },
+    {
+      "id": "c4bc3124-eee9-4a90-ae5f-1c1a77b5b28e",
+      "name": "Farmácia Centro",
+      "cnpj": "11222333008681",
+      "isActive": true,
+      "address": {
+        "street": "Av. Rio Branco",
+        "number": "3640",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Dourados",
+        "state": "MS",
+        "zip": "74015-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2016-11-11"
+    },
+    {
+      "id": "e8d33239-ff07-41f1-9793-aa030f9dcf62",
+      "name": "Farmácia Curitiba Santa Felicidade",
+      "cnpj": "11222333008781",
+      "isActive": true,
+      "address": {
+        "street": "Rua Dom Pedro II",
+        "number": "1901",
+        "complement": "Bloco 1",
+        "neighborhood": "Santa Felicidade",
+        "city": "Curitiba",
+        "state": "PR",
+        "zip": "29010-090",
+        "country": "Brasil"
+      },
+      "establishedAt": "2010-10-19"
+    },
+    {
+      "id": "4c953e25-adf3-4cac-9576-654c8461a096",
+      "name": "Farmácia Saúde Centro",
+      "cnpj": "11222333008881",
+      "isActive": true,
+      "address": {
+        "street": "Rua Peixoto Gomide",
+        "number": "1408",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Jaraguá do Sul",
+        "state": "SC",
+        "zip": "70386-700",
+        "country": "Brasil"
+      },
+      "establishedAt": "2014-04-13"
+    },
+    {
+      "id": "ca897c6c-5d20-49ad-926e-1d9f054ef83e",
+      "name": "Farmácia Santa Rosa",
+      "cnpj": "11222333008981",
+      "isActive": true,
+      "address": {
+        "street": "Rua do Comércio",
+        "number": "379",
+        "complement": "",
+        "neighborhood": "Santa Rosa",
+        "city": "Niterói",
+        "state": "RJ",
+        "zip": "01320-200",
+        "country": "Brasil"
+      },
+      "establishedAt": "2020-09-20"
+    },
+    {
+      "id": "5d65569a-ca72-4e70-ae55-6baa920ebf98",
+      "name": "Farmácia Saúde Jardim Oratório",
+      "cnpj": "11222333009081",
+      "isActive": true,
+      "address": {
+        "street": "Rua Florêncio de Abreu",
+        "number": "1601",
+        "complement": "",
+        "neighborhood": "Jardim Oratório",
+        "city": "Mauá",
+        "state": "SP",
+        "zip": "50050-080",
+        "country": "Brasil"
+      },
+      "establishedAt": "2024-02-19"
+    },
+    {
+      "id": "ce805d2e-c29b-4ed1-af09-a19d117dd1d7",
+      "name": "Drogaria Setor Sul",
+      "cnpj": "11222333009181",
+      "isActive": true,
+      "address": {
+        "street": "Rua Paraíba",
+        "number": "2185",
+        "complement": "Sobrado",
+        "neighborhood": "Setor Sul",
+        "city": "Gama",
+        "state": "DF",
+        "zip": "69010-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2018-02-15"
+    },
+    {
+      "id": "30312463-5ca4-4339-8636-a5a28bbf1762",
+      "name": "Farmácia Parque dos Eucaliptos",
+      "cnpj": "11222333009281",
+      "isActive": true,
+      "address": {
+        "street": "Rua dos Pinheiros",
+        "number": "3466",
+        "complement": "1º andar",
+        "neighborhood": "Parque dos Eucaliptos",
+        "city": "Gravataí",
+        "state": "RS",
+        "zip": "74015-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2023-12-07"
+    },
+    {
+      "id": "0a5d97f8-224b-4524-92e7-c882fdbdbd7d",
+      "name": "Farmácia Centro",
+      "cnpj": "11222333009381",
+      "isActive": true,
+      "address": {
+        "street": "Rua dos Andradas",
+        "number": "390",
+        "complement": "Fundos",
+        "neighborhood": "Centro",
+        "city": "Londrina",
+        "state": "PR",
+        "zip": "90020-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2011-11-06"
+    },
+    {
+      "id": "f062e86f-9327-4240-be69-b6f947975211",
+      "name": "Farmácia Saúde Boa Vista",
+      "cnpj": "11222333009481",
+      "isActive": false,
+      "address": {
+        "street": "Rua Cidade de Santos",
+        "number": "2895",
+        "complement": "Sala 2",
+        "neighborhood": "Boa Vista",
+        "city": "Sete Lagoas",
+        "state": "MG",
+        "zip": "80020-310",
+        "country": "Brasil"
+      },
+      "establishedAt": "2015-04-25"
+    },
+    {
+      "id": "8e4107ce-c7fa-4b5e-b41d-93942a71f88b",
+      "name": "Farmácia Popular Marabá",
+      "cnpj": "11222333009581",
+      "isActive": false,
+      "address": {
+        "street": "Rua XV de Novembro",
+        "number": "2904",
+        "complement": "",
+        "neighborhood": "Nova Marabá",
+        "city": "Marabá",
+        "state": "PA",
+        "zip": "50050-080",
+        "country": "Brasil"
+      },
+      "establishedAt": "2015-11-07"
+    },
+    {
+      "id": "a3367a43-704a-438b-9668-e5c2f88d5f43",
+      "name": "Farmácia Saúde Barão Geraldo",
+      "cnpj": "11222333009681",
+      "isActive": true,
+      "address": {
+        "street": "Av. Desembargador Moreira",
+        "number": "3265",
+        "complement": "",
+        "neighborhood": "Barão Geraldo",
+        "city": "Campinas",
+        "state": "SP",
+        "zip": "88010-002",
+        "country": "Brasil"
+      },
+      "establishedAt": "2017-12-18"
+    },
+    {
+      "id": "76965163-992d-4bc2-97b0-8df176a18e9f",
+      "name": "Farmácia Saúde Parque Furquim",
+      "cnpj": "11222333009781",
+      "isActive": true,
+      "address": {
+        "street": "Rua Conselheiro Dantas",
+        "number": "3285",
+        "complement": "",
+        "neighborhood": "Parque Furquim",
+        "city": "Presidente Prudente",
+        "state": "SP",
+        "zip": "59015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2018-08-16"
+    },
+    {
+      "id": "b414c9b9-1889-4f6e-afa5-45701ec775d8",
+      "name": "Drogaria Sabará",
+      "cnpj": "11222333009881",
+      "isActive": true,
+      "address": {
+        "street": "Rua do Príncipe",
+        "number": "3990",
+        "complement": "",
+        "neighborhood": "Roças Novas",
+        "city": "Sabará",
+        "state": "MG",
+        "zip": "30130-151",
+        "country": "Brasil"
+      },
+      "establishedAt": "2023-09-23"
+    },
+    {
+      "id": "09d3ae8a-4dfb-4573-8952-fafcfd9149e3",
+      "name": "Farmácia Popular Timon",
+      "cnpj": "11222333009981",
+      "isActive": true,
+      "address": {
+        "street": "Rua XV de Novembro",
+        "number": "3248",
+        "complement": "",
+        "neighborhood": "Planalto Formosa",
+        "city": "Timon",
+        "state": "MA",
+        "zip": "59015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2007-10-07"
+    },
+    {
+      "id": "ef633ac8-5306-43c2-a67b-bbb4b8fd89ae",
+      "name": "Farmácia Popular Santa Maria",
+      "cnpj": "11222333010081",
+      "isActive": true,
+      "address": {
+        "street": "Rua Araújo",
+        "number": "2607",
+        "complement": "",
+        "neighborhood": "Tancredo Neves",
+        "city": "Santa Maria",
+        "state": "RS",
+        "zip": "70386-700",
+        "country": "Brasil"
+      },
+      "establishedAt": "2024-05-25"
+    },
+    {
+      "id": "f3254d95-6ca6-47be-a482-982759056baa",
+      "name": "Drogaria Montes Claros",
+      "cnpj": "11222333010181",
+      "isActive": true,
+      "address": {
+        "street": "Rua Pamplona",
+        "number": "2429",
+        "complement": "",
+        "neighborhood": "Major Prates",
+        "city": "Montes Claros",
+        "state": "MG",
+        "zip": "13015-010",
+        "country": "Brasil"
+      },
+      "establishedAt": "2013-06-19"
+    },
+    {
+      "id": "592742bb-a931-4000-9ca8-fd6ef6961981",
+      "name": "Farmácia Popular Diadema",
+      "cnpj": "11222333010281",
+      "isActive": true,
+      "address": {
+        "street": "Rua Araújo",
+        "number": "3945",
+        "complement": "",
+        "neighborhood": "Eldorado",
+        "city": "Diadema",
+        "state": "SP",
+        "zip": "59015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2017-11-27"
+    },
+    {
+      "id": "41ee71ed-efa4-41de-96b4-6f212e3d5dc7",
+      "name": "Drogaria Parque de Exposição",
+      "cnpj": "11222333010381",
+      "isActive": true,
+      "address": {
+        "street": "Rua do Hospício",
+        "number": "308",
+        "complement": "Bloco 1",
+        "neighborhood": "Parque de Exposição",
+        "city": "Picos",
+        "state": "PI",
+        "zip": "29010-090",
+        "country": "Brasil"
+      },
+      "establishedAt": "2014-09-05"
+    },
+    {
+      "id": "1a556b12-4c7c-4e46-b44f-e617e052c1c1",
+      "name": "Farmácia Campo Grande Monte Castelo",
+      "cnpj": "11222333010481",
+      "isActive": true,
+      "address": {
+        "street": "Av. Paulista",
+        "number": "3612",
+        "complement": "",
+        "neighborhood": "Monte Castelo",
+        "city": "Campo Grande",
+        "state": "MS",
+        "zip": "29010-090",
+        "country": "Brasil"
+      },
+      "establishedAt": "2019-04-08"
+    },
+    {
+      "id": "738263cb-9401-4697-a3e5-876ec76a63f2",
+      "name": "Farmácia Popular Juazeiro",
+      "cnpj": "11222333010581",
+      "isActive": true,
+      "address": {
+        "street": "Rua Martins Fontes",
+        "number": "1223",
+        "complement": "Sl 101",
+        "neighborhood": "João XXIII",
+        "city": "Juazeiro",
+        "state": "BA",
+        "zip": "30130-151",
+        "country": "Brasil"
+      },
+      "establishedAt": "2012-06-12"
+    },
+    {
+      "id": "a4335083-2ab2-4890-ad83-6c5da4f2bb1a",
+      "name": "Drogaria Espraiado",
+      "cnpj": "11222333010681",
+      "isActive": true,
+      "address": {
+        "street": "Av. Boa Viagem",
+        "number": "667",
+        "complement": "",
+        "neighborhood": "Espraiado",
+        "city": "Gravataí",
+        "state": "RS",
+        "zip": "01320-200",
+        "country": "Brasil"
+      },
+      "establishedAt": "2015-02-17"
+    },
+    {
+      "id": "e8bad61b-3099-44b0-a4ec-5ff6f5cbd6aa",
+      "name": "Farmácia Saúde Aldeota",
+      "cnpj": "11222333010781",
+      "isActive": true,
+      "address": {
+        "street": "Rua General Osório",
+        "number": "1089",
+        "complement": "",
+        "neighborhood": "Aldeota",
+        "city": "Fortaleza",
+        "state": "CE",
+        "zip": "90020-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2011-11-15"
+    },
+    {
+      "id": "d42d1420-7a73-4c90-ad62-a2034b4d40d6",
+      "name": "Farmácia Popular Petrolina",
+      "cnpj": "11222333010881",
+      "isActive": false,
+      "address": {
+        "street": "Av. Hermes da Fonseca",
+        "number": "3531",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Petrolina",
+        "state": "PE",
+        "zip": "74015-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2010-08-04"
+    },
+    {
+      "id": "6e92f852-c00c-420d-8d60-a8a873901521",
+      "name": "Drogaria Vitória",
+      "cnpj": "11222333010981",
+      "isActive": true,
+      "address": {
+        "street": "Av. Presidente Vargas",
+        "number": "1459",
+        "complement": "",
+        "neighborhood": "Praia do Canto",
+        "city": "Vitória",
+        "state": "ES",
+        "zip": "01310-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2015-10-23"
+    },
+    {
+      "id": "2bfab44b-20b1-4bc0-b46d-060fe71d723f",
+      "name": "Farmácia Popular Osasco",
+      "cnpj": "11222333011081",
+      "isActive": true,
+      "address": {
+        "street": "Rua Marechal Deodoro",
+        "number": "2336",
+        "complement": "",
+        "neighborhood": "Km 18",
+        "city": "Osasco",
+        "state": "SP",
+        "zip": "66015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2024-06-13"
+    },
+    {
+      "id": "b3822a8e-e412-413a-87fd-d89cb9767f0d",
+      "name": "Drogaria Patos",
+      "cnpj": "11222333011181",
+      "isActive": false,
+      "address": {
+        "street": "Av. Afonso Pena",
+        "number": "311",
+        "complement": "Sobrado",
+        "neighborhood": "Salgadinho",
+        "city": "Patos",
+        "state": "PB",
+        "zip": "13015-010",
+        "country": "Brasil"
+      },
+      "establishedAt": "2014-11-19"
+    },
+    {
+      "id": "25b48557-75b5-49a6-8e7c-600eb003cb79",
+      "name": "Farmácia Popular Porto Alegre",
+      "cnpj": "11222333011281",
+      "isActive": true,
+      "address": {
+        "street": "Av. Nossa Senhora de Copacabana",
+        "number": "2457",
+        "complement": "",
+        "neighborhood": "Centro Histórico",
+        "city": "Porto Alegre",
+        "state": "RS",
+        "zip": "70386-700",
+        "country": "Brasil"
+      },
+      "establishedAt": "2017-03-16"
+    },
+    {
+      "id": "8c76831d-b169-431b-9607-28813f4bc50f",
+      "name": "Farmácia São José do Rio Preto Parque Industrial",
+      "cnpj": "11222333011381",
+      "isActive": true,
+      "address": {
+        "street": "Av. das Américas",
+        "number": "3689",
+        "complement": "",
+        "neighborhood": "Parque Industrial",
+        "city": "São José do Rio Preto",
+        "state": "SP",
+        "zip": "60165-121",
+        "country": "Brasil"
+      },
+      "establishedAt": "2024-02-03"
+    },
+    {
+      "id": "30b902fe-3997-4ee5-917a-8e1f8d816958",
+      "name": "Drogaria Santa Rosa",
+      "cnpj": "11222333011481",
+      "isActive": true,
+      "address": {
+        "street": "Rua do Comércio",
+        "number": "3090",
+        "complement": "",
+        "neighborhood": "Santa Rosa",
+        "city": "Niterói",
+        "state": "RJ",
+        "zip": "22020-001",
+        "country": "Brasil"
+      },
+      "establishedAt": "2020-05-10"
+    },
+    {
+      "id": "cd5c27b7-bb00-48df-8633-6a900e708697",
+      "name": "Farmácia Saúde Trindade",
+      "cnpj": "11222333011581",
+      "isActive": true,
+      "address": {
+        "street": "Rua do Comércio",
+        "number": "1375",
+        "complement": "Galpão 3",
+        "neighborhood": "Trindade",
+        "city": "Florianópolis",
+        "state": "SC",
+        "zip": "01452-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2022-01-18"
+    },
+    {
+      "id": "aea38b6a-ac5a-416c-b01d-f2b1f88c087a",
+      "name": "Farmácia Popular Santo André",
+      "cnpj": "11222333011681",
+      "isActive": true,
+      "address": {
+        "street": "Rua Estados Unidos",
+        "number": "612",
+        "complement": "1º andar",
+        "neighborhood": "Vila Humaitá",
+        "city": "Santo André",
+        "state": "SP",
+        "zip": "01310-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2021-08-17"
+    },
+    {
+      "id": "6fb4c916-0c14-43da-a02a-945885836d41",
+      "name": "Drogaria Jardim Aquarius",
+      "cnpj": "11222333011781",
+      "isActive": true,
+      "address": {
+        "street": "Rua Nossa Senhora da Lapa",
+        "number": "1615",
+        "complement": "Galpão 3",
+        "neighborhood": "Jardim Aquarius",
+        "city": "São José dos Campos",
+        "state": "SP",
+        "zip": "88010-002",
+        "country": "Brasil"
+      },
+      "establishedAt": "2022-05-14"
+    },
+    {
+      "id": "8f3b2ad1-69fb-4064-855a-68b29743bf37",
+      "name": "Farmácia Popular Teresina",
+      "cnpj": "11222333011881",
+      "isActive": true,
+      "address": {
+        "street": "Rua Vergueiro",
+        "number": "495",
+        "complement": "",
+        "neighborhood": "Fátima",
+        "city": "Teresina",
+        "state": "PI",
+        "zip": "01452-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2010-10-11"
+    },
+    {
+      "id": "cb3ece54-2926-4853-bf5c-5d586e44cab2",
+      "name": "Farmácia Nova Marabá",
+      "cnpj": "11222333011981",
+      "isActive": true,
+      "address": {
+        "street": "Rua dos Pinheiros",
+        "number": "1763",
+        "complement": "Sobrado",
+        "neighborhood": "Nova Marabá",
+        "city": "Marabá",
+        "state": "PA",
+        "zip": "66015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2021-08-25"
+    },
+    {
+      "id": "06c5e7c6-3e24-4142-a4f4-458f4ceb9ea5",
+      "name": "Farmácia Formosa Jardim Europa",
+      "cnpj": "11222333012081",
+      "isActive": true,
+      "address": {
+        "street": "Rua Teodoro Sampaio",
+        "number": "3217",
+        "complement": "",
+        "neighborhood": "Jardim Europa",
+        "city": "Formosa",
+        "state": "GO",
+        "zip": "13015-010",
+        "country": "Brasil"
+      },
+      "establishedAt": "2022-11-02"
+    },
+    {
+      "id": "66b10081-6b93-4a07-b887-113d613b3dea",
+      "name": "Farmácia São Caetano do Sul Prosperidade",
+      "cnpj": "11222333012181",
+      "isActive": true,
+      "address": {
+        "street": "Rua Direita",
+        "number": "1407",
+        "complement": "",
+        "neighborhood": "Prosperidade",
+        "city": "São Caetano do Sul",
+        "state": "SP",
+        "zip": "01452-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2020-10-07"
+    },
+    {
+      "id": "ea8d6c78-82cd-4736-9da0-8fd391fee5d6",
+      "name": "Drogaria Centro",
+      "cnpj": "11222333012281",
+      "isActive": true,
+      "address": {
+        "street": "Rua Voluntários da Pátria",
+        "number": "1712",
+        "complement": "Sobrado",
+        "neighborhood": "Centro",
+        "city": "Joinville",
+        "state": "SC",
+        "zip": "59015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2022-08-19"
+    },
+    {
+      "id": "563b5eed-b18a-4146-9b81-846f0b8100ca",
+      "name": "Farmácia Popular João Pessoa",
+      "cnpj": "11222333012381",
+      "isActive": true,
+      "address": {
+        "street": "Rua 24 de Maio",
+        "number": "560",
+        "complement": "1º andar",
+        "neighborhood": "Centro",
+        "city": "João Pessoa",
+        "state": "PB",
+        "zip": "40060-001",
+        "country": "Brasil"
+      },
+      "establishedAt": "2021-08-12"
+    },
+    {
+      "id": "0c4f9940-a3ce-4a9a-93a7-a53aca719916",
+      "name": "Farmácia Balneário Camboriú Centro",
+      "cnpj": "11222333012481",
+      "isActive": true,
+      "address": {
+        "street": "Rua Felipe Schmidt",
+        "number": "3391",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Balneário Camboriú",
+        "state": "SC",
+        "zip": "60165-121",
+        "country": "Brasil"
+      },
+      "establishedAt": "2015-04-11"
+    },
+    {
+      "id": "7f1685ed-88c1-4f62-93dd-b81522f21d75",
+      "name": "Farmácia Indaiatuba Vila Avaí",
+      "cnpj": "11222333012581",
+      "isActive": true,
+      "address": {
+        "street": "Av. Constantino Nery",
+        "number": "2519",
+        "complement": "1º andar",
+        "neighborhood": "Vila Avaí",
+        "city": "Indaiatuba",
+        "state": "SP",
+        "zip": "69010-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2020-10-07"
+    },
+    {
+      "id": "50b366d1-bf22-4f97-91b4-f0dc4951d276",
+      "name": "Farmácia Saúde Ingleses",
+      "cnpj": "11222333012681",
+      "isActive": true,
+      "address": {
+        "street": "Rua Conselheiro Dantas",
+        "number": "3503",
+        "complement": "",
+        "neighborhood": "Ingleses",
+        "city": "Florianópolis",
+        "state": "SC",
+        "zip": "70386-700",
+        "country": "Brasil"
+      },
+      "establishedAt": "2005-07-06"
+    },
+    {
+      "id": "5d30f39e-7078-4691-84f6-7b4c0458c5e8",
+      "name": "Farmácia Popular Maringá",
+      "cnpj": "11222333012781",
+      "isActive": true,
+      "address": {
+        "street": "Rua São Bento",
+        "number": "1651",
+        "complement": "",
+        "neighborhood": "Zona 07",
+        "city": "Maringá",
+        "state": "PR",
+        "zip": "74015-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2016-04-20"
+    },
+    {
+      "id": "bf8e79ca-da5e-4332-8477-8bb179f7b9f6",
+      "name": "Drogaria Lagarto",
+      "cnpj": "11222333012881",
+      "isActive": true,
+      "address": {
+        "street": "Av. Nossa Senhora de Copacabana",
+        "number": "2037",
+        "complement": "Loja 1",
+        "neighborhood": "Prado",
+        "city": "Lagarto",
+        "state": "SE",
+        "zip": "01452-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2015-10-19"
+    },
+    {
+      "id": "bf913725-d4b8-4e69-9496-c20bb276c20c",
+      "name": "Farmácia Popular Planaltina",
+      "cnpj": "11222333012981",
+      "isActive": true,
+      "address": {
+        "street": "Rua Pernambuco",
+        "number": "1701",
+        "complement": "",
+        "neighborhood": "Vila Buritis",
+        "city": "Planaltina",
+        "state": "GO",
+        "zip": "30130-151",
+        "country": "Brasil"
+      },
+      "establishedAt": "2012-10-15"
+    },
+    {
+      "id": "d5a82304-6793-4ce2-8b6b-ae6dec0d04bc",
+      "name": "Farmácia Popular Passo Fundo",
+      "cnpj": "11222333013081",
+      "isActive": true,
+      "address": {
+        "street": "Rua da Conceição",
+        "number": "419",
+        "complement": "",
+        "neighborhood": "São José",
+        "city": "Passo Fundo",
+        "state": "RS",
+        "zip": "66015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2020-12-17"
+    },
+    {
+      "id": "981d64cd-3aac-4e1a-be1c-c9aa3f5e3192",
+      "name": "Farmácia Itajaí Barra do Rio",
+      "cnpj": "11222333013181",
+      "isActive": true,
+      "address": {
+        "street": "Rua do Príncipe",
+        "number": "861",
+        "complement": "",
+        "neighborhood": "Barra do Rio",
+        "city": "Itajaí",
+        "state": "SC",
+        "zip": "88010-002",
+        "country": "Brasil"
+      },
+      "establishedAt": "2023-01-19"
+    },
+    {
+      "id": "8e2edd03-7c67-429b-a38b-68360e6d8fa7",
+      "name": "Farmácia Centro",
+      "cnpj": "11222333013281",
+      "isActive": true,
+      "address": {
+        "street": "Rua Marechal Deodoro",
+        "number": "3291",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Teresina",
+        "state": "PI",
+        "zip": "01310-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2023-11-13"
+    },
+    {
+      "id": "2983cdf7-cc5a-4c8f-8f1e-829f1b15a02f",
+      "name": "Farmácia Vila Regina",
+      "cnpj": "11222333013381",
+      "isActive": true,
+      "address": {
+        "street": "Rua Funchal",
+        "number": "2139",
+        "complement": "",
+        "neighborhood": "Vila Regina",
+        "city": "Montes Claros",
+        "state": "MG",
+        "zip": "01452-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2013-08-02"
+    },
+    {
+      "id": "897f066f-3fc8-4965-b61e-2a034e31b3cc",
+      "name": "Farmácia Saúde Jardim Oratório",
+      "cnpj": "11222333013481",
+      "isActive": true,
+      "address": {
+        "street": "Rua Martins",
+        "number": "2217",
+        "complement": "Loja A",
+        "neighborhood": "Jardim Oratório",
+        "city": "Mauá",
+        "state": "SP",
+        "zip": "69010-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2020-01-21"
+    },
+    {
+      "id": "6a2dad83-7c2a-4265-8795-0428d9cd11f6",
+      "name": "Drogaria Valparaíso de Goiás",
+      "cnpj": "11222333013581",
+      "isActive": true,
+      "address": {
+        "street": "Av. das Américas",
+        "number": "1132",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Valparaíso de Goiás",
+        "state": "GO",
+        "zip": "22020-001",
+        "country": "Brasil"
+      },
+      "establishedAt": "2012-04-03"
+    },
+    {
+      "id": "18d4d4d0-7451-4ae6-8611-df9ba8d6d9c6",
+      "name": "Drogaria Jardim São Paulo",
+      "cnpj": "11222333013681",
+      "isActive": true,
+      "address": {
+        "street": "Rua Paraná",
+        "number": "1416",
+        "complement": "",
+        "neighborhood": "Jardim São Paulo",
+        "city": "Foz do Iguaçu",
+        "state": "PR",
+        "zip": "80020-310",
+        "country": "Brasil"
+      },
+      "establishedAt": "2014-05-17"
+    },
+    {
+      "id": "9c31bd5b-1f7b-47ff-89e2-f555d80f7e9d",
+      "name": "Drogaria Pompeu",
+      "cnpj": "11222333013781",
+      "isActive": false,
+      "address": {
+        "street": "Rua General Osório",
+        "number": "546",
+        "complement": "Sobrado",
+        "neighborhood": "Pompeu",
+        "city": "Sabará",
+        "state": "MG",
+        "zip": "69010-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2017-01-18"
+    },
+    {
+      "id": "df893085-adfc-4927-94e4-6b29497c83c4",
+      "name": "Farmácia Popular Ilhéus",
+      "cnpj": "11222333013881",
+      "isActive": true,
+      "address": {
+        "street": "Rua São Bento",
+        "number": "156",
+        "complement": "Galpão 3",
+        "neighborhood": "Salobrinho",
+        "city": "Ilhéus",
+        "state": "BA",
+        "zip": "66015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2010-11-28"
+    },
+    {
+      "id": "b8d3fd5f-b452-4130-9829-72a1145a6183",
+      "name": "Farmácia Popular Jaraguá do Sul",
+      "cnpj": "11222333013981",
+      "isActive": true,
+      "address": {
+        "street": "Av. Paulista",
+        "number": "3412",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Jaraguá do Sul",
+        "state": "SC",
+        "zip": "59015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2022-06-08"
+    },
+    {
+      "id": "d96f1ca2-520f-44c0-a1ad-ff3b73322b5a",
+      "name": "Farmácia Brasília",
+      "cnpj": "11222333014081",
+      "isActive": true,
+      "address": {
+        "street": "Av. Desembargador Moreira",
+        "number": "1235",
+        "complement": "",
+        "neighborhood": "Brasília",
+        "city": "Arapiraca",
+        "state": "AL",
+        "zip": "80020-310",
+        "country": "Brasil"
+      },
+      "establishedAt": "2006-01-19"
+    },
+    {
+      "id": "bd75386c-a3be-43f0-a107-108432dbd85f",
+      "name": "Farmácia Saúde Belém",
+      "cnpj": "11222333014181",
+      "isActive": true,
+      "address": {
+        "street": "Av. Boa Viagem",
+        "number": "2339",
+        "complement": "",
+        "neighborhood": "Belém",
+        "city": "Patos",
+        "state": "PB",
+        "zip": "70386-700",
+        "country": "Brasil"
+      },
+      "establishedAt": "2019-11-09"
+    },
+    {
+      "id": "ba3c45fd-f5e9-48d1-9e7a-f847706618b9",
+      "name": "Farmácia Centro",
+      "cnpj": "11222333014281",
+      "isActive": true,
+      "address": {
+        "street": "Rua Teodoro Sampaio",
+        "number": "1499",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Planaltina",
+        "state": "GO",
+        "zip": "01310-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2016-03-17"
+    },
+    {
+      "id": "022ca986-f9a0-40ed-a6f2-46889d815fdf",
+      "name": "Drogaria Asa Sul",
+      "cnpj": "11222333014381",
+      "isActive": true,
+      "address": {
+        "street": "Rua Visconde de Inhaúma",
+        "number": "1227",
+        "complement": "",
+        "neighborhood": "Asa Sul",
+        "city": "Brasília",
+        "state": "DF",
+        "zip": "13015-010",
+        "country": "Brasil"
+      },
+      "establishedAt": "2011-05-10"
+    },
+    {
+      "id": "82b1e5a3-03e6-48c6-bf5f-2264acbf6c2d",
+      "name": "Farmácia Saúde Setor 01",
+      "cnpj": "11222333014481",
+      "isActive": true,
+      "address": {
+        "street": "Rua Uruguai",
+        "number": "3627",
+        "complement": "Bloco 1",
+        "neighborhood": "Setor 01",
+        "city": "Trindade",
+        "state": "GO",
+        "zip": "70386-700",
+        "country": "Brasil"
+      },
+      "establishedAt": "2012-10-27"
+    },
+    {
+      "id": "5b3d9acd-91fe-4d0e-b9ef-55da9b4b1092",
+      "name": "Farmácia Popular Linhares",
+      "cnpj": "11222333014581",
+      "isActive": false,
+      "address": {
+        "street": "Av. Constantino Nery",
+        "number": "1227",
+        "complement": "",
+        "neighborhood": "Movelar",
+        "city": "Linhares",
+        "state": "ES",
+        "zip": "66015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2014-03-25"
+    },
+    {
+      "id": "8e9de070-a8b6-453d-b285-243c818fe95a",
+      "name": "Drogaria Terrenos Novos",
+      "cnpj": "11222333014681",
+      "isActive": true,
+      "address": {
+        "street": "Rua da Consolação",
+        "number": "3580",
+        "complement": "",
+        "neighborhood": "Terrenos Novos",
+        "city": "Sobral",
+        "state": "CE",
+        "zip": "22020-001",
+        "country": "Brasil"
+      },
+      "establishedAt": "2013-01-24"
+    },
+    {
+      "id": "16499a94-70a0-47bc-9a4c-744b01e391b9",
+      "name": "Drogaria Maceió",
+      "cnpj": "11222333014781",
+      "isActive": false,
+      "address": {
+        "street": "Rua XV de Novembro",
+        "number": "3498",
+        "complement": "Sala 2",
+        "neighborhood": "Ponta Verde",
+        "city": "Maceió",
+        "state": "AL",
+        "zip": "74015-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2018-07-10"
+    },
+    {
+      "id": "82526ed7-1cfe-4e92-80d5-e958b5c1e04b",
+      "name": "Farmácia Popular Lagarto",
+      "cnpj": "11222333014881",
+      "isActive": true,
+      "address": {
+        "street": "Av. Goiás",
+        "number": "2320",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Lagarto",
+        "state": "SE",
+        "zip": "13015-010",
+        "country": "Brasil"
+      },
+      "establishedAt": "2024-05-02"
+    },
+    {
+      "id": "cc64f9a0-18bc-4680-b0ba-5a45ecb80a76",
+      "name": "Drogaria Bodocongó",
+      "cnpj": "11222333014981",
+      "isActive": true,
+      "address": {
+        "street": "Rua Tiradentes",
+        "number": "3745",
+        "complement": "",
+        "neighborhood": "Bodocongó",
+        "city": "Campina Grande",
+        "state": "PB",
+        "zip": "40060-001",
+        "country": "Brasil"
+      },
+      "establishedAt": "2021-01-26"
+    },
+    {
+      "id": "d7d03c94-6d86-41fd-ae71-e50c44c7339e",
+      "name": "Farmácia Brasília Samambaia",
+      "cnpj": "11222333015081",
+      "isActive": true,
+      "address": {
+        "street": "Rua do Comércio",
+        "number": "440",
+        "complement": "Sala 2",
+        "neighborhood": "Samambaia",
+        "city": "Brasília",
+        "state": "DF",
+        "zip": "69010-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2012-01-23"
+    },
+    {
+      "id": "c22cbdfb-545d-4660-ab99-44a703873733",
+      "name": "Drogaria Jardim Umuarama",
+      "cnpj": "11222333015181",
+      "isActive": false,
+      "address": {
+        "street": "Rua Haddock Lobo",
+        "number": "2109",
+        "complement": "Fundos",
+        "neighborhood": "Jardim Umuarama",
+        "city": "Sinop",
+        "state": "MT",
+        "zip": "22020-001",
+        "country": "Brasil"
+      },
+      "establishedAt": "2018-07-28"
+    },
+    {
+      "id": "73a81211-bf56-4cb0-b7a5-e0c475081649",
+      "name": "Farmácia Estância Povoação",
+      "cnpj": "11222333015281",
+      "isActive": true,
+      "address": {
+        "street": "Rua da Glória",
+        "number": "20",
+        "complement": "Sala 2",
+        "neighborhood": "Povoação",
+        "city": "Estância",
+        "state": "SE",
+        "zip": "22020-001",
+        "country": "Brasil"
+      },
+      "establishedAt": "2024-11-11"
+    },
+    {
+      "id": "d05fdc5c-4a84-46b5-b1b9-36f3d081b15c",
+      "name": "Drogaria Vila Madalena",
+      "cnpj": "11222333015381",
+      "isActive": true,
+      "address": {
+        "street": "Rua Paraíba",
+        "number": "972",
+        "complement": "",
+        "neighborhood": "Vila Madalena",
+        "city": "São Paulo",
+        "state": "SP",
+        "zip": "88010-002",
+        "country": "Brasil"
+      },
+      "establishedAt": "2015-05-17"
+    },
+    {
+      "id": "938d52c1-0829-45a6-8de8-a4f80d8cc960",
+      "name": "Farmácia Popular Cuiabá",
+      "cnpj": "11222333015481",
+      "isActive": true,
+      "address": {
+        "street": "Rua Santa Cruz",
+        "number": "2934",
+        "complement": "Loja 1",
+        "neighborhood": "Araés",
+        "city": "Cuiabá",
+        "state": "MT",
+        "zip": "30130-151",
+        "country": "Brasil"
+      },
+      "establishedAt": "2023-05-26"
+    },
+    {
+      "id": "a967b30e-36af-49e2-b09d-ae17713deb20",
+      "name": "Drogaria Batista Campos",
+      "cnpj": "11222333015581",
+      "isActive": true,
+      "address": {
+        "street": "Rua da Conceição",
+        "number": "3564",
+        "complement": "",
+        "neighborhood": "Batista Campos",
+        "city": "Belém",
+        "state": "PA",
+        "zip": "30130-151",
+        "country": "Brasil"
+      },
+      "establishedAt": "2021-02-17"
+    },
+    {
+      "id": "8cfb8157-abbe-4a23-a7ec-f9f74b17a8a6",
+      "name": "Drogaria Caucaia",
+      "cnpj": "11222333015681",
+      "isActive": true,
+      "address": {
+        "street": "Av. Moreira e Silva",
+        "number": "2071",
+        "complement": "",
+        "neighborhood": "Iparana",
+        "city": "Caucaia",
+        "state": "CE",
+        "zip": "60165-121",
+        "country": "Brasil"
+      },
+      "establishedAt": "2012-03-01"
+    },
+    {
+      "id": "ed89ffd2-8246-4458-8762-a07ae372d7a2",
+      "name": "Farmácia Tirol",
+      "cnpj": "11222333015781",
+      "isActive": true,
+      "address": {
+        "street": "Rua Estados Unidos",
+        "number": "2553",
+        "complement": "Galpão 3",
+        "neighborhood": "Tirol",
+        "city": "Natal",
+        "state": "RN",
+        "zip": "29010-090",
+        "country": "Brasil"
+      },
+      "establishedAt": "2022-07-02"
+    },
+    {
+      "id": "d61ae10a-8961-4017-83ad-d13ef0a9a6f2",
+      "name": "Drogaria Arapiraca",
+      "cnpj": "11222333015881",
+      "isActive": false,
+      "address": {
+        "street": "Av. Brasil",
+        "number": "1183",
+        "complement": "Sobrado",
+        "neighborhood": "Brasília",
+        "city": "Arapiraca",
+        "state": "AL",
+        "zip": "70386-700",
+        "country": "Brasil"
+      },
+      "establishedAt": "2021-02-25"
+    },
+    {
+      "id": "0a152ace-2cfb-4b58-ad8f-9dc09e1f80b5",
+      "name": "Drogaria Linhares",
+      "cnpj": "11222333015981",
+      "isActive": true,
+      "address": {
+        "street": "Rua Augusta",
+        "number": "852",
+        "complement": "Bloco 1",
+        "neighborhood": "Movelar",
+        "city": "Linhares",
+        "state": "ES",
+        "zip": "13015-010",
+        "country": "Brasil"
+      },
+      "establishedAt": "2019-05-17"
+    },
+    {
+      "id": "d04201d9-260b-4366-9f3c-a0199f0dc49b",
+      "name": "Drogaria Sinop",
+      "cnpj": "11222333016081",
+      "isActive": false,
+      "address": {
+        "street": "Av. Afonso Pena",
+        "number": "2850",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Sinop",
+        "state": "MT",
+        "zip": "90020-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2023-11-12"
+    },
+    {
+      "id": "dc0f917a-6c2a-4304-ae33-3423339e4d94",
+      "name": "Drogaria Aracaju",
+      "cnpj": "11222333016181",
+      "isActive": true,
+      "address": {
+        "street": "Av. Ana Costa",
+        "number": "3125",
+        "complement": "",
+        "neighborhood": "Siqueira Campos",
+        "city": "Aracaju",
+        "state": "SE",
+        "zip": "01452-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2008-01-07"
+    },
+    {
+      "id": "2a4719a1-f756-4970-b783-b81409278186",
+      "name": "Farmácia Saúde Guardado do Embaú",
+      "cnpj": "11222333016281",
+      "isActive": true,
+      "address": {
+        "street": "Rua Galdino Pimentel",
+        "number": "2458",
+        "complement": "",
+        "neighborhood": "Guardado do Embaú",
+        "city": "Palhoça",
+        "state": "SC",
+        "zip": "22020-001",
+        "country": "Brasil"
+      },
+      "establishedAt": "2018-03-02"
+    },
+    {
+      "id": "abca1961-c7b2-48e5-82cb-be263f28cfb3",
+      "name": "Farmácia Popular Praia Grande",
+      "cnpj": "11222333016381",
+      "isActive": false,
+      "address": {
+        "street": "Rua Conselheiro Dantas",
+        "number": "2022",
+        "complement": "Sala 2",
+        "neighborhood": "Aviação",
+        "city": "Praia Grande",
+        "state": "SP",
+        "zip": "88010-002",
+        "country": "Brasil"
+      },
+      "establishedAt": "2024-08-10"
+    },
+    {
+      "id": "09c72d38-47ce-4546-9286-82226d5d769d",
+      "name": "Farmácia Saúde Indústrias",
+      "cnpj": "11222333016481",
+      "isActive": true,
+      "address": {
+        "street": "Av. Sete de Setembro",
+        "number": "2601",
+        "complement": "",
+        "neighborhood": "Indústrias",
+        "city": "Ibirité",
+        "state": "MG",
+        "zip": "88010-002",
+        "country": "Brasil"
+      },
+      "establishedAt": "2013-02-23"
+    },
+    {
+      "id": "55a1521b-0502-467a-8656-42e241f9558e",
+      "name": "Drogaria Eldorado",
+      "cnpj": "11222333016581",
+      "isActive": true,
+      "address": {
+        "street": "Rua das Flores",
+        "number": "770",
+        "complement": "",
+        "neighborhood": "Eldorado",
+        "city": "Arapiraca",
+        "state": "AL",
+        "zip": "90020-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2024-01-04"
+    },
+    {
+      "id": "d107e4eb-5772-42b6-a733-21f496a7038f",
+      "name": "Farmácia Chapecó Efapi",
+      "cnpj": "11222333016681",
+      "isActive": true,
+      "address": {
+        "street": "Av. Ana Costa",
+        "number": "722",
+        "complement": "",
+        "neighborhood": "Efapi",
+        "city": "Chapecó",
+        "state": "SC",
+        "zip": "74015-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2019-05-24"
+    },
+    {
+      "id": "464ed8e5-a6aa-4b7d-a926-8b87dfb99af4",
+      "name": "Farmácia Popular João Pessoa",
+      "cnpj": "11222333016781",
+      "isActive": true,
+      "address": {
+        "street": "Rua do Príncipe",
+        "number": "1608",
+        "complement": "",
+        "neighborhood": "Altiplano",
+        "city": "João Pessoa",
+        "state": "PB",
+        "zip": "22020-001",
+        "country": "Brasil"
+      },
+      "establishedAt": "2018-04-05"
+    },
+    {
+      "id": "8b20f733-63ed-44f7-a4f6-74cb1e17a94d",
+      "name": "Farmácia Várzea Grande Ponte de Ferro",
+      "cnpj": "11222333016881",
+      "isActive": true,
+      "address": {
+        "street": "Rua Peixoto Gomide",
+        "number": "1428",
+        "complement": "Sala 2",
+        "neighborhood": "Ponte de Ferro",
+        "city": "Várzea Grande",
+        "state": "MT",
+        "zip": "01310-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2021-04-04"
+    },
+    {
+      "id": "3acc8bfc-3e63-42d5-8cd3-7be9311e2405",
+      "name": "Farmácia Campina Grande Bodocongó",
+      "cnpj": "11222333016981",
+      "isActive": true,
+      "address": {
+        "street": "Rua do Príncipe",
+        "number": "892",
+        "complement": "Sl 101",
+        "neighborhood": "Bodocongó",
+        "city": "Campina Grande",
+        "state": "PB",
+        "zip": "40060-001",
+        "country": "Brasil"
+      },
+      "establishedAt": "2014-02-06"
+    },
+    {
+      "id": "eb225735-3b52-46ff-844b-599f6f6b80b6",
+      "name": "Drogaria Centenário",
+      "cnpj": "11222333017081",
+      "isActive": true,
+      "address": {
+        "street": "Rua Coronel Moreira Cesar",
+        "number": "62",
+        "complement": "Galpão 3",
+        "neighborhood": "Centenário",
+        "city": "Jaraguá do Sul",
+        "state": "SC",
+        "zip": "13015-010",
+        "country": "Brasil"
+      },
+      "establishedAt": "2018-04-12"
+    },
+    {
+      "id": "04029aa2-b24f-4ec3-9884-bbf5811c8b86",
+      "name": "Farmácia Belo Horizonte Funcionários",
+      "cnpj": "11222333017181",
+      "isActive": true,
+      "address": {
+        "street": "Rua São João",
+        "number": "3877",
+        "complement": "",
+        "neighborhood": "Funcionários",
+        "city": "Belo Horizonte",
+        "state": "MG",
+        "zip": "80020-310",
+        "country": "Brasil"
+      },
+      "establishedAt": "2018-05-15"
+    },
+    {
+      "id": "92ea4736-6e99-4b21-91d0-b64cfcbd3ff5",
+      "name": "Farmácia Popular Guarapuava",
+      "cnpj": "11222333017281",
+      "isActive": true,
+      "address": {
+        "street": "Rua Dom Pedro II",
+        "number": "1980",
+        "complement": "",
+        "neighborhood": "Morro Alto",
+        "city": "Guarapuava",
+        "state": "PR",
+        "zip": "29010-090",
+        "country": "Brasil"
+      },
+      "establishedAt": "2016-09-24"
+    },
+    {
+      "id": "00ff3a7f-ce9c-43c8-820f-c54bd8c2037e",
+      "name": "Farmácia Popular Petrópolis",
+      "cnpj": "11222333017381",
+      "isActive": true,
+      "address": {
+        "street": "Rua dos Andradas",
+        "number": "2567",
+        "complement": "Bloco 1",
+        "neighborhood": "Corrêas",
+        "city": "Petrópolis",
+        "state": "RJ",
+        "zip": "70386-700",
+        "country": "Brasil"
+      },
+      "establishedAt": "2023-03-21"
+    },
+    {
+      "id": "a28c9170-c4da-4b1e-bf8d-4d2d33cb1ffa",
+      "name": "Farmácia Macapá Buritizal",
+      "cnpj": "11222333017481",
+      "isActive": true,
+      "address": {
+        "street": "Rua da Consolação",
+        "number": "2330",
+        "complement": "",
+        "neighborhood": "Buritizal",
+        "city": "Macapá",
+        "state": "AP",
+        "zip": "01320-200",
+        "country": "Brasil"
+      },
+      "establishedAt": "2014-03-08"
+    },
+    {
+      "id": "fc3967d6-3c39-4c63-afad-2770aae84976",
+      "name": "Drogaria Porto Velho",
+      "cnpj": "11222333017581",
+      "isActive": true,
+      "address": {
+        "street": "Av. das Américas",
+        "number": "3937",
+        "complement": "1º andar",
+        "neighborhood": "Centro",
+        "city": "Porto Velho",
+        "state": "RO",
+        "zip": "29010-090",
+        "country": "Brasil"
+      },
+      "establishedAt": "2018-05-20"
+    },
+    {
+      "id": "6d054a24-904f-4860-863b-dd321dabe62f",
+      "name": "Farmácia Popular Arapiraca",
+      "cnpj": "11222333017681",
+      "isActive": false,
+      "address": {
+        "street": "Rua Principal",
+        "number": "3108",
+        "complement": "",
+        "neighborhood": "Brasília",
+        "city": "Arapiraca",
+        "state": "AL",
+        "zip": "90020-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2016-10-09"
+    },
+    {
+      "id": "065be4c3-5599-4d47-9bd6-bba01728a42a",
+      "name": "Farmácia Vila C",
+      "cnpj": "11222333017781",
+      "isActive": true,
+      "address": {
+        "street": "Rua Antonio Agú",
+        "number": "3518",
+        "complement": "Galpão 3",
+        "neighborhood": "Vila C",
+        "city": "Foz do Iguaçu",
+        "state": "PR",
+        "zip": "13015-010",
+        "country": "Brasil"
+      },
+      "establishedAt": "2016-12-23"
+    },
+    {
+      "id": "1fbc00c2-bb59-495e-933e-afc35436bf21",
+      "name": "Drogaria Ipase",
+      "cnpj": "11222333017881",
+      "isActive": true,
+      "address": {
+        "street": "Rua Dias Ferreira",
+        "number": "3553",
+        "complement": "",
+        "neighborhood": "Ipase",
+        "city": "Rio Branco",
+        "state": "AC",
+        "zip": "80020-310",
+        "country": "Brasil"
+      },
+      "establishedAt": "2024-08-16"
+    },
+    {
+      "id": "cabd49cf-68aa-436d-b198-5591e07f6411",
+      "name": "Drogaria Montes Claros",
+      "cnpj": "11222333017981",
+      "isActive": true,
+      "address": {
+        "street": "Rua do Comércio",
+        "number": "2474",
+        "complement": "",
+        "neighborhood": "Major Prates",
+        "city": "Montes Claros",
+        "state": "MG",
+        "zip": "74015-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2013-10-10"
+    },
+    {
+      "id": "0e87f5e2-f572-464f-8273-40627138133f",
+      "name": "Drogaria Bauru",
+      "cnpj": "11222333018081",
+      "isActive": true,
+      "address": {
+        "street": "Rua da Conceição",
+        "number": "1886",
+        "complement": "Loja A",
+        "neighborhood": "Edgar",
+        "city": "Bauru",
+        "state": "SP",
+        "zip": "59015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2010-06-08"
+    },
+    {
+      "id": "e0dc549f-3a9d-415d-bd5f-c3409b4745e0",
+      "name": "Drogaria Centro",
+      "cnpj": "11222333018181",
+      "isActive": true,
+      "address": {
+        "street": "Av. Moreira e Silva",
+        "number": "2061",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Pelotas",
+        "state": "RS",
+        "zip": "01310-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2014-06-26"
+    },
+    {
+      "id": "68f1b72c-e592-4f58-8988-e1e498ae5283",
+      "name": "Farmácia Centro",
+      "cnpj": "11222333018281",
+      "isActive": true,
+      "address": {
+        "street": "Rua do Comércio",
+        "number": "555",
+        "complement": "1º andar",
+        "neighborhood": "Centro",
+        "city": "Imperatriz",
+        "state": "MA",
+        "zip": "01452-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2011-05-08"
+    },
+    {
+      "id": "f7d13731-1b78-454d-9f5b-6c97456fd60d",
+      "name": "Farmácia Popular Curitiba",
+      "cnpj": "11222333018381",
+      "isActive": true,
+      "address": {
+        "street": "Rua Martins Fontes",
+        "number": "2200",
+        "complement": "",
+        "neighborhood": "Mercês",
+        "city": "Curitiba",
+        "state": "PR",
+        "zip": "29010-090",
+        "country": "Brasil"
+      },
+      "establishedAt": "2023-11-04"
+    },
+    {
+      "id": "77c226ae-2277-4fdd-a3c5-07ed06adf179",
+      "name": "Farmácia Popular Feira de Santana",
+      "cnpj": "11222333018481",
+      "isActive": true,
+      "address": {
+        "street": "Rua 15 de Novembro",
+        "number": "194",
+        "complement": "Sl 101",
+        "neighborhood": "Tomba",
+        "city": "Feira de Santana",
+        "state": "BA",
+        "zip": "01452-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2011-10-14"
+    },
+    {
+      "id": "3fd7c595-7503-456d-9263-c643701706c6",
+      "name": "Farmácia Popular Betim",
+      "cnpj": "11222333018581",
+      "isActive": true,
+      "address": {
+        "street": "Av. das Américas",
+        "number": "3939",
+        "complement": "Loja 1",
+        "neighborhood": "Imbiruçu",
+        "city": "Betim",
+        "state": "MG",
+        "zip": "70386-700",
+        "country": "Brasil"
+      },
+      "establishedAt": "2023-02-12"
+    },
+    {
+      "id": "78151e13-26eb-4cd4-910f-9e690e38ec3a",
+      "name": "Farmácia Saúde Parque Industrial",
+      "cnpj": "11222333018681",
+      "isActive": true,
+      "address": {
+        "street": "Rua Marechal Deodoro",
+        "number": "3597",
+        "complement": "Sala 2",
+        "neighborhood": "Parque Industrial",
+        "city": "São José do Rio Preto",
+        "state": "SP",
+        "zip": "69010-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2022-04-18"
+    },
+    {
+      "id": "ebaa535e-3dfb-422c-a323-7b8e3b8b8347",
+      "name": "Drogaria Jardim Nova América",
+      "cnpj": "11222333018781",
+      "isActive": true,
+      "address": {
+        "street": "Rua Felipe Schmidt",
+        "number": "1573",
+        "complement": "",
+        "neighborhood": "Jardim Nova América",
+        "city": "Jaboticabal",
+        "state": "SP",
+        "zip": "88010-002",
+        "country": "Brasil"
+      },
+      "establishedAt": "2023-04-16"
+    },
+    {
+      "id": "b87bcf08-dc90-412a-ab18-08895f270cdc",
+      "name": "Farmácia Maria Farinha",
+      "cnpj": "11222333018881",
+      "isActive": true,
+      "address": {
+        "street": "Av. Independência",
+        "number": "3327",
+        "complement": "Casa",
+        "neighborhood": "Maria Farinha",
+        "city": "Paulista",
+        "state": "PE",
+        "zip": "29010-090",
+        "country": "Brasil"
+      },
+      "establishedAt": "2018-04-24"
+    },
+    {
+      "id": "61593f38-ae6d-4745-919f-1e9773c498a2",
+      "name": "Farmácia Popular Sumaré",
+      "cnpj": "11222333018981",
+      "isActive": true,
+      "address": {
+        "street": "Rua Duque de Caxias",
+        "number": "3886",
+        "complement": "Galpão 3",
+        "neighborhood": "Maria Antônia",
+        "city": "Sumaré",
+        "state": "SP",
+        "zip": "60165-121",
+        "country": "Brasil"
+      },
+      "establishedAt": "2023-02-08"
+    },
+    {
+      "id": "b7a39c8f-4fd0-4143-90ff-eab87e80c370",
+      "name": "Farmácia Popular Sete Lagoas",
+      "cnpj": "11222333019081",
+      "isActive": true,
+      "address": {
+        "street": "Rua Augusta",
+        "number": "561",
+        "complement": "",
+        "neighborhood": "Boa Vista",
+        "city": "Sete Lagoas",
+        "state": "MG",
+        "zip": "66015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2019-12-21"
+    },
+    {
+      "id": "48a12140-c080-4860-8f05-20bbc12c2dcc",
+      "name": "Farmácia Várzea Grande Primavera",
+      "cnpj": "11222333019181",
+      "isActive": false,
+      "address": {
+        "street": "Rua Barão do Rio Branco",
+        "number": "429",
+        "complement": "",
+        "neighborhood": "Primavera",
+        "city": "Várzea Grande",
+        "state": "MT",
+        "zip": "74015-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2024-08-08"
+    },
+    {
+      "id": "393741e0-01e3-43e7-a5ec-1a2f205a68a7",
+      "name": "Farmácia Centro",
+      "cnpj": "11222333019281",
+      "isActive": true,
+      "address": {
+        "street": "Rua Felipe Schmidt",
+        "number": "1355",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Patos",
+        "state": "PB",
+        "zip": "60165-121",
+        "country": "Brasil"
+      },
+      "establishedAt": "2022-11-09"
+    },
+    {
+      "id": "9b7fa26e-208a-4a03-98ed-e44b6275eb9c",
+      "name": "Farmácia Popular Colatina",
+      "cnpj": "11222333019381",
+      "isActive": true,
+      "address": {
+        "street": "Rua Frei Caneca",
+        "number": "350",
+        "complement": "",
+        "neighborhood": "Bela Vista",
+        "city": "Colatina",
+        "state": "ES",
+        "zip": "74015-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2020-08-26"
+    },
+    {
+      "id": "05f189b9-b1a3-4fef-9553-8e456ca2aae8",
+      "name": "Drogaria Setor 02",
+      "cnpj": "11222333019481",
+      "isActive": true,
+      "address": {
+        "street": "Rua Frei Caneca",
+        "number": "3297",
+        "complement": "",
+        "neighborhood": "Setor 02",
+        "city": "Trindade",
+        "state": "GO",
+        "zip": "74015-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2018-03-09"
+    },
+    {
+      "id": "a3bdfed2-27dc-4ce7-9def-0aa2944b4006",
+      "name": "Farmácia Popular Penedo",
+      "cnpj": "11222333019581",
+      "isActive": true,
+      "address": {
+        "street": "Rua Funchal",
+        "number": "719",
+        "complement": "",
+        "neighborhood": "Ribeira",
+        "city": "Penedo",
+        "state": "AL",
+        "zip": "29010-090",
+        "country": "Brasil"
+      },
+      "establishedAt": "2017-07-07"
+    },
+    {
+      "id": "87a2700b-4da6-4dc2-96d7-cca54e3ac0d8",
+      "name": "Farmácia Centro",
+      "cnpj": "11222333019681",
+      "isActive": true,
+      "address": {
+        "street": "Av. Sete de Setembro",
+        "number": "1287",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Parintins",
+        "state": "AM",
+        "zip": "01310-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2011-05-08"
+    },
+    {
+      "id": "7a1a94d2-d5cc-4bbf-a29e-302bf779a010",
+      "name": "Drogaria Jardim América",
+      "cnpj": "11222333019781",
+      "isActive": false,
+      "address": {
+        "street": "Rua Vergueiro",
+        "number": "1912",
+        "complement": "",
+        "neighborhood": "Jardim América",
+        "city": "Ibirité",
+        "state": "MG",
+        "zip": "69010-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2011-10-27"
+    },
+    {
+      "id": "e5c7c481-b85c-4f36-a353-b7db20478698",
+      "name": "Farmácia Saúde Centro",
+      "cnpj": "11222333019881",
+      "isActive": true,
+      "address": {
+        "street": "Rua Teodoro Sampaio",
+        "number": "1095",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Itajaí",
+        "state": "SC",
+        "zip": "88010-002",
+        "country": "Brasil"
+      },
+      "establishedAt": "2011-06-09"
+    },
+    {
+      "id": "7b9ef383-d819-439d-af2d-f1cd15dcc3f2",
+      "name": "Farmácia Popular Parnaíba",
+      "cnpj": "11222333019981",
+      "isActive": true,
+      "address": {
+        "street": "Rua do Comércio",
+        "number": "1821",
+        "complement": "",
+        "neighborhood": "Frei Higino",
+        "city": "Parnaíba",
+        "state": "PI",
+        "zip": "13015-010",
+        "country": "Brasil"
+      },
+      "establishedAt": "2013-07-27"
+    },
+    {
+      "id": "c2baf5ac-5411-420f-bdd9-1dd6144cb8dc",
+      "name": "Drogaria Águas Lindas",
+      "cnpj": "11222333020081",
+      "isActive": true,
+      "address": {
+        "street": "Rua do Ouvidor",
+        "number": "700",
+        "complement": "",
+        "neighborhood": "Águas Lindas",
+        "city": "Ananindeua",
+        "state": "PA",
+        "zip": "90020-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2023-01-25"
+    },
+    {
+      "id": "fad8a5d1-b500-45f5-88a2-608424e44f7a",
+      "name": "Drogaria Arapiraca",
+      "cnpj": "11222333020181",
+      "isActive": true,
+      "address": {
+        "street": "Rua Direita",
+        "number": "3255",
+        "complement": "",
+        "neighborhood": "Eldorado",
+        "city": "Arapiraca",
+        "state": "AL",
+        "zip": "01452-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2023-04-08"
+    },
+    {
+      "id": "8c5bcd7f-f729-42f0-924c-dd79d5b6ae44",
+      "name": "Farmácia Saúde Centro",
+      "cnpj": "11222333020281",
+      "isActive": false,
+      "address": {
+        "street": "Rua Estados Unidos",
+        "number": "3367",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Uberlândia",
+        "state": "MG",
+        "zip": "60165-121",
+        "country": "Brasil"
+      },
+      "establishedAt": "2018-05-04"
+    },
+    {
+      "id": "9a7ce485-4cc2-4763-b790-223b3e8dc41e",
+      "name": "Drogaria Macapá",
+      "cnpj": "11222333020381",
+      "isActive": true,
+      "address": {
+        "street": "Rua Haddock Lobo",
+        "number": "1121",
+        "complement": "Sl 101",
+        "neighborhood": "Centro",
+        "city": "Macapá",
+        "state": "AP",
+        "zip": "50050-080",
+        "country": "Brasil"
+      },
+      "establishedAt": "2023-12-06"
+    },
+    {
+      "id": "92fcafc9-3f58-4ab1-9ff5-2f752bfc49b7",
+      "name": "Farmácia Cidade Nobre",
+      "cnpj": "11222333020481",
+      "isActive": true,
+      "address": {
+        "street": "Rua do Comércio",
+        "number": "2711",
+        "complement": "",
+        "neighborhood": "Cidade Nobre",
+        "city": "Ipatinga",
+        "state": "MG",
+        "zip": "80020-310",
+        "country": "Brasil"
+      },
+      "establishedAt": "2023-05-17"
+    },
+    {
+      "id": "d16a33b1-2d32-4f6c-b9df-29ff009378d5",
+      "name": "Farmácia Saúde Centro",
+      "cnpj": "11222333020581",
+      "isActive": true,
+      "address": {
+        "street": "Rua do Hospício",
+        "number": "1905",
+        "complement": "Sl 101",
+        "neighborhood": "Centro",
+        "city": "Franca",
+        "state": "SP",
+        "zip": "80020-310",
+        "country": "Brasil"
+      },
+      "establishedAt": "2012-09-25"
+    },
+    {
+      "id": "afd5c70c-adc7-45ce-aab4-1876cc15acc4",
+      "name": "Farmácia Saúde Jardim Paraíso",
+      "cnpj": "11222333020681",
+      "isActive": true,
+      "address": {
+        "street": "Rua 15 de Novembro",
+        "number": "2451",
+        "complement": "",
+        "neighborhood": "Jardim Paraíso",
+        "city": "Jacareí",
+        "state": "SP",
+        "zip": "01452-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2013-07-10"
+    },
+    {
+      "id": "06c35359-1456-4802-9890-438c9eaf0dcd",
+      "name": "Drogaria Hortolândia",
+      "cnpj": "11222333020781",
+      "isActive": true,
+      "address": {
+        "street": "Rua da Glória",
+        "number": "37",
+        "complement": "",
+        "neighborhood": "Parque Ortolândia",
+        "city": "Hortolândia",
+        "state": "SP",
+        "zip": "01310-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2012-03-27"
+    },
+    {
+      "id": "c3200492-d0b9-4d26-a613-19a480d91109",
+      "name": "Farmácia Popular Patos",
+      "cnpj": "11222333020881",
+      "isActive": false,
+      "address": {
+        "street": "Rua Pamplona",
+        "number": "3528",
+        "complement": "",
+        "neighborhood": "Salgadinho",
+        "city": "Patos",
+        "state": "PB",
+        "zip": "50050-080",
+        "country": "Brasil"
+      },
+      "establishedAt": "2015-03-22"
+    },
+    {
+      "id": "569ce246-b228-4a4a-ae50-4a26f3bf8dfc",
+      "name": "Farmácia Colatina Bela Vista",
+      "cnpj": "11222333020981",
+      "isActive": true,
+      "address": {
+        "street": "Rua Santa Cruz",
+        "number": "809",
+        "complement": "",
+        "neighborhood": "Bela Vista",
+        "city": "Colatina",
+        "state": "ES",
+        "zip": "29010-090",
+        "country": "Brasil"
+      },
+      "establishedAt": "2022-07-17"
+    },
+    {
+      "id": "61b97c2f-a206-45d0-9345-e8b6abd31bba",
+      "name": "Farmácia Jacareí Pinhão",
+      "cnpj": "11222333021081",
+      "isActive": true,
+      "address": {
+        "street": "Av. Nossa Senhora de Copacabana",
+        "number": "474",
+        "complement": "",
+        "neighborhood": "Pinhão",
+        "city": "Jacareí",
+        "state": "SP",
+        "zip": "88010-002",
+        "country": "Brasil"
+      },
+      "establishedAt": "2022-03-20"
+    },
+    {
+      "id": "ac3b1647-c579-4a29-8c3a-3f08ab18e3b4",
+      "name": "Drogaria João Pessoa",
+      "cnpj": "11222333021181",
+      "isActive": false,
+      "address": {
+        "street": "Av. Presidente Vargas",
+        "number": "2854",
+        "complement": "Sl 101",
+        "neighborhood": "Bessa",
+        "city": "João Pessoa",
+        "state": "PB",
+        "zip": "59015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2014-02-19"
+    },
+    {
+      "id": "fa8d0ab8-e628-451e-a583-ee4bd5d27cad",
+      "name": "Farmácia Gama Centro",
+      "cnpj": "11222333021281",
+      "isActive": true,
+      "address": {
+        "street": "Rua Marechal Deodoro",
+        "number": "303",
+        "complement": "Casa",
+        "neighborhood": "Centro",
+        "city": "Gama",
+        "state": "DF",
+        "zip": "80020-310",
+        "country": "Brasil"
+      },
+      "establishedAt": "2016-08-26"
+    },
+    {
+      "id": "3470ead8-1951-4f44-8a1e-f73c8f97abdc",
+      "name": "Farmácia Saúde Centro",
+      "cnpj": "11222333021381",
+      "isActive": true,
+      "address": {
+        "street": "Rua Conselheiro Dantas",
+        "number": "488",
+        "complement": "Casa",
+        "neighborhood": "Centro",
+        "city": "Belém",
+        "state": "PA",
+        "zip": "40060-001",
+        "country": "Brasil"
+      },
+      "establishedAt": "2016-01-08"
+    },
+    {
+      "id": "025b2341-88f4-4aa3-a0d4-6a035377c389",
+      "name": "Farmácia Popular Belo Horizonte",
+      "cnpj": "11222333021481",
+      "isActive": true,
+      "address": {
+        "street": "Rua Álvares Cabral",
+        "number": "2415",
+        "complement": "",
+        "neighborhood": "Pampulha",
+        "city": "Belo Horizonte",
+        "state": "MG",
+        "zip": "40060-001",
+        "country": "Brasil"
+      },
+      "establishedAt": "2018-06-16"
+    },
+    {
+      "id": "61ac36ab-5018-4b64-92ec-834f98f0f8c0",
+      "name": "Farmácia Saúde Centro",
+      "cnpj": "11222333021581",
+      "isActive": true,
+      "address": {
+        "street": "Rua Pamplona",
+        "number": "1940",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Tubarão",
+        "state": "SC",
+        "zip": "60165-121",
+        "country": "Brasil"
+      },
+      "establishedAt": "2014-02-22"
+    },
+    {
+      "id": "40dbaa2c-4f10-4582-b4b7-5c4718bfb67c",
+      "name": "Farmácia Industrial",
+      "cnpj": "11222333021681",
+      "isActive": true,
+      "address": {
+        "street": "Rua Funchal",
+        "number": "280",
+        "complement": "Bloco 1",
+        "neighborhood": "Industrial",
+        "city": "Pato Branco",
+        "state": "PR",
+        "zip": "50050-080",
+        "country": "Brasil"
+      },
+      "establishedAt": "2011-12-21"
+    },
+    {
+      "id": "ca28bb5d-0679-4a8c-be62-9ebbaa1d58f1",
+      "name": "Farmácia Saúde Jardim Camburi",
+      "cnpj": "11222333021781",
+      "isActive": true,
+      "address": {
+        "street": "Rua Sete de Abril",
+        "number": "2415",
+        "complement": "",
+        "neighborhood": "Jardim Camburi",
+        "city": "Vitória",
+        "state": "ES",
+        "zip": "88010-002",
+        "country": "Brasil"
+      },
+      "establishedAt": "2015-05-15"
+    },
+    {
+      "id": "2af7d1af-da88-4be3-82d5-b0237739efa2",
+      "name": "Drogaria Sumaré",
+      "cnpj": "11222333021881",
+      "isActive": false,
+      "address": {
+        "street": "Rua Augusta",
+        "number": "3688",
+        "complement": "Sl 101",
+        "neighborhood": "Maria Antônia",
+        "city": "Sumaré",
+        "state": "SP",
+        "zip": "60165-121",
+        "country": "Brasil"
+      },
+      "establishedAt": "2021-07-11"
+    },
+    {
+      "id": "877204e6-1562-4df7-9cf7-8b720e3fba2b",
+      "name": "Farmácia Saúde São Francisco",
+      "cnpj": "11222333021981",
+      "isActive": true,
+      "address": {
+        "street": "Av. Sete de Setembro",
+        "number": "599",
+        "complement": "",
+        "neighborhood": "São Francisco",
+        "city": "Niterói",
+        "state": "RJ",
+        "zip": "30130-151",
+        "country": "Brasil"
+      },
+      "establishedAt": "2018-04-09"
+    },
+    {
+      "id": "f4b3bc1c-b432-428a-9503-69531e1ea6d7",
+      "name": "Farmácia Saúde Centro",
+      "cnpj": "11222333022081",
+      "isActive": true,
+      "address": {
+        "street": "Rua Estados Unidos",
+        "number": "2018",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Sobral",
+        "state": "CE",
+        "zip": "22020-001",
+        "country": "Brasil"
+      },
+      "establishedAt": "2017-06-26"
+    },
+    {
+      "id": "120a2901-2ed9-4a7b-9dfd-b7cd465e929c",
+      "name": "Farmácia Popular Juazeiro",
+      "cnpj": "11222333022181",
+      "isActive": true,
+      "address": {
+        "street": "Rua Haddock Lobo",
+        "number": "1500",
+        "complement": "Sl 101",
+        "neighborhood": "João XXIII",
+        "city": "Juazeiro",
+        "state": "BA",
+        "zip": "66015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2012-11-06"
+    },
+    {
+      "id": "f553baa4-b622-4f67-979e-d0919f042074",
+      "name": "Farmácia Jardim Paraíso",
+      "cnpj": "11222333022281",
+      "isActive": true,
+      "address": {
+        "street": "Rua Teodoro Sampaio",
+        "number": "2017",
+        "complement": "",
+        "neighborhood": "Jardim Paraíso",
+        "city": "Jacareí",
+        "state": "SP",
+        "zip": "01452-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2024-07-23"
+    },
+    {
+      "id": "e972a58d-8d64-445b-822f-634ee725218d",
+      "name": "Farmácia Popular Vitória",
+      "cnpj": "11222333022381",
+      "isActive": true,
+      "address": {
+        "street": "Rua Barão de Jaguara",
+        "number": "2855",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Vitória",
+        "state": "ES",
+        "zip": "29010-090",
+        "country": "Brasil"
+      },
+      "establishedAt": "2012-12-19"
+    },
+    {
+      "id": "23d9b07a-4bf4-4f23-8d9f-10517f027a01",
+      "name": "Farmácia Saúde Guaramiranga",
+      "cnpj": "11222333022481",
+      "isActive": true,
+      "address": {
+        "street": "Rua do Imperador",
+        "number": "3976",
+        "complement": "",
+        "neighborhood": "Guaramiranga",
+        "city": "Caucaia",
+        "state": "CE",
+        "zip": "90020-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2018-04-13"
+    },
+    {
+      "id": "8307ef28-aedf-4283-b5f1-20f54f1b6a94",
+      "name": "Drogaria Alto de São Manoel",
+      "cnpj": "11222333022581",
+      "isActive": true,
+      "address": {
+        "street": "Rua Santa Cruz",
+        "number": "829",
+        "complement": "",
+        "neighborhood": "Alto de São Manoel",
+        "city": "Mossoró",
+        "state": "RN",
+        "zip": "66015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2018-07-04"
+    },
+    {
+      "id": "b2a08d52-5b12-42ea-b28d-60d37e22d8e8",
+      "name": "Farmácia Centro",
+      "cnpj": "11222333022681",
+      "isActive": false,
+      "address": {
+        "street": "Rua XV de Novembro",
+        "number": "1904",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Serra",
+        "state": "ES",
+        "zip": "74015-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2021-03-16"
+    },
+    {
+      "id": "01984bad-cae2-403f-836d-00c824a88264",
+      "name": "Drogaria Centro",
+      "cnpj": "11222333022781",
+      "isActive": true,
+      "address": {
+        "street": "Av. Portugal",
+        "number": "2846",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Santa Maria",
+        "state": "RS",
+        "zip": "30130-151",
+        "country": "Brasil"
+      },
+      "establishedAt": "2012-03-26"
+    },
+    {
+      "id": "7ce72ac4-c038-4ecb-b7f8-f1f2050ca51c",
+      "name": "Farmácia Popular Maceió",
+      "cnpj": "11222333022881",
+      "isActive": true,
+      "address": {
+        "street": "Av. Ana Costa",
+        "number": "3003",
+        "complement": "Sala 2",
+        "neighborhood": "Jatiúca",
+        "city": "Maceió",
+        "state": "AL",
+        "zip": "88010-002",
+        "country": "Brasil"
+      },
+      "establishedAt": "2024-10-07"
+    },
+    {
+      "id": "3cdc1840-3e0f-4647-acda-4dfe722e782c",
+      "name": "Farmácia Altamira Brasília",
+      "cnpj": "11222333022981",
+      "isActive": true,
+      "address": {
+        "street": "Av. Moreira e Silva",
+        "number": "2402",
+        "complement": "",
+        "neighborhood": "Brasília",
+        "city": "Altamira",
+        "state": "PA",
+        "zip": "74015-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2012-09-08"
+    },
+    {
+      "id": "779eb7e0-ad57-45da-b82a-229652b2e95a",
+      "name": "Farmácia Pres. Altino",
+      "cnpj": "11222333023081",
+      "isActive": true,
+      "address": {
+        "street": "Rua Sete de Abril",
+        "number": "3811",
+        "complement": "",
+        "neighborhood": "Pres. Altino",
+        "city": "Osasco",
+        "state": "SP",
+        "zip": "29010-090",
+        "country": "Brasil"
+      },
+      "establishedAt": "2013-09-23"
+    },
+    {
+      "id": "0fd20a03-86ab-46bb-b95f-8b0914fa1613",
+      "name": "Drogaria São Luís",
+      "cnpj": "11222333023181",
+      "isActive": true,
+      "address": {
+        "street": "Av. Moreira e Silva",
+        "number": "2885",
+        "complement": "",
+        "neighborhood": "Ponta da Areia",
+        "city": "São Luís",
+        "state": "MA",
+        "zip": "01310-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2023-05-24"
+    },
+    {
+      "id": "7734540c-c00f-4df4-9c85-08bdb20d5907",
+      "name": "Farmácia Cotia Ressaca",
+      "cnpj": "11222333023281",
+      "isActive": true,
+      "address": {
+        "street": "Rua Araújo",
+        "number": "2469",
+        "complement": "",
+        "neighborhood": "Ressaca",
+        "city": "Cotia",
+        "state": "SP",
+        "zip": "30130-151",
+        "country": "Brasil"
+      },
+      "establishedAt": "2012-09-23"
+    },
+    {
+      "id": "ddfe4db0-72cf-410a-bc37-21c733e9308d",
+      "name": "Farmácia Maringá Centro",
+      "cnpj": "11222333023381",
+      "isActive": true,
+      "address": {
+        "street": "Av. Independência",
+        "number": "544",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Maringá",
+        "state": "PR",
+        "zip": "70386-700",
+        "country": "Brasil"
+      },
+      "establishedAt": "2011-05-12"
+    },
+    {
+      "id": "fec9fc02-aeb8-4b3e-a13e-ee186394c386",
+      "name": "Drogaria Fortaleza",
+      "cnpj": "11222333023481",
+      "isActive": true,
+      "address": {
+        "street": "Rua Cidade de Santos",
+        "number": "3409",
+        "complement": "",
+        "neighborhood": "Meireles",
+        "city": "Fortaleza",
+        "state": "CE",
+        "zip": "50050-080",
+        "country": "Brasil"
+      },
+      "establishedAt": "2020-04-14"
+    },
+    {
+      "id": "aa73ef66-07e6-4e9f-92c3-bcdfd5a06962",
+      "name": "Farmácia Salvador Barra",
+      "cnpj": "11222333023581",
+      "isActive": true,
+      "address": {
+        "street": "Rua Tiradentes",
+        "number": "2385",
+        "complement": "",
+        "neighborhood": "Barra",
+        "city": "Salvador",
+        "state": "BA",
+        "zip": "60165-121",
+        "country": "Brasil"
+      },
+      "establishedAt": "2016-11-08"
+    },
+    {
+      "id": "e846b2d1-8df1-4c67-8136-d1043135c1f0",
+      "name": "Farmácia Popular Itajaí",
+      "cnpj": "11222333023681",
+      "isActive": true,
+      "address": {
+        "street": "Rua Galdino Pimentel",
+        "number": "3218",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Itajaí",
+        "state": "SC",
+        "zip": "88010-002",
+        "country": "Brasil"
+      },
+      "establishedAt": "2011-07-28"
+    },
+    {
+      "id": "7aef4bb6-8e01-402f-980c-385c2d171010",
+      "name": "Farmácia Popular Colatina",
+      "cnpj": "11222333023781",
+      "isActive": true,
+      "address": {
+        "street": "Rua Dom Pedro II",
+        "number": "642",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Colatina",
+        "state": "ES",
+        "zip": "01452-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2019-02-14"
+    },
+    {
+      "id": "17bcec8d-2cf5-4d0a-b100-90b9cba795b3",
+      "name": "Farmácia Saúde Centro",
+      "cnpj": "11222333023881",
+      "isActive": true,
+      "address": {
+        "street": "Alameda Franca",
+        "number": "3900",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Maringá",
+        "state": "PR",
+        "zip": "01310-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2019-05-10"
+    },
+    {
+      "id": "fe055ce3-9def-4213-a621-6f312b234e85",
+      "name": "Farmácia Popular Jaboticabal",
+      "cnpj": "11222333023981",
+      "isActive": true,
+      "address": {
+        "street": "Rua Galdino Pimentel",
+        "number": "2827",
+        "complement": "",
+        "neighborhood": "Vila Progresso",
+        "city": "Jaboticabal",
+        "state": "SP",
+        "zip": "80020-310",
+        "country": "Brasil"
+      },
+      "establishedAt": "2020-05-14"
+    },
+    {
+      "id": "1785cf49-e621-41bd-a132-118c6e141040",
+      "name": "Farmácia Saúde Centro",
+      "cnpj": "11222333024081",
+      "isActive": true,
+      "address": {
+        "street": "Rua Floriano Peixoto",
+        "number": "3552",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Penedo",
+        "state": "AL",
+        "zip": "88010-002",
+        "country": "Brasil"
+      },
+      "establishedAt": "2013-04-19"
+    },
+    {
+      "id": "6f73b189-43df-4a07-b59a-5ea52a3cccce",
+      "name": "Farmácia Imperatriz Vila Nova",
+      "cnpj": "11222333024181",
+      "isActive": true,
+      "address": {
+        "street": "Rua José Paulino",
+        "number": "1920",
+        "complement": "",
+        "neighborhood": "Vila Nova",
+        "city": "Imperatriz",
+        "state": "MA",
+        "zip": "74015-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2017-07-11"
+    },
+    {
+      "id": "4721749a-ac3a-4744-a9b0-dd03f3a8cd60",
+      "name": "Farmácia Cidade Nova",
+      "cnpj": "11222333024281",
+      "isActive": true,
+      "address": {
+        "street": "Rua Visconde de Inhaúma",
+        "number": "1664",
+        "complement": "",
+        "neighborhood": "Cidade Nova",
+        "city": "Ilhéus",
+        "state": "BA",
+        "zip": "40060-001",
+        "country": "Brasil"
+      },
+      "establishedAt": "2011-06-17"
+    },
+    {
+      "id": "6e9baa1d-af1b-4180-a146-a6cb7d60d133",
+      "name": "Farmácia Campinas Taquaral",
+      "cnpj": "11222333024381",
+      "isActive": true,
+      "address": {
+        "street": "Rua da Consolação",
+        "number": "3996",
+        "complement": "",
+        "neighborhood": "Taquaral",
+        "city": "Campinas",
+        "state": "SP",
+        "zip": "80020-310",
+        "country": "Brasil"
+      },
+      "establishedAt": "2013-08-28"
+    },
+    {
+      "id": "dd19c2d4-c266-4428-9d4a-addac32c14f9",
+      "name": "Drogaria Centro",
+      "cnpj": "11222333024481",
+      "isActive": true,
+      "address": {
+        "street": "Rua Conselheiro Dantas",
+        "number": "3603",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Foz do Iguaçu",
+        "state": "PR",
+        "zip": "69010-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2024-03-26"
+    },
+    {
+      "id": "6236db47-6238-4abb-a0d5-854d7e347ede",
+      "name": "Farmácia Imperatriz Centro",
+      "cnpj": "11222333024581",
+      "isActive": true,
+      "address": {
+        "street": "Rua da Glória",
+        "number": "1793",
+        "complement": "Fundos",
+        "neighborhood": "Centro",
+        "city": "Imperatriz",
+        "state": "MA",
+        "zip": "90020-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2014-09-16"
+    },
+    {
+      "id": "c82730d8-7931-4076-bb70-c51769057a94",
+      "name": "Farmácia Saúde Jardim das Indústrias",
+      "cnpj": "11222333024681",
+      "isActive": true,
+      "address": {
+        "street": "Rua Coronel Moreira Cesar",
+        "number": "3618",
+        "complement": "Galpão 3",
+        "neighborhood": "Jardim das Indústrias",
+        "city": "São José dos Campos",
+        "state": "SP",
+        "zip": "59015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2016-12-23"
+    },
+    {
+      "id": "b717b80b-55a3-45fc-b18f-749d23335c5e",
+      "name": "Farmácia Saúde Centro",
+      "cnpj": "11222333024781",
+      "isActive": true,
+      "address": {
+        "street": "Rua Frei Caneca",
+        "number": "3338",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Hortolândia",
+        "state": "SP",
+        "zip": "90020-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2015-09-09"
+    },
+    {
+      "id": "6e68cc1f-e8cf-4e3b-9ea8-011903449e9e",
+      "name": "Farmácia Popular Cariacica",
+      "cnpj": "11222333024881",
+      "isActive": true,
+      "address": {
+        "street": "Alameda Franca",
+        "number": "2891",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Cariacica",
+        "state": "ES",
+        "zip": "74015-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2022-09-21"
+    },
+    {
+      "id": "09429144-bd66-4c13-b34a-8ce32bf809a9",
+      "name": "Farmácia Cidade Nova",
+      "cnpj": "11222333024981",
+      "isActive": true,
+      "address": {
+        "street": "Rua Teodoro Sampaio",
+        "number": "1858",
+        "complement": "",
+        "neighborhood": "Cidade Nova",
+        "city": "Ilhéus",
+        "state": "BA",
+        "zip": "30130-151",
+        "country": "Brasil"
+      },
+      "establishedAt": "2013-10-04"
+    },
+    {
+      "id": "1cd25daa-c29d-4a11-a732-e5c7474a07ce",
+      "name": "Farmácia Jardim Marupiara",
+      "cnpj": "11222333025081",
+      "isActive": true,
+      "address": {
+        "street": "Rua Pamplona",
+        "number": "2341",
+        "complement": "",
+        "neighborhood": "Jardim Marupiara",
+        "city": "Presidente Prudente",
+        "state": "SP",
+        "zip": "30130-151",
+        "country": "Brasil"
+      },
+      "establishedAt": "2016-05-21"
+    },
+    {
+      "id": "d871ae64-dde7-495b-83e7-ebc1e78309f4",
+      "name": "Farmácia Jaraguá 99",
+      "cnpj": "11222333025181",
+      "isActive": true,
+      "address": {
+        "street": "Rua Álvares Cabral",
+        "number": "2225",
+        "complement": "",
+        "neighborhood": "Jaraguá 99",
+        "city": "Jaraguá do Sul",
+        "state": "SC",
+        "zip": "13015-010",
+        "country": "Brasil"
+      },
+      "establishedAt": "2015-08-19"
+    },
+    {
+      "id": "c64896ab-146f-4935-a572-5ae1534a91da",
+      "name": "Farmácia Novo Crato",
+      "cnpj": "11222333025281",
+      "isActive": true,
+      "address": {
+        "street": "Rua da Consolação",
+        "number": "866",
+        "complement": "",
+        "neighborhood": "Novo Crato",
+        "city": "Crato",
+        "state": "CE",
+        "zip": "29010-090",
+        "country": "Brasil"
+      },
+      "establishedAt": "2019-08-25"
+    },
+    {
+      "id": "edc5bf96-6d17-4ad7-b885-165e255ab8b8",
+      "name": "Farmácia Popular Florianópolis",
+      "cnpj": "11222333025381",
+      "isActive": true,
+      "address": {
+        "street": "Rua Araújo",
+        "number": "1012",
+        "complement": "",
+        "neighborhood": "Ingleses",
+        "city": "Florianópolis",
+        "state": "SC",
+        "zip": "70386-700",
+        "country": "Brasil"
+      },
+      "establishedAt": "2014-11-10"
+    },
+    {
+      "id": "1544fb06-a3f4-45c8-b395-db8325eaad2a",
+      "name": "Farmácia Altinópolis",
+      "cnpj": "11222333025481",
+      "isActive": true,
+      "address": {
+        "street": "Alameda Franca",
+        "number": "3980",
+        "complement": "",
+        "neighborhood": "Altinópolis",
+        "city": "Governador Valadares",
+        "state": "MG",
+        "zip": "74015-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2015-11-27"
+    },
+    {
+      "id": "f0267bcd-b19d-4cdf-b7db-01e5d786e97b",
+      "name": "Farmácia Osasco Pres. Altino",
+      "cnpj": "11222333025581",
+      "isActive": false,
+      "address": {
+        "street": "Rua Araújo",
+        "number": "2399",
+        "complement": "Bloco 1",
+        "neighborhood": "Pres. Altino",
+        "city": "Osasco",
+        "state": "SP",
+        "zip": "59015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2018-11-09"
+    },
+    {
+      "id": "9472a355-6817-4690-aadb-f2b91e074bcb",
+      "name": "Farmácia Ponta Grossa Centro",
+      "cnpj": "11222333025681",
+      "isActive": true,
+      "address": {
+        "street": "Rua Teodoro Sampaio",
+        "number": "2623",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Ponta Grossa",
+        "state": "PR",
+        "zip": "70386-700",
+        "country": "Brasil"
+      },
+      "establishedAt": "2017-06-05"
+    },
+    {
+      "id": "3fa00d8c-a991-40d6-8485-fd57bec7e394",
+      "name": "Drogaria Sumaré",
+      "cnpj": "11222333025781",
+      "isActive": true,
+      "address": {
+        "street": "Rua Paraná",
+        "number": "1609",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Sumaré",
+        "state": "SP",
+        "zip": "88010-002",
+        "country": "Brasil"
+      },
+      "establishedAt": "2012-09-27"
+    },
+    {
+      "id": "bdf8a86b-44e0-4d69-8332-770124d6ea0c",
+      "name": "Farmácia Popular Diadema",
+      "cnpj": "11222333025881",
+      "isActive": true,
+      "address": {
+        "street": "Rua Peixoto Gomide",
+        "number": "750",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Diadema",
+        "state": "SP",
+        "zip": "30130-151",
+        "country": "Brasil"
+      },
+      "establishedAt": "2012-10-11"
+    },
+    {
+      "id": "1d02b5a9-de51-4524-b9fc-4ae1a2384f6e",
+      "name": "Farmácia Saúde Centro",
+      "cnpj": "11222333025981",
+      "isActive": false,
+      "address": {
+        "street": "Rua da Consolação",
+        "number": "1057",
+        "complement": "1º andar",
+        "neighborhood": "Centro",
+        "city": "Blumenau",
+        "state": "SC",
+        "zip": "40060-001",
+        "country": "Brasil"
+      },
+      "establishedAt": "2011-07-09"
+    },
+    {
+      "id": "2dbebc53-2aee-427f-bf85-2f773e0d488f",
+      "name": "Drogaria Pimenta",
+      "cnpj": "11222333026081",
+      "isActive": true,
+      "address": {
+        "street": "Av. Sete de Setembro",
+        "number": "2165",
+        "complement": "",
+        "neighborhood": "Pimenta",
+        "city": "Crato",
+        "state": "CE",
+        "zip": "74015-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2022-06-10"
+    },
+    {
+      "id": "ea8ecf95-1833-4dda-91da-7d1d34dc7d9f",
+      "name": "Drogaria Várzea Grande",
+      "cnpj": "11222333026181",
+      "isActive": true,
+      "address": {
+        "street": "Rua Galdino Pimentel",
+        "number": "337",
+        "complement": "",
+        "neighborhood": "Primavera",
+        "city": "Várzea Grande",
+        "state": "MT",
+        "zip": "01310-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2018-06-16"
+    },
+    {
+      "id": "6085b063-1bee-491f-a685-555d7e4e20a0",
+      "name": "Farmácia Saúde Santa Maria",
+      "cnpj": "11222333026281",
+      "isActive": false,
+      "address": {
+        "street": "Rua Coronel Moreira Cesar",
+        "number": "2439",
+        "complement": "Bloco 1",
+        "neighborhood": "Santa Maria",
+        "city": "Parnaíba",
+        "state": "PI",
+        "zip": "30130-151",
+        "country": "Brasil"
+      },
+      "establishedAt": "2024-09-08"
+    },
+    {
+      "id": "546d20e3-52a4-420f-8d13-51105e2f4031",
+      "name": "Farmácia Popular Canoas",
+      "cnpj": "11222333026381",
+      "isActive": false,
+      "address": {
+        "street": "Av. Beira Mar",
+        "number": "1643",
+        "complement": "",
+        "neighborhood": "Niterói",
+        "city": "Canoas",
+        "state": "RS",
+        "zip": "66015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2021-11-14"
+    },
+    {
+      "id": "b9bc8e6b-65d0-4391-84cb-e4faf9425627",
+      "name": "Farmácia Centro",
+      "cnpj": "11222333026481",
+      "isActive": true,
+      "address": {
+        "street": "Av. Desembargador Moreira",
+        "number": "1034",
+        "complement": "Sala 2",
+        "neighborhood": "Centro",
+        "city": "Marabá",
+        "state": "PA",
+        "zip": "22020-001",
+        "country": "Brasil"
+      },
+      "establishedAt": "2015-08-24"
+    },
+    {
+      "id": "b4fc7501-8245-4097-9fd4-f8ad495253eb",
+      "name": "Farmácia Macapá Centro",
+      "cnpj": "11222333026581",
+      "isActive": true,
+      "address": {
+        "street": "Rua Peixoto Gomide",
+        "number": "135",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Macapá",
+        "state": "AP",
+        "zip": "29010-090",
+        "country": "Brasil"
+      },
+      "establishedAt": "2019-04-11"
+    },
+    {
+      "id": "5ffa573e-7f1e-4fc7-a815-e1da92b01638",
+      "name": "Farmácia Popular Franca",
+      "cnpj": "11222333026681",
+      "isActive": true,
+      "address": {
+        "street": "Av. Presidente Vargas",
+        "number": "2020",
+        "complement": "Galpão 3",
+        "neighborhood": "Redentora",
+        "city": "Franca",
+        "state": "SP",
+        "zip": "59015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2017-10-10"
+    },
+    {
+      "id": "90deeacb-f24b-4c9a-87f5-b30857b4bb82",
+      "name": "Farmácia Popular Diadema",
+      "cnpj": "11222333026781",
+      "isActive": true,
+      "address": {
+        "street": "Rua do Príncipe",
+        "number": "505",
+        "complement": "",
+        "neighborhood": "Serra",
+        "city": "Diadema",
+        "state": "SP",
+        "zip": "80020-310",
+        "country": "Brasil"
+      },
+      "establishedAt": "2016-10-06"
+    },
+    {
+      "id": "024df54d-bddb-42f4-a214-465c0a055217",
+      "name": "Farmácia Jardim Morumbi",
+      "cnpj": "11222333026881",
+      "isActive": true,
+      "address": {
+        "street": "Rua São João",
+        "number": "1573",
+        "complement": "1º andar",
+        "neighborhood": "Jardim Morumbi",
+        "city": "Indaiatuba",
+        "state": "SP",
+        "zip": "69010-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2022-01-20"
+    },
+    {
+      "id": "b6220296-015f-44dd-9ade-c043f9ddf7ce",
+      "name": "Farmácia Popular Marabá",
+      "cnpj": "11222333026981",
+      "isActive": true,
+      "address": {
+        "street": "Rua Tiradentes",
+        "number": "14",
+        "complement": "Sl 101",
+        "neighborhood": "Centro",
+        "city": "Marabá",
+        "state": "PA",
+        "zip": "50050-080",
+        "country": "Brasil"
+      },
+      "establishedAt": "2010-07-24"
+    },
+    {
+      "id": "91a02a40-e2ec-40e2-8bb8-ce1a7adf2cb7",
+      "name": "Drogaria Embaré",
+      "cnpj": "11222333027081",
+      "isActive": false,
+      "address": {
+        "street": "Av. Hermes da Fonseca",
+        "number": "521",
+        "complement": "1º andar",
+        "neighborhood": "Embaré",
+        "city": "Santos",
+        "state": "SP",
+        "zip": "01320-200",
+        "country": "Brasil"
+      },
+      "establishedAt": "2011-05-27"
+    },
+    {
+      "id": "1d3d40d1-5dec-411b-892d-f086e4385002",
+      "name": "Drogaria Jardim Morumbi",
+      "cnpj": "11222333027181",
+      "isActive": true,
+      "address": {
+        "street": "Rua Visconde de Pirajá",
+        "number": "1068",
+        "complement": "",
+        "neighborhood": "Jardim Morumbi",
+        "city": "Indaiatuba",
+        "state": "SP",
+        "zip": "50050-080",
+        "country": "Brasil"
+      },
+      "establishedAt": "2021-12-05"
+    },
+    {
+      "id": "2ed74606-db2a-4a7c-bd95-06870556dce9",
+      "name": "Drogaria Jardim Oratório",
+      "cnpj": "11222333027281",
+      "isActive": true,
+      "address": {
+        "street": "Rua Sergipe",
+        "number": "2694",
+        "complement": "Loja A",
+        "neighborhood": "Jardim Oratório",
+        "city": "Mauá",
+        "state": "SP",
+        "zip": "22020-001",
+        "country": "Brasil"
+      },
+      "establishedAt": "2020-05-02"
+    },
+    {
+      "id": "b23ab44a-f8a8-4f83-8016-f5678851d74e",
+      "name": "Farmácia Popular João Pessoa",
+      "cnpj": "11222333027381",
+      "isActive": true,
+      "address": {
+        "street": "Rua Araújo",
+        "number": "1962",
+        "complement": "",
+        "neighborhood": "Bessa",
+        "city": "João Pessoa",
+        "state": "PB",
+        "zip": "74015-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2019-09-03"
+    },
+    {
+      "id": "47f7464b-a0bb-4285-a51c-add3482867d4",
+      "name": "Farmácia Mauá Vila Guarani",
+      "cnpj": "11222333027481",
+      "isActive": true,
+      "address": {
+        "street": "Rua Cidade de Santos",
+        "number": "1364",
+        "complement": "Sala 2",
+        "neighborhood": "Vila Guarani",
+        "city": "Mauá",
+        "state": "SP",
+        "zip": "59015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2019-10-06"
+    },
+    {
+      "id": "4dbe3f08-a2f0-48b0-853e-35afa50f00fb",
+      "name": "Drogaria Crato",
+      "cnpj": "11222333027581",
+      "isActive": true,
+      "address": {
+        "street": "Av. Nossa Senhora de Copacabana",
+        "number": "3209",
+        "complement": "Sala 2",
+        "neighborhood": "Seminário",
+        "city": "Crato",
+        "state": "CE",
+        "zip": "59015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2019-01-28"
+    },
+    {
+      "id": "f3f6d26a-4d96-43b6-8acf-ae9ddde8479d",
+      "name": "Farmácia Popular Gravataí",
+      "cnpj": "11222333027681",
+      "isActive": true,
+      "address": {
+        "street": "Av. Constantino Nery",
+        "number": "2092",
+        "complement": "Sala 2",
+        "neighborhood": "Centro",
+        "city": "Gravataí",
+        "state": "RS",
+        "zip": "88010-002",
+        "country": "Brasil"
+      },
+      "establishedAt": "2021-05-15"
+    },
+    {
+      "id": "d908349b-4e39-46a1-bc85-22b369850218",
+      "name": "Drogaria Centro",
+      "cnpj": "11222333027781",
+      "isActive": true,
+      "address": {
+        "street": "Av. Nossa Senhora de Copacabana",
+        "number": "2413",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Timon",
+        "state": "MA",
+        "zip": "22020-001",
+        "country": "Brasil"
+      },
+      "establishedAt": "2018-05-06"
+    },
+    {
+      "id": "9d4911b6-5bb3-4f45-b16e-0cb06ae30335",
+      "name": "Farmácia Saúde Ponte Nova",
+      "cnpj": "11222333027881",
+      "isActive": true,
+      "address": {
+        "street": "Rua Florêncio de Abreu",
+        "number": "1071",
+        "complement": "",
+        "neighborhood": "Ponte Nova",
+        "city": "Santa Luzia",
+        "state": "MG",
+        "zip": "01452-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2021-01-26"
+    },
+    {
+      "id": "5c9346ab-2283-4e28-9530-8d68bc2917ed",
+      "name": "Drogaria Embu das Artes",
+      "cnpj": "11222333027981",
+      "isActive": true,
+      "address": {
+        "street": "Rua São Bento",
+        "number": "3873",
+        "complement": "",
+        "neighborhood": "Vila Dom José",
+        "city": "Embu das Artes",
+        "state": "SP",
+        "zip": "30130-151",
+        "country": "Brasil"
+      },
+      "establishedAt": "2017-05-12"
+    },
+    {
+      "id": "a2aedd1a-24c2-468a-96ca-e50957152736",
+      "name": "Farmácia Sumaré Parque Industrial",
+      "cnpj": "11222333028081",
+      "isActive": true,
+      "address": {
+        "street": "Av. Presidente Vargas",
+        "number": "2040",
+        "complement": "",
+        "neighborhood": "Parque Industrial",
+        "city": "Sumaré",
+        "state": "SP",
+        "zip": "50050-080",
+        "country": "Brasil"
+      },
+      "establishedAt": "2015-05-24"
+    },
+    {
+      "id": "a2e2ac1e-9f9b-4678-b0c0-7594f5ee0c21",
+      "name": "Drogaria Garavelo",
+      "cnpj": "11222333028181",
+      "isActive": true,
+      "address": {
+        "street": "Rua Antonio Agú",
+        "number": "3166",
+        "complement": "",
+        "neighborhood": "Garavelo",
+        "city": "Aparecida de Goiânia",
+        "state": "GO",
+        "zip": "80020-310",
+        "country": "Brasil"
+      },
+      "establishedAt": "2023-03-15"
+    },
+    {
+      "id": "b4e8917d-0116-47f2-8791-1abc3419d217",
+      "name": "Farmácia Popular Praia Grande",
+      "cnpj": "11222333028281",
+      "isActive": true,
+      "address": {
+        "street": "Rua 24 de Maio",
+        "number": "693",
+        "complement": "Fundos",
+        "neighborhood": "Boqueirão",
+        "city": "Praia Grande",
+        "state": "SP",
+        "zip": "30130-151",
+        "country": "Brasil"
+      },
+      "establishedAt": "2023-01-24"
+    },
+    {
+      "id": "65fd4cc2-80bb-4e70-afca-36984755d21c",
+      "name": "Farmácia Popular Patos",
+      "cnpj": "11222333028381",
+      "isActive": true,
+      "address": {
+        "street": "Rua Dom Pedro II",
+        "number": "1766",
+        "complement": "",
+        "neighborhood": "Belém",
+        "city": "Patos",
+        "state": "PB",
+        "zip": "90020-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2016-03-15"
+    },
+    {
+      "id": "302f363a-a42c-418b-a8de-30cbe9447f30",
+      "name": "Farmácia Brasília",
+      "cnpj": "11222333028481",
+      "isActive": true,
+      "address": {
+        "street": "Rua Duque de Caxias",
+        "number": "2466",
+        "complement": "Casa",
+        "neighborhood": "Brasília",
+        "city": "Feira de Santana",
+        "state": "BA",
+        "zip": "80020-310",
+        "country": "Brasil"
+      },
+      "establishedAt": "2011-03-11"
+    },
+    {
+      "id": "a83aab45-4ca5-49e8-b330-e2ba380ef139",
+      "name": "Drogaria Centro",
+      "cnpj": "11222333028581",
+      "isActive": true,
+      "address": {
+        "street": "Rua do Hospício",
+        "number": "988",
+        "complement": "Sobrado",
+        "neighborhood": "Centro",
+        "city": "Araçatuba",
+        "state": "SP",
+        "zip": "90020-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2014-06-01"
+    },
+    {
+      "id": "bac1f7ac-2d34-4e45-b8f2-3b159c0cbf0c",
+      "name": "Drogaria Taquaral",
+      "cnpj": "11222333028681",
+      "isActive": true,
+      "address": {
+        "street": "Av. Pres. Costa e Silva",
+        "number": "2186",
+        "complement": "",
+        "neighborhood": "Taquaral",
+        "city": "Campinas",
+        "state": "SP",
+        "zip": "70386-700",
+        "country": "Brasil"
+      },
+      "establishedAt": "2015-10-22"
+    },
+    {
+      "id": "2db6eb4c-6ebb-4e00-922f-ae3a57ddc93b",
+      "name": "Farmácia Americana Centro",
+      "cnpj": "11222333028781",
+      "isActive": true,
+      "address": {
+        "street": "Rua Chile",
+        "number": "2904",
+        "complement": "Sobrado",
+        "neighborhood": "Centro",
+        "city": "Americana",
+        "state": "SP",
+        "zip": "90020-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2022-07-22"
+    },
+    {
+      "id": "258e7dfa-60d4-49de-a640-7fb61454d5f7",
+      "name": "Drogaria Canoas",
+      "cnpj": "11222333028881",
+      "isActive": true,
+      "address": {
+        "street": "Rua Joaquim Floriano",
+        "number": "101",
+        "complement": "",
+        "neighborhood": "Niterói",
+        "city": "Canoas",
+        "state": "RS",
+        "zip": "29010-090",
+        "country": "Brasil"
+      },
+      "establishedAt": "2015-05-03"
+    },
+    {
+      "id": "50971553-431a-4cdf-8aca-a6b3f7f88b09",
+      "name": "Farmácia Popular Guarapuava",
+      "cnpj": "11222333028981",
+      "isActive": true,
+      "address": {
+        "street": "Rua Sergipe",
+        "number": "3691",
+        "complement": "",
+        "neighborhood": "Bonsucesso",
+        "city": "Guarapuava",
+        "state": "PR",
+        "zip": "59015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2017-04-06"
+    },
+    {
+      "id": "0d38eb19-53fb-4a93-a26f-5d4841d7030f",
+      "name": "Farmácia Centro",
+      "cnpj": "11222333029081",
+      "isActive": true,
+      "address": {
+        "street": "Rua da Penha",
+        "number": "1479",
+        "complement": "Bloco 1",
+        "neighborhood": "Centro",
+        "city": "Timon",
+        "state": "MA",
+        "zip": "80020-310",
+        "country": "Brasil"
+      },
+      "establishedAt": "2012-11-07"
+    },
+    {
+      "id": "cf8cea0b-d721-41d3-a717-16e76e83ab20",
+      "name": "Farmácia Aparecida de Goiânia Independência",
+      "cnpj": "11222333029181",
+      "isActive": false,
+      "address": {
+        "street": "Av. Rio Branco",
+        "number": "1887",
+        "complement": "",
+        "neighborhood": "Independência",
+        "city": "Aparecida de Goiânia",
+        "state": "GO",
+        "zip": "01320-200",
+        "country": "Brasil"
+      },
+      "establishedAt": "2011-10-13"
+    },
+    {
+      "id": "14e40530-d606-4ed4-8756-9b9f960fb4bd",
+      "name": "Drogaria Brasília",
+      "cnpj": "11222333029281",
+      "isActive": true,
+      "address": {
+        "street": "Av. Desembargador Moreira",
+        "number": "3104",
+        "complement": "Sala 2",
+        "neighborhood": "Brasília",
+        "city": "Arapiraca",
+        "state": "AL",
+        "zip": "01310-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2011-01-27"
+    },
+    {
+      "id": "f14ef04e-ca85-498a-b853-027f03a7bcc8",
+      "name": "Farmácia Saúde Itaipava",
+      "cnpj": "11222333029381",
+      "isActive": true,
+      "address": {
+        "street": "Rua do Ouvidor",
+        "number": "1388",
+        "complement": "",
+        "neighborhood": "Itaipava",
+        "city": "Petrópolis",
+        "state": "RJ",
+        "zip": "88010-002",
+        "country": "Brasil"
+      },
+      "establishedAt": "2011-07-12"
+    },
+    {
+      "id": "6836a670-f0f5-4f0b-87fd-f10ad0207e05",
+      "name": "Farmácia Ponta Negra",
+      "cnpj": "11222333029481",
+      "isActive": true,
+      "address": {
+        "street": "Rua Duque de Caxias",
+        "number": "3537",
+        "complement": "",
+        "neighborhood": "Ponta Negra",
+        "city": "Natal",
+        "state": "RN",
+        "zip": "22020-001",
+        "country": "Brasil"
+      },
+      "establishedAt": "2018-08-14"
+    },
+    {
+      "id": "4eb50295-25fa-4b93-ab9c-9570c74c3761",
+      "name": "Farmácia Cachoeirinha",
+      "cnpj": "11222333029581",
+      "isActive": true,
+      "address": {
+        "street": "Av. Beira Mar",
+        "number": "2003",
+        "complement": "",
+        "neighborhood": "Cachoeirinha",
+        "city": "Manaus",
+        "state": "AM",
+        "zip": "59015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2023-06-13"
+    },
+    {
+      "id": "b1b912cf-16db-4af0-b0ef-6a5b7d5fc008",
+      "name": "Drogaria Araraquara",
+      "cnpj": "11222333029681",
+      "isActive": true,
+      "address": {
+        "street": "Rua do Ouvidor",
+        "number": "484",
+        "complement": "",
+        "neighborhood": "São José",
+        "city": "Araraquara",
+        "state": "SP",
+        "zip": "66015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2010-03-11"
+    },
+    {
+      "id": "0f9abb23-67dd-4597-9fd5-efc004cc2205",
+      "name": "Farmácia Industrial",
+      "cnpj": "11222333029781",
+      "isActive": true,
+      "address": {
+        "street": "Av. Moreira e Silva",
+        "number": "3904",
+        "complement": "",
+        "neighborhood": "Industrial",
+        "city": "Sete Lagoas",
+        "state": "MG",
+        "zip": "01320-200",
+        "country": "Brasil"
+      },
+      "establishedAt": "2024-07-06"
+    },
+    {
+      "id": "cf9dea70-8419-4d7c-9140-d5dfd092c460",
+      "name": "Drogaria Salgado",
+      "cnpj": "11222333029881",
+      "isActive": false,
+      "address": {
+        "street": "Rua Conselheiro Dantas",
+        "number": "1468",
+        "complement": "",
+        "neighborhood": "Salgado",
+        "city": "Caruaru",
+        "state": "PE",
+        "zip": "66015-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2023-07-28"
+    },
+    {
+      "id": "aed3fea9-4f25-45b4-81f7-d38512ff70c8",
+      "name": "Drogaria Ribeira",
+      "cnpj": "11222333029981",
+      "isActive": true,
+      "address": {
+        "street": "Rua Álvares Cabral",
+        "number": "1037",
+        "complement": "",
+        "neighborhood": "Ribeira",
+        "city": "Penedo",
+        "state": "AL",
+        "zip": "90020-000",
+        "country": "Brasil"
+      },
+      "establishedAt": "2016-03-05"
+    },
+    {
+      "id": "d0b8d52e-66eb-4069-9799-cbc6bed276b1",
+      "name": "Farmácia Centro",
+      "cnpj": "11222333030081",
+      "isActive": false,
+      "address": {
+        "street": "Av. Boa Viagem",
+        "number": "2767",
+        "complement": "",
+        "neighborhood": "Centro",
+        "city": "Osasco",
+        "state": "SP",
+        "zip": "01310-100",
+        "country": "Brasil"
+      },
+      "establishedAt": "2019-11-25"
+    }
+  ]
+}

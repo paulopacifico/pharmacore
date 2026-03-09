@@ -1,0 +1,8 @@
+# Arquivo base de configuracao do Codex para o projeto Pharmacore.
+# Usado por scripts/mpc/setup-mcps.js quando ~/.codex/config.toml ainda nao existe.
+
+model = "gpt-5.3-codex"
+model_reasoning_effort = "high"
+
+[projects."__PROJECT_ROOT__"]
+trust_level = "trusted"

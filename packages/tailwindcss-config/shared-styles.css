@@ -1,0 +1,51 @@
+@import "tailwindcss";
+
+@theme {
+  /* Backgrounds */
+  --color-bg-page: #1f1f2f;
+  --color-bg-sidebar: #191925;
+  --color-bg-card: #27273a;
+  --color-bg-card-hover: #313149;
+  --color-bg-input: #25243a;
+
+  /* Text */
+  --color-text-primary: #EEF1FF;
+  --color-text-secondary: #D5DAEC;
+  --color-text-muted: #A5ADC6;
+  --color-text-on-accent: #F8FAFF;
+
+  /* Borders */
+  --color-border-subtle: #3c3c58;
+  --color-border-card: #3C4450;
+  --color-border-strong: #4f4f70;
+  --color-border-input: #3e4058;
+
+  /* Accents */
+  --color-accent-blue: #3B82F6;
+  --color-accent-purple: #6366F1;
+  --color-accent-cyan: #06B6D4;
+
+  /* Status */
+  --color-status-success: #10b981;
+  --color-status-error: #f43f5e;
+  --color-status-warning: #f59e0b;
+  --color-status-info: #3B82F6;
+
+  /* KPI */
+  --color-kpi-blue: #1D4ED8;
+  --color-kpi-purple: #4338CA;
+  --color-kpi-cyan: #0E7490;
+  --color-kpi-graphite: #243246;
+
+  /* Glass */
+  --color-glass-card: #FFFFFF07;
+  --color-glass-border: #FFFFFF10;
+
+  /* Nav */
+  --color-nav-active-bg: #FFFFFF12;
+
+  /* Radius */
+  --radius-sm: 8px;
+  --radius-btn: 10px;
+  --radius-card: 14px;
+}

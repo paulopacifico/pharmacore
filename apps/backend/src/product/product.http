@@ -1,0 +1,75 @@
+### Variáveis
+
+@baseUrl = http://localhost:4000
+@productId = 9e2c70d2-0498-49eb-8229-886ae1835bd8
+@categoryId = 032ef517-d520-4fc2-ba4c-dfb1a8ef9c28
+@subcategoryId = f5b3efbe-053b-4b8f-9b03-6056cd3de219
+@token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkY2MxNDI4MC1lZGRlLTQ1OGQtYmY2Ni0wN2I5ZDEyZWQ3NjciLCJuYW1lIjoiQWRtaW4gVXNlciIsImVtYWlsIjoiYWRtaW5AZXhhbXBsZS5jb20iLCJpYXQiOjE3Njk5Nzk4NzMsImV4cCI6MTc2OTk4MzQ3M30.aDVcHMLIrhjI8l-0rvi4k9dt4vLysvBiBSlkk_P4CUY
+
+@search = Comprimido
+
+### Criar um novo produto
+
+POST {{baseUrl}}/products HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+{
+    "name": "Desodorante Antitranspirante Aerosol",
+    "description": "Desodorante antitranspirante aerosol com proteção 48h. Frasco de 150ml, fragrância suave.",
+    "imagesURL": ["https://via.placeholder.com/300x300?text=Desodorante+Aerosol"],
+    "price": 15.99,
+    "subcategoryId": "d69a12d3-e42e-46e6-ad36-c9a6db7ac93c",
+    "sku": "aaaa-0001"
+}
+
+
+### Listar todos os produtos
+
+GET {{baseUrl}}/products HTTP/1.1
+Authorization: Bearer {{token}}
+
+
+### Listar produtos por categoria
+
+GET {{baseUrl}}/products?categoryId={{categoryId}} HTTP/1.1
+Authorization: Bearer {{token}}
+
+
+### Listar produtos por subcategoria
+
+GET {{baseUrl}}/products?subcategoryId={{subcategoryId}} HTTP/1.1
+Authorization: Bearer {{token}}
+
+
+### Listar produtos por search text
+
+GET {{baseUrl}}/products?search={{search}} HTTP/1.1
+Authorization: Bearer {{token}}
+
+
+### Buscar produto por ID
+
+GET {{baseUrl}}/products/{{productId}} HTTP/1.1
+Authorization: Bearer {{token}}
+
+
+### Atualizar produto (todos os campos)
+
+PATCH {{baseUrl}}/products/{{productId}} HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+{
+	"name": "Atualizado",
+	"description": "Analgésico e antitérmico atualizado. Comprimido de 500mg com 20 unidades.",
+	"imagesURL": ["https://via.placeholder.com/300x300?text=Dipirona+Updated"],
+	"price": 14.99,
+    "sku": "aaaa-0002",
+    "subcategoryId": "f5b3efbe-053b-4b8f-9b03-6056cd3de219"
+}
+
+### Deletar produto
+
+DELETE {{baseUrl}}/products/{{productId}} HTTP/1.1
+Authorization: Bearer {{token}}

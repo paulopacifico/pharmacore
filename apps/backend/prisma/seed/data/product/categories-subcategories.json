@@ -1,0 +1,540 @@
+{
+  "generatedAt": "2026-02-16T13:33:10.484Z",
+  "total": 9,
+  "items": [
+    {
+      "alias": "conveniencia",
+      "name": "Conveniência",
+      "subcategories": [
+        {
+          "alias": "acessorios",
+          "name": "Acessórios",
+          "order": 0
+        },
+        {
+          "alias": "alimentos",
+          "name": "Alimentos",
+          "order": 1
+        },
+        {
+          "alias": "bebidas",
+          "name": "Bebidas",
+          "order": 2
+        },
+        {
+          "alias": "brinquedos",
+          "name": "Brinquedos",
+          "order": 3
+        },
+        {
+          "alias": "casa",
+          "name": "Casa",
+          "order": 4
+        },
+        {
+          "alias": "portateis",
+          "name": "Portáteis",
+          "order": 5
+        },
+        {
+          "alias": "roupas",
+          "name": "Roupas",
+          "order": 6
+        },
+        {
+          "alias": "utilidades",
+          "name": "Utilidades",
+          "order": 7
+        }
+      ]
+    },
+    {
+      "alias": "cuidados-pessoais-e-beleza",
+      "name": "Cuidados Pessoais E Beleza",
+      "subcategories": [
+        {
+          "alias": "descolorantes",
+          "name": "Descolorantes",
+          "order": 0
+        },
+        {
+          "alias": "geriatrico",
+          "name": "Geriátrico",
+          "order": 1
+        }
+      ]
+    },
+    {
+      "alias": "dermo-e-beleza",
+      "name": "Dermo & Beleza",
+      "subcategories": [
+        {
+          "alias": "cabelos",
+          "name": "Cuidados com os cabelos",
+          "order": 0
+        },
+        {
+          "alias": "coloracao",
+          "name": "Coloração",
+          "order": 1
+        },
+        {
+          "alias": "corpo",
+          "name": "Corpo",
+          "order": 2
+        },
+        {
+          "alias": "cosmeticos-veganos",
+          "name": "Veganos",
+          "order": 3
+        },
+        {
+          "alias": "kit-protetor-solar",
+          "name": "Kit Protetor Solar",
+          "order": 4
+        },
+        {
+          "alias": "maquiagem",
+          "name": "Maquiagem",
+          "order": 5
+        },
+        {
+          "alias": "perfumes-e-colonias",
+          "name": "Perfumes e Colônias",
+          "order": 6
+        },
+        {
+          "alias": "protetores-solares-corporais",
+          "name": "Protetores Solares Corporais",
+          "order": 7
+        },
+        {
+          "alias": "protetores-solares-faciais",
+          "name": "Protetor Solar Facial",
+          "order": 8
+        },
+        {
+          "alias": "rosto",
+          "name": "Rosto",
+          "order": 9
+        },
+        {
+          "alias": "unhas",
+          "name": "Unhas",
+          "order": 10
+        }
+      ]
+    },
+    {
+      "alias": "higiene-pessoal",
+      "name": "Higiene Pessoal",
+      "subcategories": [
+        {
+          "alias": "absorventes",
+          "name": "Absorventes",
+          "order": 0
+        },
+        {
+          "alias": "acessorios-higiene-pessoal",
+          "name": "Acessórios",
+          "order": 1
+        },
+        {
+          "alias": "cuidados-adultos",
+          "name": "Cuidados Adultos",
+          "order": 2
+        },
+        {
+          "alias": "cuidados-masculinos",
+          "name": "Cuidados Masculinos",
+          "order": 3
+        },
+        {
+          "alias": "depilacao",
+          "name": "Depilação",
+          "order": 4
+        },
+        {
+          "alias": "desodorantes",
+          "name": "Desodorantes",
+          "order": 5
+        },
+        {
+          "alias": "higiene-diaria",
+          "name": "Higiene Diária",
+          "order": 6
+        },
+        {
+          "alias": "pes-e-maos",
+          "name": "Pés e Mãos",
+          "order": 7
+        },
+        {
+          "alias": "produtos-veganos",
+          "name": "Produtos Veganos",
+          "order": 8
+        },
+        {
+          "alias": "repelentes",
+          "name": "Repelentes",
+          "order": 9
+        },
+        {
+          "alias": "sabonetes",
+          "name": "Sabonetes",
+          "order": 10
+        },
+        {
+          "alias": "saude-bucal",
+          "name": "Saúde Bucal",
+          "order": 11
+        }
+      ]
+    },
+    {
+      "alias": "mamaes-e-bebes",
+      "name": "Mamães e Bebês",
+      "subcategories": [
+        {
+          "alias": "acessorios-mamaes-e-bebes",
+          "name": "Acessórios",
+          "order": 0
+        },
+        {
+          "alias": "alimentos-mamaes-e-bebes",
+          "name": "Alimentos",
+          "order": 1
+        },
+        {
+          "alias": "aparelhos",
+          "name": "Aparelhos",
+          "order": 2
+        },
+        {
+          "alias": "banho",
+          "name": "Banho",
+          "order": 3
+        },
+        {
+          "alias": "cuidados-com-a-pele",
+          "name": "Cuidados com a pele",
+          "order": 4
+        },
+        {
+          "alias": "farmacinha-infantil",
+          "name": "Farmacinha Infantil",
+          "order": 5
+        },
+        {
+          "alias": "fraldas",
+          "name": "Fraldas",
+          "order": 6
+        },
+        {
+          "alias": "higiene-bucal",
+          "name": "Higiene Bucal",
+          "order": 7
+        },
+        {
+          "alias": "higiene",
+          "name": "Higiene",
+          "order": 8
+        },
+        {
+          "alias": "kits-infantis",
+          "name": "Kits Infantis",
+          "order": 9
+        },
+        {
+          "alias": "mamaes-e-gestantes",
+          "name": "Mamães e Gestantes",
+          "order": 10
+        },
+        {
+          "alias": "pos-banho",
+          "name": "Pós banho",
+          "order": 11
+        },
+        {
+          "alias": "troca-de-fralda",
+          "name": "Troca de Fralda",
+          "order": 12
+        }
+      ]
+    },
+    {
+      "alias": "manipulacao",
+      "name": "Manipulação",
+      "subcategories": [
+        {
+          "alias": "cabelos-e-unhas",
+          "name": "Cabelos e unhas",
+          "order": 0
+        },
+        {
+          "alias": "cuidados-com-a-pele-manipulacao",
+          "name": "Cuidados com a pele",
+          "order": 1
+        },
+        {
+          "alias": "emagrecedores",
+          "name": "Emagrecedores",
+          "order": 2
+        },
+        {
+          "alias": "pre-e-pos-treino",
+          "name": "Pré e pós treino",
+          "order": 3
+        },
+        {
+          "alias": "saude-e-qualidade-de-vida",
+          "name": "Saúde e qualidade de vida",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "alias": "medicamentos-e-saude",
+      "name": "Medicamentos e Saúde",
+      "subcategories": [
+        {
+          "alias": "alergias",
+          "name": "Antialérgicos",
+          "order": 0
+        },
+        {
+          "alias": "anemia",
+          "name": "Anemia",
+          "order": 1
+        },
+        {
+          "alias": "antiparasitarios",
+          "name": "Vermífugos e Antiparasitários",
+          "order": 2
+        },
+        {
+          "alias": "aparelhos-para-saude",
+          "name": "Aparelhos Para saúde",
+          "order": 3
+        },
+        {
+          "alias": "calmantes-naturais",
+          "name": "Calmantes Naturais",
+          "order": 4
+        },
+        {
+          "alias": "canabinoides",
+          "name": "Canabinoides",
+          "order": 5
+        },
+        {
+          "alias": "colesterol-e-trigliceridios",
+          "name": "Colesterol e Triglicerídios",
+          "order": 6
+        },
+        {
+          "alias": "contraceptivos",
+          "name": "Contraceptivos",
+          "order": 7
+        },
+        {
+          "alias": "cuidados-com-a-circulacao",
+          "name": "Cuidados com a Circulação",
+          "order": 8
+        },
+        {
+          "alias": "diabetes",
+          "name": "Diabetes",
+          "order": 9
+        },
+        {
+          "alias": "dor-febre-e-inflamacao",
+          "name": "Dor, Febre e Inflamação",
+          "order": 10
+        },
+        {
+          "alias": "emagrecedores-medicamentos-e-saude",
+          "name": "Emagrecedores",
+          "order": 11
+        },
+        {
+          "alias": "fitoterapicos-e-naturais",
+          "name": "Fitoterápicos e Naturais",
+          "order": 12
+        },
+        {
+          "alias": "gripes-e-resfriados",
+          "name": "Gripes e Resfriados",
+          "order": 13
+        },
+        {
+          "alias": "infeccao-urinaria",
+          "name": "Infecção Urinária",
+          "order": 14
+        },
+        {
+          "alias": "medicamentos-importados",
+          "name": "Medicamentos Importados",
+          "order": 15
+        },
+        {
+          "alias": "oftalmico",
+          "name": "Oftálmico",
+          "order": 16
+        },
+        {
+          "alias": "ortopedicos",
+          "name": "Ortopédicos",
+          "order": 17
+        },
+        {
+          "alias": "ossos-e-articulacoes",
+          "name": "Ossos e Articulações",
+          "order": 18
+        },
+        {
+          "alias": "pele-e-mucosa",
+          "name": "Pele e Mucosa",
+          "order": 19
+        },
+        {
+          "alias": "pressao-alta",
+          "name": "Pressão Alta",
+          "order": 20
+        },
+        {
+          "alias": "primeiros-socorros",
+          "name": "Primeiros Socorros",
+          "order": 21
+        },
+        {
+          "alias": "reposicao-hormonal",
+          "name": "Reposição Hormonal",
+          "order": 22
+        },
+        {
+          "alias": "saude-da-mulher",
+          "name": "Saúde da Mulher",
+          "order": 23
+        },
+        {
+          "alias": "saude-do-homem",
+          "name": "Saúde do Homem",
+          "order": 24
+        },
+        {
+          "alias": "sistema-digestivo",
+          "name": "Sistema Digestivo",
+          "order": 25
+        },
+        {
+          "alias": "sistema-nervoso-central",
+          "name": "Sistema Nervoso Central",
+          "order": 26
+        },
+        {
+          "alias": "sistema-respiratorio",
+          "name": "Sistema Respiratório",
+          "order": 27
+        },
+        {
+          "alias": "tireoide",
+          "name": "Tireoide",
+          "order": 28
+        },
+        {
+          "alias": "vitaminas-e-minerais",
+          "name": "Vitaminas e Minerais",
+          "order": 29
+        }
+      ]
+    },
+    {
+      "alias": "servicos-de-saude",
+      "name": "Serviços de Saúde",
+      "subcategories": [
+        {
+          "alias": "exames-de-analises-clinicas",
+          "name": "Exames de Análises Clínicas",
+          "order": 0
+        },
+        {
+          "alias": "servicos-basicos",
+          "name": "Serviços básicos",
+          "order": 1
+        },
+        {
+          "alias": "vacinas",
+          "name": "Vacinas",
+          "order": 2
+        }
+      ]
+    },
+    {
+      "alias": "vida-saudavel",
+      "name": "Vida Saudável",
+      "subcategories": [
+        {
+          "alias": "acessorios-vida-saudavel",
+          "name": "Acessórios",
+          "order": 0
+        },
+        {
+          "alias": "alimentos-vida-saudavel",
+          "name": "Alimentos",
+          "order": 1
+        },
+        {
+          "alias": "florais",
+          "name": "Florais",
+          "order": 2
+        },
+        {
+          "alias": "multivitaminicos-e-nutrientes",
+          "name": "Multivitamínicos e Nutrientes",
+          "order": 3
+        },
+        {
+          "alias": "oleos-essenciais-e-difusores",
+          "name": "Óleos Essenciais e Difusores",
+          "order": 4
+        },
+        {
+          "alias": "para-exercicios",
+          "name": "Para exercícios",
+          "order": 5
+        },
+        {
+          "alias": "performance-e-bem-estar",
+          "name": "Performance e Bem-Estar",
+          "order": 6
+        },
+        {
+          "alias": "suplementos-naturais",
+          "name": "Suplementos Naturais",
+          "order": 7
+        },
+        {
+          "alias": "suplementos-por-fase-da-vida",
+          "name": "Suplementos por Fase da Vida",
+          "order": 8
+        },
+        {
+          "alias": "tipos-de-vitaminas",
+          "name": "Tipos de Vitaminas",
+          "order": 9
+        },
+        {
+          "alias": "veganos",
+          "name": "Veganos",
+          "order": 10
+        },
+        {
+          "alias": "whey-protein",
+          "name": "Whey protein",
+          "order": 11
+        }
+      ]
+    }
+  ]
+}

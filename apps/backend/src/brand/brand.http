@@ -1,0 +1,47 @@
+### Variáveis
+
+@baseUrl = http://localhost:4000
+@brandId = 032ef517-d520-4fc2-ba4c-dfb1a8ef9c28
+@token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkY2MxNDI4MC1lZGRlLTQ1OGQtYmY2Ni0wN2I5ZDEyZWQ3NjciLCJuYW1lIjoiQWRtaW4gVXNlciIsImVtYWlsIjoiYWRtaW5AZXhhbXBsZS5jb20iLCJpYXQiOjE3Njk4MDkzNjksImV4cCI6MTc2OTgxMjk2OX0.nCPjc5aoPt8fSsibcK2gxCiu_oVIM0FxEMRc6AJT14U
+
+
+### Criar uma nova marca
+
+POST {{baseUrl}}/brands HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+{
+	"name": "Bayer",
+	"alias": "bayer"
+}
+
+
+### Listar todas as marcas
+
+GET {{baseUrl}}/brands HTTP/1.1
+Authorization: Bearer {{token}}
+
+
+### Buscar marca por ID
+
+GET {{baseUrl}}/brands/{{brandId}} HTTP/1.1
+Authorization: Bearer {{token}}
+
+
+### Atualizar marca
+
+PATCH {{baseUrl}}/brands/{{brandId}} HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+{
+	"name": "Bayer - Atualizado",
+	"alias": "bayer-atualizado"
+}
+
+
+### Deletar marca
+
+DELETE {{baseUrl}}/brands/{{brandId}} HTTP/1.1
+Authorization: Bearer {{token}}

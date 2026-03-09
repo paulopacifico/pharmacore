@@ -1,0 +1,37 @@
+{
+  "name": "erp-farmacia",
+  "private": true,
+  "scripts": {
+    "setup": "node scripts/project/setup.js",
+    "setup-mcps": "node scripts/mpc/setup-mcps.js --target all",
+    "build": "turbo run build",
+    "dev": "turbo run dev --concurrency 20",
+    "test": "turbo run test",
+    "test:watch": "turbo run test:watch",
+    "lint": "turbo run lint",
+    "format": "prettier --write \"**/*.{ts,tsx,md}\"",
+    "check-types": "turbo run check-types"
+  },
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.28.5",
+    "@config/eslint-config": "*",
+    "@config/typescript-config": "*",
+    "prettier": "^3.6.2",
+    "ts-node": "^10.9.2",
+    "turbo": "^2.6.1",
+    "typescript": "5.9.2"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "packageManager": "npm@10.9.2",
+  "overrides": {
+    "@types/react": "19.2.14",
+    "@types/react-dom": "19.2.3"
+  },
+  "workspaces": [
+    "apps/*",
+    "packages/*",
+    "packages/*/*"
+  ]
+}

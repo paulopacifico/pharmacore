@@ -1,0 +1,9134 @@
+{
+  "generatedAt": "2026-02-16T13:33:10.484Z",
+  "total": 2282,
+  "items": [
+    {
+      "alias": "3m",
+      "name": "3m"
+    },
+    {
+      "alias": "4711",
+      "name": "4711"
+    },
+    {
+      "alias": "a-moderna",
+      "name": "A Moderna"
+    },
+    {
+      "alias": "a-tal-da-castanha",
+      "name": "A Tal Da Castanha"
+    },
+    {
+      "alias": "aas",
+      "name": "Aas"
+    },
+    {
+      "alias": "abc",
+      "name": "Abc"
+    },
+    {
+      "alias": "abercrombie-fitch",
+      "name": "Abercrombie & Fitch"
+    },
+    {
+      "alias": "ablok",
+      "name": "Ablok"
+    },
+    {
+      "alias": "above",
+      "name": "Above"
+    },
+    {
+      "alias": "accorde",
+      "name": "Accorde"
+    },
+    {
+      "alias": "accu-chek",
+      "name": "Accu Chek"
+    },
+    {
+      "alias": "accumed",
+      "name": "Accumed"
+    },
+    {
+      "alias": "acertalix",
+      "name": "Acertalix"
+    },
+    {
+      "alias": "acertanlo",
+      "name": "Acertanlo"
+    },
+    {
+      "alias": "acertil",
+      "name": "Acertil"
+    },
+    {
+      "alias": "acet",
+      "name": "Acet"
+    },
+    {
+      "alias": "acetato-ciproterona",
+      "name": "Acetato Ciproterona"
+    },
+    {
+      "alias": "acetato-de-abiraterona",
+      "name": "Acetato De Abiraterona"
+    },
+    {
+      "alias": "acetato-de-dexametasona",
+      "name": "Acetato De Dexametasona"
+    },
+    {
+      "alias": "acetilcisteina",
+      "name": "Acetilcisteina"
+    },
+    {
+      "alias": "ache",
+      "name": "Aché"
+    },
+    {
+      "alias": "acheflan",
+      "name": "Acheflan"
+    },
+    {
+      "alias": "aciclovir",
+      "name": "Aciclovir"
+    },
+    {
+      "alias": "acido-acetilsalicilico",
+      "name": "Acido Acetilsalicilico"
+    },
+    {
+      "alias": "acido-fusidico-valerato-de-betametasona",
+      "name": "Acido Fusídico + Valerato De Betametasona"
+    },
+    {
+      "alias": "aclasta",
+      "name": "Aclasta"
+    },
+    {
+      "alias": "acnase",
+      "name": "Acnase"
+    },
+    {
+      "alias": "acnezil",
+      "name": "Acnezil"
+    },
+    {
+      "alias": "acog",
+      "name": "Acog"
+    },
+    {
+      "alias": "actifedrin",
+      "name": "Actifedrin"
+    },
+    {
+      "alias": "actine",
+      "name": "Actine"
+    },
+    {
+      "alias": "actonel",
+      "name": "Actonel"
+    },
+    {
+      "alias": "acu-fresh",
+      "name": "Acu Fresh"
+    },
+    {
+      "alias": "acular",
+      "name": "Acular"
+    },
+    {
+      "alias": "ad-muc",
+      "name": "Ad Muc"
+    },
+    {
+      "alias": "ada-tina",
+      "name": "Ada Tina"
+    },
+    {
+      "alias": "adacne",
+      "name": "Adacne"
+    },
+    {
+      "alias": "adapaleno",
+      "name": "Adapaleno"
+    },
+    {
+      "alias": "adaptis",
+      "name": "Adaptis"
+    },
+    {
+      "alias": "adcos",
+      "name": "Adcos"
+    },
+    {
+      "alias": "addera",
+      "name": "Addera"
+    },
+    {
+      "alias": "adeforte",
+      "name": "Adeforte"
+    },
+    {
+      "alias": "adequa",
+      "name": "Adequa"
+    },
+    {
+      "alias": "adidas",
+      "name": "Adidas"
+    },
+    {
+      "alias": "adinos",
+      "name": "Adinos"
+    },
+    {
+      "alias": "adoless",
+      "name": "Adoless"
+    },
+    {
+      "alias": "adultcare",
+      "name": "Adultcare"
+    },
+    {
+      "alias": "adv",
+      "name": "Adv"
+    },
+    {
+      "alias": "advantan",
+      "name": "Advantan"
+    },
+    {
+      "alias": "aerolin",
+      "name": "Aerolin"
+    },
+    {
+      "alias": "afopic",
+      "name": "Afopic"
+    },
+    {
+      "alias": "afrat",
+      "name": "Afrat"
+    },
+    {
+      "alias": "aftine",
+      "name": "Aftine"
+    },
+    {
+      "alias": "aglitil",
+      "name": "Aglitil"
+    },
+    {
+      "alias": "aglucose",
+      "name": "Aglucose"
+    },
+    {
+      "alias": "agua-inglesa",
+      "name": "Agua Inglesa"
+    },
+    {
+      "alias": "agua-rabelo",
+      "name": "Agua Rabelo"
+    },
+    {
+      "alias": "ailuk",
+      "name": "Ailuk"
+    },
+    {
+      "alias": "airela",
+      "name": "Airela"
+    },
+    {
+      "alias": "ajax",
+      "name": "Ajax"
+    },
+    {
+      "alias": "al-wataniah",
+      "name": "Al Wataniah"
+    },
+    {
+      "alias": "albel",
+      "name": "Albel"
+    },
+    {
+      "alias": "albendazol",
+      "name": "Albendazol"
+    },
+    {
+      "alias": "albocresil",
+      "name": "Albocresil"
+    },
+    {
+      "alias": "aldactone",
+      "name": "Aldactone"
+    },
+    {
+      "alias": "alektos",
+      "name": "Alektos"
+    },
+    {
+      "alias": "alendronato",
+      "name": "Alendronato"
+    },
+    {
+      "alias": "alenia",
+      "name": "Alenia"
+    },
+    {
+      "alias": "alergaliv",
+      "name": "Alergaliv"
+    },
+    {
+      "alias": "alergidex",
+      "name": "Alergidex"
+    },
+    {
+      "alias": "alergomine",
+      "name": "Alergomine"
+    },
+    {
+      "alias": "alevo",
+      "name": "Alevo"
+    },
+    {
+      "alias": "alfaestradiol",
+      "name": "Alfaestradiol"
+    },
+    {
+      "alias": "alfamino",
+      "name": "Alfamino"
+    },
+    {
+      "alias": "alfaparf",
+      "name": "Alfaparf"
+    },
+    {
+      "alias": "alfare",
+      "name": "Alfare"
+    },
+    {
+      "alias": "algar",
+      "name": "Algar"
+    },
+    {
+      "alias": "algestona",
+      "name": "Algestona"
+    },
+    {
+      "alias": "allegra",
+      "name": "Allegra"
+    },
+    {
+      "alias": "allestra",
+      "name": "Allestra"
+    },
+    {
+      "alias": "allexofedrin",
+      "name": "Allexofedrin"
+    },
+    {
+      "alias": "allurene",
+      "name": "Allurene"
+    },
+    {
+      "alias": "almeida-prado",
+      "name": "Almeida Prado"
+    },
+    {
+      "alias": "aloff",
+      "name": "Aloff"
+    },
+    {
+      "alias": "alopurinol",
+      "name": "Alopurinol"
+    },
+    {
+      "alias": "aloxidil",
+      "name": "Aloxidil"
+    },
+    {
+      "alias": "alphabrin",
+      "name": "Alphabrin"
+    },
+    {
+      "alias": "alphagan",
+      "name": "Alphagan"
+    },
+    {
+      "alias": "alphaliv",
+      "name": "Alphaliv"
+    },
+    {
+      "alias": "alta-d",
+      "name": "Alta D"
+    },
+    {
+      "alias": "althaia",
+      "name": "Althaia"
+    },
+    {
+      "alias": "altiva",
+      "name": "Altiva"
+    },
+    {
+      "alias": "alurax",
+      "name": "Alurax"
+    },
+    {
+      "alias": "alux",
+      "name": "Alux"
+    },
+    {
+      "alias": "alva",
+      "name": "Alva"
+    },
+    {
+      "alias": "always",
+      "name": "Always"
+    },
+    {
+      "alias": "alyne",
+      "name": "Alyne"
+    },
+    {
+      "alias": "amalfi",
+      "name": "Amalfi"
+    },
+    {
+      "alias": "amamente",
+      "name": "Amamente"
+    },
+    {
+      "alias": "ambroxmel",
+      "name": "Ambroxmel"
+    },
+    {
+      "alias": "ambroxol",
+      "name": "Ambroxol"
+    },
+    {
+      "alias": "amend",
+      "name": "Amend"
+    },
+    {
+      "alias": "american-medical",
+      "name": "American Medical"
+    },
+    {
+      "alias": "amigos-do-bem",
+      "name": "Amigos Do Bem"
+    },
+    {
+      "alias": "amilia",
+      "name": "Amilia"
+    },
+    {
+      "alias": "amiobal",
+      "name": "Amiobal"
+    },
+    {
+      "alias": "ammy",
+      "name": "Ammy"
+    },
+    {
+      "alias": "amora",
+      "name": "Amora"
+    },
+    {
+      "alias": "amoravel",
+      "name": "Amoravel"
+    },
+    {
+      "alias": "amoxi-clav",
+      "name": "Amoxi+clav"
+    },
+    {
+      "alias": "amoxicilina",
+      "name": "Amoxicilina"
+    },
+    {
+      "alias": "amoxicilina-clav",
+      "name": "Amoxicilina Clav"
+    },
+    {
+      "alias": "amoxil",
+      "name": "Amoxil"
+    },
+    {
+      "alias": "amp-produtos",
+      "name": "Amp Produtos"
+    },
+    {
+      "alias": "ampicilina",
+      "name": "Ampicilina"
+    },
+    {
+      "alias": "anasol",
+      "name": "Anasol"
+    },
+    {
+      "alias": "anastrozol",
+      "name": "Anastrozol"
+    },
+    {
+      "alias": "anatomic",
+      "name": "Anatomic"
+    },
+    {
+      "alias": "andalan-dkt",
+      "name": "Andalan Dkt"
+    },
+    {
+      "alias": "andantol",
+      "name": "Andantol"
+    },
+    {
+      "alias": "andolba",
+      "name": "Andolba"
+    },
+    {
+      "alias": "andractiv",
+      "name": "Andractiv"
+    },
+    {
+      "alias": "androcur",
+      "name": "Androcur"
+    },
+    {
+      "alias": "androgel",
+      "name": "Androgel"
+    },
+    {
+      "alias": "androsten",
+      "name": "Androsten"
+    },
+    {
+      "alias": "andrum",
+      "name": "Andrum"
+    },
+    {
+      "alias": "angeliq",
+      "name": "Angeliq"
+    },
+    {
+      "alias": "animale",
+      "name": "Animale"
+    },
+    {
+      "alias": "anlodipino",
+      "name": "Anlodipino"
+    },
+    {
+      "alias": "annita",
+      "name": "Annita"
+    },
+    {
+      "alias": "ansiodoron",
+      "name": "Ansiodoron"
+    },
+    {
+      "alias": "ansitec",
+      "name": "Ansitec"
+    },
+    {
+      "alias": "anthelios",
+      "name": "Anthelios"
+    },
+    {
+      "alias": "antonio-banderas",
+      "name": "Antonio Banderas"
+    },
+    {
+      "alias": "antrofi",
+      "name": "Antrofi"
+    },
+    {
+      "alias": "apevitin",
+      "name": "Apevitin"
+    },
+    {
+      "alias": "apidra",
+      "name": "Apidra"
+    },
+    {
+      "alias": "apis-flora",
+      "name": "Apis Flora"
+    },
+    {
+      "alias": "apis-vida",
+      "name": "Apis Vida"
+    },
+    {
+      "alias": "apisflora",
+      "name": "Apisflora"
+    },
+    {
+      "alias": "apixabana",
+      "name": "Apixabana"
+    },
+    {
+      "alias": "aplause",
+      "name": "Aplause"
+    },
+    {
+      "alias": "apracur",
+      "name": "Apracur"
+    },
+    {
+      "alias": "apresolina",
+      "name": "Apresolina"
+    },
+    {
+      "alias": "apsen",
+      "name": "Apsen"
+    },
+    {
+      "alias": "aptamil",
+      "name": "Aptamil"
+    },
+    {
+      "alias": "aptanutri",
+      "name": "Aptanutri"
+    },
+    {
+      "alias": "aquasept",
+      "name": "Aquasept"
+    },
+    {
+      "alias": "aquasonus",
+      "name": "Aquasonus"
+    },
+    {
+      "alias": "aradois",
+      "name": "Aradois"
+    },
+    {
+      "alias": "arcor",
+      "name": "Arcor"
+    },
+    {
+      "alias": "arese-pharma",
+      "name": "Arese Pharma"
+    },
+    {
+      "alias": "ariel",
+      "name": "Ariel"
+    },
+    {
+      "alias": "aripiprazol",
+      "name": "Aripiprazol"
+    },
+    {
+      "alias": "armaf",
+      "name": "Armaf"
+    },
+    {
+      "alias": "armani",
+      "name": "Armani"
+    },
+    {
+      "alias": "arnica",
+      "name": "Arnica"
+    },
+    {
+      "alias": "arpadol",
+      "name": "Arpadol"
+    },
+    {
+      "alias": "arte-nativa",
+      "name": "Arte Nativa"
+    },
+    {
+      "alias": "artelac",
+      "name": "Artelac"
+    },
+    {
+      "alias": "artemidis",
+      "name": "Artemidis"
+    },
+    {
+      "alias": "artico",
+      "name": "Artico"
+    },
+    {
+      "alias": "artipe",
+      "name": "Artipe"
+    },
+    {
+      "alias": "artoglico",
+      "name": "Artoglico"
+    },
+    {
+      "alias": "artrodar",
+      "name": "Artrodar"
+    },
+    {
+      "alias": "artroflan",
+      "name": "Artroflan"
+    },
+    {
+      "alias": "artrogen",
+      "name": "Artrogen"
+    },
+    {
+      "alias": "artrolive",
+      "name": "Artrolive"
+    },
+    {
+      "alias": "artromobil",
+      "name": "Artromobil"
+    },
+    {
+      "alias": "artros",
+      "name": "Artros"
+    },
+    {
+      "alias": "artrotop",
+      "name": "Artrotop"
+    },
+    {
+      "alias": "arulatan",
+      "name": "Arulatan"
+    },
+    {
+      "alias": "ascenda",
+      "name": "Ascenda"
+    },
+    {
+      "alias": "asepxia",
+      "name": "Asepxia"
+    },
+    {
+      "alias": "asfer",
+      "name": "Asfer"
+    },
+    {
+      "alias": "aspen",
+      "name": "Aspen"
+    },
+    {
+      "alias": "aspirina",
+      "name": "Aspirina"
+    },
+    {
+      "alias": "astrazeneca",
+      "name": "Astrazeneca"
+    },
+    {
+      "alias": "atacand",
+      "name": "Atacand"
+    },
+    {
+      "alias": "atentah",
+      "name": "Atentah"
+    },
+    {
+      "alias": "ateroma",
+      "name": "Ateroma"
+    },
+    {
+      "alias": "atesto",
+      "name": "Atesto"
+    },
+    {
+      "alias": "ativb",
+      "name": "Ativb"
+    },
+    {
+      "alias": "ativday",
+      "name": "Ativday"
+    },
+    {
+      "alias": "atlhetica",
+      "name": "Atlhetica"
+    },
+    {
+      "alias": "atorvastatina",
+      "name": "Atorvastatina"
+    },
+    {
+      "alias": "atossion",
+      "name": "Atossion"
+    },
+    {
+      "alias": "atropina",
+      "name": "Atropina"
+    },
+    {
+      "alias": "attiva",
+      "name": "Attiva"
+    },
+    {
+      "alias": "aturgyl",
+      "name": "Aturgyl"
+    },
+    {
+      "alias": "aussie",
+      "name": "Aussie"
+    },
+    {
+      "alias": "australian-gold",
+      "name": "Australian Gold"
+    },
+    {
+      "alias": "avamys",
+      "name": "Avamys"
+    },
+    {
+      "alias": "avanti-supplements",
+      "name": "Avanti Supplements"
+    },
+    {
+      "alias": "avene",
+      "name": "Avene"
+    },
+    {
+      "alias": "avent",
+      "name": "Avent"
+    },
+    {
+      "alias": "avide",
+      "name": "Avide"
+    },
+    {
+      "alias": "avizor",
+      "name": "Avizor"
+    },
+    {
+      "alias": "avodart",
+      "name": "Avodart"
+    },
+    {
+      "alias": "axe",
+      "name": "Axe"
+    },
+    {
+      "alias": "axetilcefuroxima",
+      "name": "Axetilcefuroxima"
+    },
+    {
+      "alias": "azelan",
+      "name": "Azelan"
+    },
+    {
+      "alias": "azitromicina",
+      "name": "Azitromicina"
+    },
+    {
+      "alias": "azitromicina-di-hidratada",
+      "name": "Azitromicina Di-Hidratada"
+    },
+    {
+      "alias": "azopt",
+      "name": "Azopt"
+    },
+    {
+      "alias": "azorga",
+      "name": "Azorga"
+    },
+    {
+      "alias": "azox",
+      "name": "Azox"
+    },
+    {
+      "alias": "azukon",
+      "name": "Azukon"
+    },
+    {
+      "alias": "azzaro",
+      "name": "Azzaro"
+    },
+    {
+      "alias": "b-braun",
+      "name": "B.Braun"
+    },
+    {
+      "alias": "baby-club",
+      "name": "Baby Club"
+    },
+    {
+      "alias": "baby-shark",
+      "name": "Baby Shark"
+    },
+    {
+      "alias": "baby-wipes",
+      "name": "Baby Wipes"
+    },
+    {
+      "alias": "babymed",
+      "name": "Babymed"
+    },
+    {
+      "alias": "babysec",
+      "name": "Babysec"
+    },
+    {
+      "alias": "bacfar",
+      "name": "Bacfar"
+    },
+    {
+      "alias": "bacina",
+      "name": "Bacina"
+    },
+    {
+      "alias": "bactrim",
+      "name": "Bactrim"
+    },
+    {
+      "alias": "bactroban",
+      "name": "Bactroban"
+    },
+    {
+      "alias": "baldacci",
+      "name": "Baldacci"
+    },
+    {
+      "alias": "ban",
+      "name": "Ban"
+    },
+    {
+      "alias": "banderas",
+      "name": "Banderas"
+    },
+    {
+      "alias": "barbour-s-beauty",
+      "name": "Barbour’s Beauty"
+    },
+    {
+      "alias": "barla",
+      "name": "Barla"
+    },
+    {
+      "alias": "baruel",
+      "name": "Baruel"
+    },
+    {
+      "alias": "baruel-baby",
+      "name": "Baruel Baby"
+    },
+    {
+      "alias": "basaglar",
+      "name": "Basaglar"
+    },
+    {
+      "alias": "bayer",
+      "name": "Bayer"
+    },
+    {
+      "alias": "bd",
+      "name": "Bd"
+    },
+    {
+      "alias": "be-better",
+      "name": "Be Better"
+    },
+    {
+      "alias": "be-better-vita",
+      "name": "Be Better Vita+"
+    },
+    {
+      "alias": "bebe-feliz",
+      "name": "Bebe Feliz"
+    },
+    {
+      "alias": "beclosol",
+      "name": "Beclosol"
+    },
+    {
+      "alias": "bedoze",
+      "name": "Bedoze"
+    },
+    {
+      "alias": "bel-col",
+      "name": "Bel Col"
+    },
+    {
+      "alias": "belagua",
+      "name": "Belagua"
+    },
+    {
+      "alias": "belara",
+      "name": "Belara"
+    },
+    {
+      "alias": "belarina",
+      "name": "Belarina"
+    },
+    {
+      "alias": "belexa",
+      "name": "Belexa"
+    },
+    {
+      "alias": "bellabelha",
+      "name": "Bellabelha"
+    },
+    {
+      "alias": "belliz",
+      "name": "Belliz"
+    },
+    {
+      "alias": "bemove",
+      "name": "Bemove"
+    },
+    {
+      "alias": "ben-jerrys",
+      "name": "Ben & Jerrys"
+    },
+    {
+      "alias": "benalet",
+      "name": "Benalet"
+    },
+    {
+      "alias": "benatux",
+      "name": "Benatux"
+    },
+    {
+      "alias": "bendita-canfora",
+      "name": "Bendita Canfora"
+    },
+    {
+      "alias": "benegrip",
+      "name": "Benegrip"
+    },
+    {
+      "alias": "benetton",
+      "name": "Benetton"
+    },
+    {
+      "alias": "benicar",
+      "name": "Benicar"
+    },
+    {
+      "alias": "benzevit",
+      "name": "Benzevit"
+    },
+    {
+      "alias": "benzo-nist-clor",
+      "name": "Benzo+nist+clor"
+    },
+    {
+      "alias": "benzoilmetronidazol",
+      "name": "Benzoilmetronidazol"
+    },
+    {
+      "alias": "bepantol",
+      "name": "Bepantol"
+    },
+    {
+      "alias": "bepantriz",
+      "name": "Bepantriz"
+    },
+    {
+      "alias": "besilato-de-anlodipino",
+      "name": "Besilato De Anlodipino"
+    },
+    {
+      "alias": "bestcare",
+      "name": "Bestcare"
+    },
+    {
+      "alias": "betametasona",
+      "name": "Betametasona"
+    },
+    {
+      "alias": "betametasona-gentamicina",
+      "name": "Betametasona+gentamicina"
+    },
+    {
+      "alias": "betnovate",
+      "name": "Betnovate"
+    },
+    {
+      "alias": "betogenta",
+      "name": "Betogenta"
+    },
+    {
+      "alias": "betrat",
+      "name": "Betrat"
+    },
+    {
+      "alias": "bezafibrato",
+      "name": "Bezafibrato"
+    },
+    {
+      "alias": "bialerge",
+      "name": "Bialerge"
+    },
+    {
+      "alias": "bic",
+      "name": "Bic"
+    },
+    {
+      "alias": "bicalutamida",
+      "name": "Bicalutamida"
+    },
+    {
+      "alias": "bigfral",
+      "name": "Bigfral"
+    },
+    {
+      "alias": "bilastina",
+      "name": "Bilastina"
+    },
+    {
+      "alias": "bimagan",
+      "name": "Bimagan"
+    },
+    {
+      "alias": "bimatoprosta",
+      "name": "Bimatoprosta"
+    },
+    {
+      "alias": "binav",
+      "name": "Binav"
+    },
+    {
+      "alias": "bio-instinto",
+      "name": "Bio Instinto"
+    },
+    {
+      "alias": "bio-vagin",
+      "name": "Bio-Vagin"
+    },
+    {
+      "alias": "bio2",
+      "name": "Bio2"
+    },
+    {
+      "alias": "biocolor",
+      "name": "Biocolor"
+    },
+    {
+      "alias": "bioderma",
+      "name": "Bioderma"
+    },
+    {
+      "alias": "biofenac",
+      "name": "Biofenac"
+    },
+    {
+      "alias": "bioflorence",
+      "name": "Bioflorence"
+    },
+    {
+      "alias": "bioginkgo",
+      "name": "Bioginkgo"
+    },
+    {
+      "alias": "bioklein",
+      "name": "Bioklein"
+    },
+    {
+      "alias": "biolab",
+      "name": "Biolab"
+    },
+    {
+      "alias": "bioland",
+      "name": "Bioland"
+    },
+    {
+      "alias": "biolme",
+      "name": "Biolme"
+    },
+    {
+      "alias": "biomag",
+      "name": "Biomag"
+    },
+    {
+      "alias": "biomarine",
+      "name": "Biomarine"
+    },
+    {
+      "alias": "biomedica",
+      "name": "Biomedica"
+    },
+    {
+      "alias": "bionatus",
+      "name": "Bionatus"
+    },
+    {
+      "alias": "biore",
+      "name": "Bioré"
+    },
+    {
+      "alias": "bioroots",
+      "name": "Bioroots"
+    },
+    {
+      "alias": "biosintetica",
+      "name": "Biosintetica"
+    },
+    {
+      "alias": "biotonico",
+      "name": "Biotonico"
+    },
+    {
+      "alias": "bisalax",
+      "name": "Bisalax"
+    },
+    {
+      "alias": "bismu",
+      "name": "Bismu"
+    },
+    {
+      "alias": "bisolvon",
+      "name": "Bisolvon"
+    },
+    {
+      "alias": "bissulf",
+      "name": "Bissulf"
+    },
+    {
+      "alias": "bitufo",
+      "name": "Bitufo"
+    },
+    {
+      "alias": "bixlyn",
+      "name": "Bixlyn"
+    },
+    {
+      "alias": "blancy",
+      "name": "Blancy"
+    },
+    {
+      "alias": "blau",
+      "name": "Blau"
+    },
+    {
+      "alias": "blefos",
+      "name": "Blefos"
+    },
+    {
+      "alias": "blephagel",
+      "name": "Blephagel"
+    },
+    {
+      "alias": "blondor",
+      "name": "Blondor"
+    },
+    {
+      "alias": "blugrip",
+      "name": "Blugrip"
+    },
+    {
+      "alias": "blusoro",
+      "name": "Blusoro"
+    },
+    {
+      "alias": "bmc",
+      "name": "BMC"
+    },
+    {
+      "alias": "boca-rosa",
+      "name": "Boca Rosa"
+    },
+    {
+      "alias": "bodyflex",
+      "name": "Bodyflex"
+    },
+    {
+      "alias": "bold",
+      "name": "Bold"
+    },
+    {
+      "alias": "bonviva",
+      "name": "Bonviva"
+    },
+    {
+      "alias": "boston",
+      "name": "Boston"
+    },
+    {
+      "alias": "bozzano",
+      "name": "Bozzano"
+    },
+    {
+      "alias": "brace-pharma",
+      "name": "Brace Pharma"
+    },
+    {
+      "alias": "brae",
+      "name": "Braé"
+    },
+    {
+      "alias": "brasart",
+      "name": "Brasart"
+    },
+    {
+      "alias": "brava",
+      "name": "Brava"
+    },
+    {
+      "alias": "brilinta",
+      "name": "Brilinta"
+    },
+    {
+      "alias": "britens",
+      "name": "Britens"
+    },
+    {
+      "alias": "britney-spears",
+      "name": "Britney Spears"
+    },
+    {
+      "alias": "brixag",
+      "name": "Brixag"
+    },
+    {
+      "alias": "bromelin",
+      "name": "Bromelin"
+    },
+    {
+      "alias": "brometo",
+      "name": "Brometo"
+    },
+    {
+      "alias": "bromoprida",
+      "name": "Bromoprida"
+    },
+    {
+      "alias": "brondelix",
+      "name": "Brondelix"
+    },
+    {
+      "alias": "bronquivita",
+      "name": "Bronquivita"
+    },
+    {
+      "alias": "bruna-tavares",
+      "name": "Bruna Tavares"
+    },
+    {
+      "alias": "bryophyllum",
+      "name": "Bryophyllum"
+    },
+    {
+      "alias": "buba",
+      "name": "Buba"
+    },
+    {
+      "alias": "budesonida",
+      "name": "Budesonida"
+    },
+    {
+      "alias": "bup-xl",
+      "name": "Bup Xl"
+    },
+    {
+      "alias": "bupropiona",
+      "name": "Bupropiona"
+    },
+    {
+      "alias": "burberry",
+      "name": "Burberry"
+    },
+    {
+      "alias": "buscopan",
+      "name": "Buscopan"
+    },
+    {
+      "alias": "busonid",
+      "name": "Busonid"
+    },
+    {
+      "alias": "bvlgari",
+      "name": "Bvlgari"
+    },
+    {
+      "alias": "cabergolina",
+      "name": "Cabergolina"
+    },
+    {
+      "alias": "cabertrix",
+      "name": "Cabertrix"
+    },
+    {
+      "alias": "cacharel",
+      "name": "Cacharel"
+    },
+    {
+      "alias": "cadiveu",
+      "name": "Cadiveu"
+    },
+    {
+      "alias": "cadiveu-essentials",
+      "name": "Cadiveu Essentials"
+    },
+    {
+      "alias": "caffeine-army",
+      "name": "Caffeine Army"
+    },
+    {
+      "alias": "caladryl",
+      "name": "Caladryl"
+    },
+    {
+      "alias": "calcitotal",
+      "name": "Calcitotal"
+    },
+    {
+      "alias": "calcitran",
+      "name": "Calcitran"
+    },
+    {
+      "alias": "calde",
+      "name": "Calde"
+    },
+    {
+      "alias": "calde-km",
+      "name": "Calde Km"
+    },
+    {
+      "alias": "calendula",
+      "name": "Calendula"
+    },
+    {
+      "alias": "calmador-contra-dores",
+      "name": "Calmador Contra Dores"
+    },
+    {
+      "alias": "calman",
+      "name": "Calman"
+    },
+    {
+      "alias": "calmasyn",
+      "name": "Calmasyn"
+    },
+    {
+      "alias": "calquence",
+      "name": "Calquence"
+    },
+    {
+      "alias": "calvin-klein",
+      "name": "Calvin Klein"
+    },
+    {
+      "alias": "camaro",
+      "name": "Camaro"
+    },
+    {
+      "alias": "camilia",
+      "name": "Camilia"
+    },
+    {
+      "alias": "camomilina",
+      "name": "Camomilina"
+    },
+    {
+      "alias": "campral",
+      "name": "Campral"
+    },
+    {
+      "alias": "canabidiol",
+      "name": "Canabidiol"
+    },
+    {
+      "alias": "canabidiol-ease-labs",
+      "name": "Canabidiol Ease Labs"
+    },
+    {
+      "alias": "canabidiol-greencare",
+      "name": "Canabidiol Greencare"
+    },
+    {
+      "alias": "canabidiol-nunature",
+      "name": "Canabidiol Nunature"
+    },
+    {
+      "alias": "canderm",
+      "name": "Canderm"
+    },
+    {
+      "alias": "candesart",
+      "name": "Candesart"
+    },
+    {
+      "alias": "candesart-hidro16-12-5mg",
+      "name": "Candesart+hidro16+12.5mg"
+    },
+    {
+      "alias": "candicort",
+      "name": "Candicort"
+    },
+    {
+      "alias": "canephron",
+      "name": "Canephron"
+    },
+    {
+      "alias": "canesten",
+      "name": "Canesten"
+    },
+    {
+      "alias": "canna-river",
+      "name": "Canna River"
+    },
+    {
+      "alias": "cannabis-mantercorp",
+      "name": "Cannabis Mantercorp"
+    },
+    {
+      "alias": "cannabis-promediol",
+      "name": "Cannabis Promediol"
+    },
+    {
+      "alias": "capilarema",
+      "name": "Capilarema"
+    },
+    {
+      "alias": "capital-soleil",
+      "name": "Capital Soleil"
+    },
+    {
+      "alias": "captopril",
+      "name": "Captopril"
+    },
+    {
+      "alias": "carbamazepina",
+      "name": "Carbamazepina"
+    },
+    {
+      "alias": "carbocisteina",
+      "name": "Carbocisteina"
+    },
+    {
+      "alias": "carbolitium",
+      "name": "Carbolitium"
+    },
+    {
+      "alias": "carci",
+      "name": "Carci"
+    },
+    {
+      "alias": "cardomarin",
+      "name": "Cardomarin"
+    },
+    {
+      "alias": "carefree",
+      "name": "Carefree"
+    },
+    {
+      "alias": "carmed",
+      "name": "Carmed"
+    },
+    {
+      "alias": "carnot",
+      "name": "Carnot"
+    },
+    {
+      "alias": "carolina-herrera",
+      "name": "Carolina Herrera"
+    },
+    {
+      "alias": "cartigem-c",
+      "name": "Cartigem C"
+    },
+    {
+      "alias": "cartigen",
+      "name": "Cartigen"
+    },
+    {
+      "alias": "carvedilol",
+      "name": "Carvedilol"
+    },
+    {
+      "alias": "castanha",
+      "name": "Castanha"
+    },
+    {
+      "alias": "catarinense",
+      "name": "Catarinense"
+    },
+    {
+      "alias": "catharine-hill",
+      "name": "Catharine Hill"
+    },
+    {
+      "alias": "caverject",
+      "name": "Caverject"
+    },
+    {
+      "alias": "cebolitos",
+      "name": "Cebolitos"
+    },
+    {
+      "alias": "ceci",
+      "name": "Ceci"
+    },
+    {
+      "alias": "cedroxil",
+      "name": "Cedroxil"
+    },
+    {
+      "alias": "cedur",
+      "name": "Cedur"
+    },
+    {
+      "alias": "cefadroxila",
+      "name": "Cefadroxila"
+    },
+    {
+      "alias": "cefalexina",
+      "name": "Cefalexina"
+    },
+    {
+      "alias": "ceftriaxona",
+      "name": "Ceftriaxona"
+    },
+    {
+      "alias": "ceftriaxonaim500mgamp-diluentegn-e",
+      "name": "Ceftriaxonaim500mgamp+diluentegn-E+"
+    },
+    {
+      "alias": "celebrate",
+      "name": "Celebrate"
+    },
+    {
+      "alias": "celerg",
+      "name": "Celerg"
+    },
+    {
+      "alias": "celergin",
+      "name": "Celergin"
+    },
+    {
+      "alias": "celestamine",
+      "name": "Celestamine"
+    },
+    {
+      "alias": "celestone",
+      "name": "Celestone"
+    },
+    {
+      "alias": "celestrat",
+      "name": "Celestrat"
+    },
+    {
+      "alias": "celetil",
+      "name": "Celetil"
+    },
+    {
+      "alias": "cenoura-bronze",
+      "name": "Cenoura & Bronze"
+    },
+    {
+      "alias": "central-do-alergico",
+      "name": "Central Do Alergico"
+    },
+    {
+      "alias": "centrum",
+      "name": "Centrum"
+    },
+    {
+      "alias": "cepacol",
+      "name": "Cepacol"
+    },
+    {
+      "alias": "cepeo",
+      "name": "Cepeo"
+    },
+    {
+      "alias": "cerave",
+      "name": "Cerave"
+    },
+    {
+      "alias": "cerazette",
+      "name": "Cerazette"
+    },
+    {
+      "alias": "cerumin",
+      "name": "Cerumin"
+    },
+    {
+      "alias": "cetaphil",
+      "name": "Cetaphil"
+    },
+    {
+      "alias": "cetobeta",
+      "name": "Cetobeta"
+    },
+    {
+      "alias": "cetoc-dip",
+      "name": "Cetoc+dip"
+    },
+    {
+      "alias": "cetoc-dipro",
+      "name": "Cetoc+dipro"
+    },
+    {
+      "alias": "cetoconazol",
+      "name": "Cetoconazol"
+    },
+    {
+      "alias": "cetoconazol-dipropionato-de-betametasona-neomicina",
+      "name": "Cetoconazol+dipropionato De Betametasona+neomicina"
+    },
+    {
+      "alias": "cetorolaco",
+      "name": "Cetorolaco"
+    },
+    {
+      "alias": "cetotifeno",
+      "name": "Cetotifeno"
+    },
+    {
+      "alias": "cetrilan",
+      "name": "Cetrilan"
+    },
+    {
+      "alias": "cetrolac",
+      "name": "Cetrolac"
+    },
+    {
+      "alias": "cewin",
+      "name": "Cewin"
+    },
+    {
+      "alias": "chantal",
+      "name": "Chantal"
+    },
+    {
+      "alias": "cheetos",
+      "name": "Cheetos"
+    },
+    {
+      "alias": "cherry",
+      "name": "Cherry"
+    },
+    {
+      "alias": "chicco",
+      "name": "Chicco"
+    },
+    {
+      "alias": "chloe",
+      "name": "Chloe"
+    },
+    {
+      "alias": "choices-beauty",
+      "name": "Choices Beauty"
+    },
+    {
+      "alias": "christian-dior",
+      "name": "Christian Dior"
+    },
+    {
+      "alias": "chroma",
+      "name": "Chroma"
+    },
+    {
+      "alias": "cia-da-natureza",
+      "name": "Cia Da Natureza"
+    },
+    {
+      "alias": "cialis",
+      "name": "Cialis"
+    },
+    {
+      "alias": "ciclo",
+      "name": "Ciclo"
+    },
+    {
+      "alias": "ciclopirox",
+      "name": "Ciclopirox"
+    },
+    {
+      "alias": "cicloprimogyna",
+      "name": "Cicloprimogyna"
+    },
+    {
+      "alias": "cidofovir",
+      "name": "Cidofovir"
+    },
+    {
+      "alias": "cif",
+      "name": "Cif"
+    },
+    {
+      "alias": "cifarma",
+      "name": "Cifarma"
+    },
+    {
+      "alias": "cilodex",
+      "name": "Cilodex"
+    },
+    {
+      "alias": "cilostazol",
+      "name": "Cilostazol"
+    },
+    {
+      "alias": "ciloxan",
+      "name": "Ciloxan"
+    },
+    {
+      "alias": "cimecort",
+      "name": "Cimecort"
+    },
+    {
+      "alias": "cimed",
+      "name": "Cimed"
+    },
+    {
+      "alias": "cimegripe",
+      "name": "Cimegripe"
+    },
+    {
+      "alias": "cinarizina",
+      "name": "Cinarizina"
+    },
+    {
+      "alias": "cinatrex",
+      "name": "Cinatrex"
+    },
+    {
+      "alias": "cipide",
+      "name": "Cipide"
+    },
+    {
+      "alias": "ciprix",
+      "name": "Ciprix"
+    },
+    {
+      "alias": "cipro",
+      "name": "Cipro"
+    },
+    {
+      "alias": "ciprofar",
+      "name": "Ciprofar"
+    },
+    {
+      "alias": "ciprofibrato",
+      "name": "Ciprofibrato"
+    },
+    {
+      "alias": "ciprofloxacino",
+      "name": "Ciprofloxacino"
+    },
+    {
+      "alias": "ciprofloxatrin",
+      "name": "Ciprofloxatrin"
+    },
+    {
+      "alias": "ciproterona",
+      "name": "Ciproterona"
+    },
+    {
+      "alias": "ciranda-cultural",
+      "name": "Ciranda Cultural"
+    },
+    {
+      "alias": "cirurgica-fernandes",
+      "name": "Cirurgica Fernandes"
+    },
+    {
+      "alias": "cirurgica-saude",
+      "name": "Cirúrgica Saúde"
+    },
+    {
+      "alias": "cit",
+      "name": "Cit"
+    },
+    {
+      "alias": "cit-sildenafila",
+      "name": "Cit Sildenafila"
+    },
+    {
+      "alias": "citalor",
+      "name": "Citalor"
+    },
+    {
+      "alias": "citoneurin",
+      "name": "Citoneurin"
+    },
+    {
+      "alias": "cl-amiodarona",
+      "name": "Cl Amiodarona"
+    },
+    {
+      "alias": "cl-betaxolol",
+      "name": "Cl Betaxolol"
+    },
+    {
+      "alias": "cl-ciprofloxacino-dexametasona",
+      "name": "Cl Ciprofloxacino+dexametasona"
+    },
+    {
+      "alias": "cl-hidroxizina",
+      "name": "Cl Hidroxizina"
+    },
+    {
+      "alias": "cl-nebivolol",
+      "name": "Cl Nebivolol"
+    },
+    {
+      "alias": "cl-prometazina",
+      "name": "Cl Prometazina"
+    },
+    {
+      "alias": "cl-tansulosina",
+      "name": "Cl Tansulosina"
+    },
+    {
+      "alias": "claril",
+      "name": "Claril"
+    },
+    {
+      "alias": "claritin",
+      "name": "Claritin"
+    },
+    {
+      "alias": "claro",
+      "name": "Claro"
+    },
+    {
+      "alias": "claroft",
+      "name": "Claroft"
+    },
+    {
+      "alias": "clazi",
+      "name": "Clazi"
+    },
+    {
+      "alias": "clear",
+      "name": "Clear"
+    },
+    {
+      "alias": "clear-blue",
+      "name": "Clear Blue"
+    },
+    {
+      "alias": "clenil",
+      "name": "Clenil"
+    },
+    {
+      "alias": "clexane",
+      "name": "Clexane"
+    },
+    {
+      "alias": "clifemin",
+      "name": "Clifemin"
+    },
+    {
+      "alias": "clilon",
+      "name": "Clilon"
+    },
+    {
+      "alias": "clindoxyl",
+      "name": "Clindoxyl"
+    },
+    {
+      "alias": "clinensol",
+      "name": "Clinensol"
+    },
+    {
+      "alias": "clinfar",
+      "name": "Clinfar"
+    },
+    {
+      "alias": "clinic-farma",
+      "name": "Clinic Farma"
+    },
+    {
+      "alias": "clinic-farma-vacinas",
+      "name": "Clinic Farma - Vacinas"
+    },
+    {
+      "alias": "clinicmais",
+      "name": "Clinicmais"
+    },
+    {
+      "alias": "clinique",
+      "name": "Clinique"
+    },
+    {
+      "alias": "clob",
+      "name": "Clob"
+    },
+    {
+      "alias": "clomid",
+      "name": "Clomid"
+    },
+    {
+      "alias": "clonazepam",
+      "name": "Clonazepam"
+    },
+    {
+      "alias": "clopin",
+      "name": "Clopin"
+    },
+    {
+      "alias": "clopin-duo",
+      "name": "Clopin Duo"
+    },
+    {
+      "alias": "cloridato-de-ambroxol",
+      "name": "Cloridato De Ambroxol"
+    },
+    {
+      "alias": "cloridato-de-bromexina",
+      "name": "Cloridato De Bromexina"
+    },
+    {
+      "alias": "cloridato-de-cipro-dexam",
+      "name": "Cloridato De Cipro+dexam"
+    },
+    {
+      "alias": "cloridato-de-clindamicina",
+      "name": "Cloridato De Clindamicina"
+    },
+    {
+      "alias": "cloridato-de-clobutinol",
+      "name": "Cloridato De Clobutinol"
+    },
+    {
+      "alias": "cloridato-de-dorzolamida",
+      "name": "Cloridato De Dorzolamida"
+    },
+    {
+      "alias": "cloridato-de-duloxetina",
+      "name": "Cloridato De Duloxetina"
+    },
+    {
+      "alias": "cloridato-de-fexofenadina",
+      "name": "Cloridato De Fexofenadina"
+    },
+    {
+      "alias": "cloridato-de-fluoxetina",
+      "name": "Cloridato De Fluoxetina"
+    },
+    {
+      "alias": "cloridato-de-hidroxizina",
+      "name": "Cloridato De Hidroxizina"
+    },
+    {
+      "alias": "cloridato-de-loperamida",
+      "name": "Cloridato De Loperamida"
+    },
+    {
+      "alias": "cloridato-de-memantina",
+      "name": "Cloridato De Memantina"
+    },
+    {
+      "alias": "cloridato-de-nebivolol",
+      "name": "Cloridato De Nebivolol"
+    },
+    {
+      "alias": "cloridato-de-nortriptilina",
+      "name": "Cloridato De Nortriptilina"
+    },
+    {
+      "alias": "cloridato-de-terbinafina",
+      "name": "Cloridato De Terbinafina"
+    },
+    {
+      "alias": "cloridato-de-venlafaxina",
+      "name": "Cloridato De Venlafaxina"
+    },
+    {
+      "alias": "cloridrato-de-amilorida-hidro",
+      "name": "Cloridrato De Amilorida+hidro"
+    },
+    {
+      "alias": "cloridrato-de-amiodarona",
+      "name": "Cloridrato De Amiodarona"
+    },
+    {
+      "alias": "cloridrato-de-amitriptilina",
+      "name": "Cloridrato De Amitriptilina"
+    },
+    {
+      "alias": "cloridrato-de-cetirizina",
+      "name": "Cloridrato De Cetirizina"
+    },
+    {
+      "alias": "cloridrato-de-ciprofloxacino",
+      "name": "Cloridrato De Ciprofloxacino"
+    },
+    {
+      "alias": "cloridrato-de-diltiazem",
+      "name": "Cloridrato De Diltiazem"
+    },
+    {
+      "alias": "cloridrato-de-donepezila",
+      "name": "Cloridrato De Donepezila"
+    },
+    {
+      "alias": "cloridrato-de-dorzolamida-maleato-de-timolol",
+      "name": "Cloridrato De Dorzolamida+maleato De Timolol"
+    },
+    {
+      "alias": "cloridrato-de-doxiciclina",
+      "name": "Cloridrato De Doxiciclina"
+    },
+    {
+      "alias": "cloridrato-de-duloxetina",
+      "name": "Cloridrato De Duloxetina"
+    },
+    {
+      "alias": "cloridrato-de-fexofenadina",
+      "name": "Cloridrato De Fexofenadina"
+    },
+    {
+      "alias": "cloridrato-de-lercanidipino",
+      "name": "Cloridrato De Lercanidipino"
+    },
+    {
+      "alias": "cloridrato-de-lidocaina",
+      "name": "Cloridrato De Lidocaína"
+    },
+    {
+      "alias": "cloridrato-de-metformina",
+      "name": "Cloridrato De Metformina"
+    },
+    {
+      "alias": "cloridrato-de-metilfenidato",
+      "name": "Cloridrato De Metilfenidato"
+    },
+    {
+      "alias": "cloridrato-de-minociclina",
+      "name": "Cloridrato De Minociclina"
+    },
+    {
+      "alias": "cloridrato-de-moxifloxacino",
+      "name": "Cloridrato De Moxifloxacino"
+    },
+    {
+      "alias": "cloridrato-de-nafazolina",
+      "name": "Cloridrato De Nafazolina"
+    },
+    {
+      "alias": "cloridrato-de-nebivolol",
+      "name": "Cloridrato De Nebivolol"
+    },
+    {
+      "alias": "cloridrato-de-ondansetrona",
+      "name": "Cloridrato De Ondansetrona"
+    },
+    {
+      "alias": "cloridrato-de-oximetazol",
+      "name": "Cloridrato De Oximetazol"
+    },
+    {
+      "alias": "cloridrato-de-paroxetina",
+      "name": "Cloridrato De Paroxetina"
+    },
+    {
+      "alias": "cloridrato-de-pioglitazona",
+      "name": "Cloridrato De Pioglitazona"
+    },
+    {
+      "alias": "cloridrato-de-propranolol",
+      "name": "Cloridrato De Propranolol"
+    },
+    {
+      "alias": "cloridrato-de-sertralina",
+      "name": "Cloridrato De Sertralina"
+    },
+    {
+      "alias": "cloridrato-de-sotalol",
+      "name": "Cloridrato De Sotalol"
+    },
+    {
+      "alias": "cloridrato-de-tansulosina",
+      "name": "Cloridrato De Tansulosina"
+    },
+    {
+      "alias": "cloridrato-de-terbinafina",
+      "name": "Cloridrato De Terbinafina"
+    },
+    {
+      "alias": "cloridrato-de-tetraciclina",
+      "name": "Cloridrato De Tetraciclina"
+    },
+    {
+      "alias": "cloridrato-de-venlafaxina",
+      "name": "Cloridrato De Venlafaxina"
+    },
+    {
+      "alias": "clormadidona",
+      "name": "Clormadidona"
+    },
+    {
+      "alias": "clortalidona",
+      "name": "Clortalidona"
+    },
+    {
+      "alias": "close-up",
+      "name": "Close Up"
+    },
+    {
+      "alias": "clotrimazol",
+      "name": "Clotrimazol"
+    },
+    {
+      "alias": "clotrimazol-acetato",
+      "name": "Clotrimazol+acetato"
+    },
+    {
+      "alias": "club-social",
+      "name": "Club Social"
+    },
+    {
+      "alias": "coach",
+      "name": "Coach"
+    },
+    {
+      "alias": "coaguchek",
+      "name": "Coaguchek"
+    },
+    {
+      "alias": "cobapetit",
+      "name": "Cobapetit"
+    },
+    {
+      "alias": "cobavital",
+      "name": "Cobavital"
+    },
+    {
+      "alias": "cobi-12",
+      "name": "Cobi 12"
+    },
+    {
+      "alias": "coca-cola",
+      "name": "Coca-Cola"
+    },
+    {
+      "alias": "cognitus",
+      "name": "Cognitus"
+    },
+    {
+      "alias": "colaten",
+      "name": "Colaten"
+    },
+    {
+      "alias": "colchicina",
+      "name": "Colchicina"
+    },
+    {
+      "alias": "colchis",
+      "name": "Colchis"
+    },
+    {
+      "alias": "coledue",
+      "name": "Coledue"
+    },
+    {
+      "alias": "colflex",
+      "name": "Colflex"
+    },
+    {
+      "alias": "colgate",
+      "name": "Colgate"
+    },
+    {
+      "alias": "colgate-plax",
+      "name": "Colgate Plax"
+    },
+    {
+      "alias": "coloplast",
+      "name": "Coloplast"
+    },
+    {
+      "alias": "colorama",
+      "name": "Colorama"
+    },
+    {
+      "alias": "colpist-mt",
+      "name": "Colpist-Mt"
+    },
+    {
+      "alias": "colpistatin",
+      "name": "Colpistatin"
+    },
+    {
+      "alias": "colujet",
+      "name": "Colujet"
+    },
+    {
+      "alias": "combigan",
+      "name": "Combigan"
+    },
+    {
+      "alias": "combiron",
+      "name": "Combiron"
+    },
+    {
+      "alias": "comfort",
+      "name": "Comfort"
+    },
+    {
+      "alias": "comfy-days",
+      "name": "Comfy Days"
+    },
+    {
+      "alias": "concardio",
+      "name": "Concardio"
+    },
+    {
+      "alias": "concor",
+      "name": "Concor"
+    },
+    {
+      "alias": "condor",
+      "name": "Condor"
+    },
+    {
+      "alias": "condres",
+      "name": "Condres"
+    },
+    {
+      "alias": "condres-ultra",
+      "name": "Condres Ultra"
+    },
+    {
+      "alias": "condroflex",
+      "name": "Condroflex"
+    },
+    {
+      "alias": "confira",
+      "name": "Confira"
+    },
+    {
+      "alias": "confirme",
+      "name": "Confirme"
+    },
+    {
+      "alias": "confort",
+      "name": "Confort"
+    },
+    {
+      "alias": "confort-master",
+      "name": "Confort Master"
+    },
+    {
+      "alias": "contracep",
+      "name": "Contracep"
+    },
+    {
+      "alias": "contrave",
+      "name": "Contrave"
+    },
+    {
+      "alias": "convatec",
+      "name": "Convatec"
+    },
+    {
+      "alias": "copag",
+      "name": "Copag"
+    },
+    {
+      "alias": "copespuma",
+      "name": "Copespuma"
+    },
+    {
+      "alias": "cor-select",
+      "name": "Cor Select"
+    },
+    {
+      "alias": "cor-ton",
+      "name": "Cor&Ton"
+    },
+    {
+      "alias": "corega",
+      "name": "Corega"
+    },
+    {
+      "alias": "coristina",
+      "name": "Coristina"
+    },
+    {
+      "alias": "corpo-astral",
+      "name": "Corpo Astral"
+    },
+    {
+      "alias": "cortef",
+      "name": "Cortef"
+    },
+    {
+      "alias": "corus",
+      "name": "Corus"
+    },
+    {
+      "alias": "coryzalia",
+      "name": "Coryzalia"
+    },
+    {
+      "alias": "coscentra",
+      "name": "Coscentra"
+    },
+    {
+      "alias": "cosopt",
+      "name": "Cosopt"
+    },
+    {
+      "alias": "cpl-medicals",
+      "name": "Cpl Medicals"
+    },
+    {
+      "alias": "cral",
+      "name": "Cral"
+    },
+    {
+      "alias": "cranberry",
+      "name": "Cranberry"
+    },
+    {
+      "alias": "creamy",
+      "name": "Creamy"
+    },
+    {
+      "alias": "creed",
+      "name": "Creed"
+    },
+    {
+      "alias": "cremer",
+      "name": "Cremer"
+    },
+    {
+      "alias": "crestor",
+      "name": "Crestor"
+    },
+    {
+      "alias": "crevagin",
+      "name": "Crevagin"
+    },
+    {
+      "alias": "criscy",
+      "name": "Criscy"
+    },
+    {
+      "alias": "cristalia",
+      "name": "Cristalia"
+    },
+    {
+      "alias": "cristalin",
+      "name": "Cristalin"
+    },
+    {
+      "alias": "cromolerg",
+      "name": "Cromolerg"
+    },
+    {
+      "alias": "cromus",
+      "name": "Cromus"
+    },
+    {
+      "alias": "cronobe",
+      "name": "Cronobe"
+    },
+    {
+      "alias": "cronocor",
+      "name": "Cronocor"
+    },
+    {
+      "alias": "crystal",
+      "name": "Crystal"
+    },
+    {
+      "alias": "curaprox",
+      "name": "Curaprox"
+    },
+    {
+      "alias": "curatec",
+      "name": "Curatec"
+    },
+    {
+      "alias": "curc",
+      "name": "Curc"
+    },
+    {
+      "alias": "curcuma",
+      "name": "Curcuma"
+    },
+    {
+      "alias": "cutisanol",
+      "name": "Cutisanol"
+    },
+    {
+      "alias": "cyclofemina",
+      "name": "Cyclofemina"
+    },
+    {
+      "alias": "cylocort",
+      "name": "Cylocort"
+    },
+    {
+      "alias": "cystera",
+      "name": "Cystera"
+    },
+    {
+      "alias": "cystistat",
+      "name": "Cystistat"
+    },
+    {
+      "alias": "d3-tape-brasil",
+      "name": "D3 Tape Brasil"
+    },
+    {
+      "alias": "dactil",
+      "name": "Dactil"
+    },
+    {
+      "alias": "daflon",
+      "name": "Daflon"
+    },
+    {
+      "alias": "daforin",
+      "name": "Daforin"
+    },
+    {
+      "alias": "dahuer-laboratorio",
+      "name": "Dahuer Laboratório"
+    },
+    {
+      "alias": "daiichi-sankyo",
+      "name": "Daiichi Sankyo"
+    },
+    {
+      "alias": "dailus",
+      "name": "Dailus"
+    },
+    {
+      "alias": "dali",
+      "name": "Dali"
+    },
+    {
+      "alias": "dalyne",
+      "name": "Dalyne"
+    },
+    {
+      "alias": "damater",
+      "name": "Damater"
+    },
+    {
+      "alias": "danone",
+      "name": "Danone"
+    },
+    {
+      "alias": "daonil",
+      "name": "Daonil"
+    },
+    {
+      "alias": "dapagliflozina",
+      "name": "Dapagliflozina"
+    },
+    {
+      "alias": "daraprim",
+      "name": "Daraprim"
+    },
+    {
+      "alias": "darrow",
+      "name": "Darrow"
+    },
+    {
+      "alias": "dastene",
+      "name": "Dastene"
+    },
+    {
+      "alias": "dauf",
+      "name": "Dauf"
+    },
+    {
+      "alias": "davidoff",
+      "name": "Davidoff"
+    },
+    {
+      "alias": "dbs",
+      "name": "Dbs"
+    },
+    {
+      "alias": "ddavp",
+      "name": "Ddavp"
+    },
+    {
+      "alias": "decadron",
+      "name": "Decadron"
+    },
+    {
+      "alias": "decongex",
+      "name": "Decongex"
+    },
+    {
+      "alias": "deconlerg",
+      "name": "Deconlerg"
+    },
+    {
+      "alias": "decontosse",
+      "name": "Decontosse"
+    },
+    {
+      "alias": "dejamaro",
+      "name": "Dejamaro"
+    },
+    {
+      "alias": "dejavu",
+      "name": "Dejavu"
+    },
+    {
+      "alias": "dellamed",
+      "name": "Dellamed"
+    },
+    {
+      "alias": "deltalab",
+      "name": "Deltalab"
+    },
+    {
+      "alias": "deltametril-d",
+      "name": "Deltametril D"
+    },
+    {
+      "alias": "deltapil",
+      "name": "Deltapil"
+    },
+    {
+      "alias": "demi-d",
+      "name": "Demi D"
+    },
+    {
+      "alias": "denature",
+      "name": "Denature"
+    },
+    {
+      "alias": "densis",
+      "name": "Densis"
+    },
+    {
+      "alias": "dentalclean",
+      "name": "Dentalclean"
+    },
+    {
+      "alias": "depi-roll",
+      "name": "Depi Roll"
+    },
+    {
+      "alias": "depil-bella",
+      "name": "Depil Bella"
+    },
+    {
+      "alias": "depiroll",
+      "name": "Depiroll"
+    },
+    {
+      "alias": "depo-provera",
+      "name": "Depo-Provera"
+    },
+    {
+      "alias": "dercos",
+      "name": "Dercos"
+    },
+    {
+      "alias": "deriva",
+      "name": "Deriva"
+    },
+    {
+      "alias": "dermacyd",
+      "name": "Dermacyd"
+    },
+    {
+      "alias": "dermaex",
+      "name": "Dermaex"
+    },
+    {
+      "alias": "dermage",
+      "name": "Dermage"
+    },
+    {
+      "alias": "dermazine",
+      "name": "Dermazine"
+    },
+    {
+      "alias": "dermodex",
+      "name": "Dermodex"
+    },
+    {
+      "alias": "dermomax",
+      "name": "Dermomax"
+    },
+    {
+      "alias": "dermotivin",
+      "name": "Dermotivin"
+    },
+    {
+      "alias": "dersani",
+      "name": "Dersani"
+    },
+    {
+      "alias": "desalex",
+      "name": "Desalex"
+    },
+    {
+      "alias": "descarpack",
+      "name": "Descarpack"
+    },
+    {
+      "alias": "descon",
+      "name": "Descon"
+    },
+    {
+      "alias": "desincha-beauty",
+      "name": "Desinchá Beauty"
+    },
+    {
+      "alias": "desitin",
+      "name": "Desitin"
+    },
+    {
+      "alias": "deskarplas",
+      "name": "Deskarplas"
+    },
+    {
+      "alias": "desloratadina",
+      "name": "Desloratadina"
+    },
+    {
+      "alias": "desogestrel",
+      "name": "Desogestrel"
+    },
+    {
+      "alias": "desogestrel-etinilestradiol",
+      "name": "Desogestrel+etinilestradiol"
+    },
+    {
+      "alias": "desonida",
+      "name": "Desonida"
+    },
+    {
+      "alias": "desrinite",
+      "name": "Desrinite"
+    },
+    {
+      "alias": "desvenlafaxina",
+      "name": "Desvenlafaxina"
+    },
+    {
+      "alias": "dews",
+      "name": "Dews"
+    },
+    {
+      "alias": "dexam",
+      "name": "Dexam"
+    },
+    {
+      "alias": "dexametasona",
+      "name": "Dexametasona"
+    },
+    {
+      "alias": "dexfer",
+      "name": "Dexfer"
+    },
+    {
+      "alias": "dexilant",
+      "name": "Dexilant"
+    },
+    {
+      "alias": "dexmine",
+      "name": "Dexmine"
+    },
+    {
+      "alias": "dextaflam",
+      "name": "Dextaflam"
+    },
+    {
+      "alias": "dextamine",
+      "name": "Dextamine"
+    },
+    {
+      "alias": "diacomit",
+      "name": "Diacomit"
+    },
+    {
+      "alias": "diad",
+      "name": "Diad"
+    },
+    {
+      "alias": "diamicron",
+      "name": "Diamicron"
+    },
+    {
+      "alias": "diane",
+      "name": "Diane"
+    },
+    {
+      "alias": "dicazid",
+      "name": "Dicazid"
+    },
+    {
+      "alias": "diclin",
+      "name": "Diclin"
+    },
+    {
+      "alias": "diclor",
+      "name": "Diclor"
+    },
+    {
+      "alias": "diclor-betaistina",
+      "name": "Diclor Betaistina"
+    },
+    {
+      "alias": "dicloridrato-de-flunarizina",
+      "name": "Dicloridrato De Flunarizina"
+    },
+    {
+      "alias": "dicloridrato-de-hidroxizina",
+      "name": "Dicloridrato de Hidroxizina"
+    },
+    {
+      "alias": "dicloridrato-de-manidipino",
+      "name": "Dicloridrato De Manidipino"
+    },
+    {
+      "alias": "dienogeste",
+      "name": "Dienogeste"
+    },
+    {
+      "alias": "digeplus",
+      "name": "Digeplus"
+    },
+    {
+      "alias": "diltiazem",
+      "name": "Diltiazem"
+    },
+    {
+      "alias": "dimetilpolisiloxane",
+      "name": "Dimetilpolisiloxane"
+    },
+    {
+      "alias": "diminut",
+      "name": "Diminut"
+    },
+    {
+      "alias": "dioless",
+      "name": "Dioless"
+    },
+    {
+      "alias": "diosmin",
+      "name": "Diosmin"
+    },
+    {
+      "alias": "diost",
+      "name": "Diost"
+    },
+    {
+      "alias": "diovan",
+      "name": "Diovan"
+    },
+    {
+      "alias": "dipropionato-de-betametasona",
+      "name": "Dipropionato De Betametasona"
+    },
+    {
+      "alias": "diprosalic",
+      "name": "Diprosalic"
+    },
+    {
+      "alias": "diupress",
+      "name": "Diupress"
+    },
+    {
+      "alias": "diva",
+      "name": "Diva"
+    },
+    {
+      "alias": "divalcon",
+      "name": "Divalcon"
+    },
+    {
+      "alias": "divalproato-sod",
+      "name": "Divalproato Sod"
+    },
+    {
+      "alias": "divelol",
+      "name": "Divelol"
+    },
+    {
+      "alias": "diversos",
+      "name": "Diversos"
+    },
+    {
+      "alias": "divina-pharma",
+      "name": "Divina Pharma"
+    },
+    {
+      "alias": "dobeven",
+      "name": "Dobeven"
+    },
+    {
+      "alias": "doble",
+      "name": "Doble"
+    },
+    {
+      "alias": "dobro",
+      "name": "Dobro"
+    },
+    {
+      "alias": "doctar",
+      "name": "Doctar"
+    },
+    {
+      "alias": "dodibe",
+      "name": "Dodibe"
+    },
+    {
+      "alias": "doiska",
+      "name": "Doiska"
+    },
+    {
+      "alias": "dolce-e-gabbana",
+      "name": "Dolce e Gabbana"
+    },
+    {
+      "alias": "dolce-gabbana",
+      "name": "Dolce & Gabbana"
+    },
+    {
+      "alias": "domperidona",
+      "name": "Domperidona"
+    },
+    {
+      "alias": "domperix",
+      "name": "Domperix"
+    },
+    {
+      "alias": "donaren",
+      "name": "Donaren"
+    },
+    {
+      "alias": "doritos",
+      "name": "Doritos"
+    },
+    {
+      "alias": "dorto",
+      "name": "Dorto"
+    },
+    {
+      "alias": "dorzal",
+      "name": "Dorzal"
+    },
+    {
+      "alias": "doss",
+      "name": "Doss"
+    },
+    {
+      "alias": "dove",
+      "name": "Dove"
+    },
+    {
+      "alias": "downy",
+      "name": "Downy"
+    },
+    {
+      "alias": "doxaprost",
+      "name": "Doxaprost"
+    },
+    {
+      "alias": "doxiciclina",
+      "name": "Doxiciclina"
+    },
+    {
+      "alias": "dozemast",
+      "name": "Dozemast"
+    },
+    {
+      "alias": "dozi",
+      "name": "Dozi"
+    },
+    {
+      "alias": "dprev",
+      "name": "Dprev"
+    },
+    {
+      "alias": "dr-good",
+      "name": "Dr Good"
+    },
+    {
+      "alias": "dr-jones",
+      "name": "Dr Jones"
+    },
+    {
+      "alias": "dr-peanut",
+      "name": "Dr Peanut"
+    },
+    {
+      "alias": "dramin",
+      "name": "Dramin"
+    },
+    {
+      "alias": "drenatan",
+      "name": "Drenatan"
+    },
+    {
+      "alias": "drenison",
+      "name": "Drenison"
+    },
+    {
+      "alias": "drospir-etinil",
+      "name": "Drospir+etinil"
+    },
+    {
+      "alias": "drospirenona-etilnil",
+      "name": "Drospirenona+etilnil"
+    },
+    {
+      "alias": "drospirenona-etinil",
+      "name": "Drospirenona+etinil"
+    },
+    {
+      "alias": "drusolol",
+      "name": "Drusolol"
+    },
+    {
+      "alias": "dry",
+      "name": "Dry"
+    },
+    {
+      "alias": "ducodil",
+      "name": "Ducodil"
+    },
+    {
+      "alias": "ducray",
+      "name": "Ducray"
+    },
+    {
+      "alias": "duekal",
+      "name": "Duekal"
+    },
+    {
+      "alias": "duelle",
+      "name": "Duelle"
+    },
+    {
+      "alias": "duloxetina",
+      "name": "Duloxetina"
+    },
+    {
+      "alias": "dunia",
+      "name": "Dunia"
+    },
+    {
+      "alias": "duodex",
+      "name": "Duodex"
+    },
+    {
+      "alias": "duomo",
+      "name": "Duomo"
+    },
+    {
+      "alias": "duphaston",
+      "name": "Duphaston"
+    },
+    {
+      "alias": "dupixent",
+      "name": "Dupixent"
+    },
+    {
+      "alias": "duracell",
+      "name": "Duracell"
+    },
+    {
+      "alias": "dutam",
+      "name": "Dutam"
+    },
+    {
+      "alias": "dymista",
+      "name": "Dymista"
+    },
+    {
+      "alias": "easy-do-brasil",
+      "name": "Easy do Brasil"
+    },
+    {
+      "alias": "eat-clean",
+      "name": "Eat Clean"
+    },
+    {
+      "alias": "ebastel",
+      "name": "Ebastel"
+    },
+    {
+      "alias": "ebatz",
+      "name": "Ebatz"
+    },
+    {
+      "alias": "ecasil",
+      "name": "Ecasil"
+    },
+    {
+      "alias": "ecofilm",
+      "name": "Ecofilm"
+    },
+    {
+      "alias": "edistride",
+      "name": "Edistride"
+    },
+    {
+      "alias": "edlo",
+      "name": "Edlo"
+    },
+    {
+      "alias": "effaclar",
+      "name": "Effaclar"
+    },
+    {
+      "alias": "effient",
+      "name": "Effient"
+    },
+    {
+      "alias": "eisai-inc",
+      "name": "EISAI INC"
+    },
+    {
+      "alias": "elani",
+      "name": "Elani"
+    },
+    {
+      "alias": "elgin",
+      "name": "Elgin"
+    },
+    {
+      "alias": "eligard",
+      "name": "Eligard"
+    },
+    {
+      "alias": "eliquis",
+      "name": "Eliquis"
+    },
+    {
+      "alias": "ellura",
+      "name": "Ellura"
+    },
+    {
+      "alias": "elmex",
+      "name": "Elmex"
+    },
+    {
+      "alias": "elmiron",
+      "name": "Elmiron"
+    },
+    {
+      "alias": "elseve",
+      "name": "Elseve"
+    },
+    {
+      "alias": "emana-suplementos",
+      "name": "Emana Suplementos"
+    },
+    {
+      "alias": "embrasil",
+      "name": "Embrasil"
+    },
+    {
+      "alias": "emistin",
+      "name": "Emistin"
+    },
+    {
+      "alias": "emprol",
+      "name": "Emprol"
+    },
+    {
+      "alias": "ems",
+      "name": "EMS"
+    },
+    {
+      "alias": "emsexpector",
+      "name": "Emsexpector"
+    },
+    {
+      "alias": "enantato-de-noretisterona-valerato-de-estradiol",
+      "name": "Enantato De Noretisterona+valerato De Estradiol"
+    },
+    {
+      "alias": "enax",
+      "name": "Enax"
+    },
+    {
+      "alias": "endofer",
+      "name": "Endofer"
+    },
+    {
+      "alias": "endofolin",
+      "name": "Endofolin"
+    },
+    {
+      "alias": "enfagrow",
+      "name": "Enfagrow"
+    },
+    {
+      "alias": "enfamil",
+      "name": "Enfamil"
+    },
+    {
+      "alias": "enfanutri",
+      "name": "Enfanutri"
+    },
+    {
+      "alias": "engov",
+      "name": "Engov"
+    },
+    {
+      "alias": "eniagor",
+      "name": "Eniagor"
+    },
+    {
+      "alias": "eno",
+      "name": "Eno"
+    },
+    {
+      "alias": "ensure",
+      "name": "Ensure"
+    },
+    {
+      "alias": "enterogermina",
+      "name": "Enterogermina"
+    },
+    {
+      "alias": "entresto",
+      "name": "Entresto"
+    },
+    {
+      "alias": "eparema",
+      "name": "Eparema"
+    },
+    {
+      "alias": "epidrat",
+      "name": "Epidrat"
+    },
+    {
+      "alias": "epiduo",
+      "name": "Epiduo"
+    },
+    {
+      "alias": "epipen",
+      "name": "Epipen"
+    },
+    {
+      "alias": "episol",
+      "name": "Episol"
+    },
+    {
+      "alias": "epitegel",
+      "name": "Epitegel"
+    },
+    {
+      "alias": "epocler",
+      "name": "Epocler"
+    },
+    {
+      "alias": "equaliv",
+      "name": "Equaliv"
+    },
+    {
+      "alias": "equilibrisse",
+      "name": "Equilibrisse"
+    },
+    {
+      "alias": "equitam",
+      "name": "Equitam"
+    },
+    {
+      "alias": "erivedge",
+      "name": "Erivedge"
+    },
+    {
+      "alias": "esalerg",
+      "name": "Esalerg"
+    },
+    {
+      "alias": "esbelt",
+      "name": "Esbelt"
+    },
+    {
+      "alias": "escabin",
+      "name": "Escabin"
+    },
+    {
+      "alias": "escitalopram",
+      "name": "Escitalopram"
+    },
+    {
+      "alias": "esomex",
+      "name": "Esomex"
+    },
+    {
+      "alias": "esperson",
+      "name": "Esperson"
+    },
+    {
+      "alias": "espinheira",
+      "name": "Espinheira"
+    },
+    {
+      "alias": "espironolactona",
+      "name": "Espironolactona"
+    },
+    {
+      "alias": "essence",
+      "name": "Essence"
+    },
+    {
+      "alias": "essenciart",
+      "name": "Essenciart"
+    },
+    {
+      "alias": "essential-nutrition",
+      "name": "Essential Nutrition"
+    },
+    {
+      "alias": "estalis",
+      "name": "Estalis"
+    },
+    {
+      "alias": "estar-bem",
+      "name": "Estar Bem"
+    },
+    {
+      "alias": "estomazil",
+      "name": "Estomazil"
+    },
+    {
+      "alias": "estrela",
+      "name": "Estrela"
+    },
+    {
+      "alias": "estreva",
+      "name": "Estreva"
+    },
+    {
+      "alias": "estriol",
+      "name": "Estriol"
+    },
+    {
+      "alias": "etna",
+      "name": "Etna"
+    },
+    {
+      "alias": "etnilestradiol-gestodeno",
+      "name": "Etnilestradiol + Gestodeno"
+    },
+    {
+      "alias": "eucerin",
+      "name": "Eucerin"
+    },
+    {
+      "alias": "eudora",
+      "name": "Eudora"
+    },
+    {
+      "alias": "eurofarma",
+      "name": "Eurofarma"
+    },
+    {
+      "alias": "euthyrox",
+      "name": "Euthyrox"
+    },
+    {
+      "alias": "evenity",
+      "name": "Evenity"
+    },
+    {
+      "alias": "evra",
+      "name": "Evra"
+    },
+    {
+      "alias": "ewel",
+      "name": "Ewel"
+    },
+    {
+      "alias": "exeltis",
+      "name": "Exeltis"
+    },
+    {
+      "alias": "exforge",
+      "name": "Exforge"
+    },
+    {
+      "alias": "eximia",
+      "name": "Eximia"
+    },
+    {
+      "alias": "expec",
+      "name": "Expec"
+    },
+    {
+      "alias": "expectamin",
+      "name": "Expectamin"
+    },
+    {
+      "alias": "expectovic",
+      "name": "Expectovic"
+    },
+    {
+      "alias": "expectuss",
+      "name": "Expectuss"
+    },
+    {
+      "alias": "exposis",
+      "name": "Exposis"
+    },
+    {
+      "alias": "ext-cannabis",
+      "name": "Ext Cannabis"
+    },
+    {
+      "alias": "extensior",
+      "name": "Extensior"
+    },
+    {
+      "alias": "extrato",
+      "name": "Extrato"
+    },
+    {
+      "alias": "ezetimiba",
+      "name": "Ezetimiba"
+    },
+    {
+      "alias": "ezetimiba-sinvastatina",
+      "name": "Ezetimiba + Sinvastatina"
+    },
+    {
+      "alias": "ezetrol",
+      "name": "Ezetrol"
+    },
+    {
+      "alias": "facoba",
+      "name": "Facoba"
+    },
+    {
+      "alias": "fanta",
+      "name": "Fanta"
+    },
+    {
+      "alias": "farmax",
+      "name": "Farmax"
+    },
+    {
+      "alias": "farmoquimica",
+      "name": "Farmoquimica"
+    },
+    {
+      "alias": "fascia",
+      "name": "Fascia"
+    },
+    {
+      "alias": "femiane",
+      "name": "Femiane"
+    },
+    {
+      "alias": "femina",
+      "name": "Femina"
+    },
+    {
+      "alias": "feminique",
+      "name": "Feminique"
+    },
+    {
+      "alias": "feminis",
+      "name": "Feminis"
+    },
+    {
+      "alias": "fenazic",
+      "name": "Fenazic"
+    },
+    {
+      "alias": "fenergan",
+      "name": "Fenergan"
+    },
+    {
+      "alias": "fenofibrato",
+      "name": "Fenofibrato"
+    },
+    {
+      "alias": "fentizol",
+      "name": "Fentizol"
+    },
+    {
+      "alias": "ferane",
+      "name": "Ferane"
+    },
+    {
+      "alias": "ferinject",
+      "name": "Ferinject"
+    },
+    {
+      "alias": "ferrari",
+      "name": "Ferrari"
+    },
+    {
+      "alias": "ferripolimaltose",
+      "name": "Ferripolimaltose"
+    },
+    {
+      "alias": "ferronil",
+      "name": "Ferronil"
+    },
+    {
+      "alias": "fexofenadina",
+      "name": "Fexofenadina"
+    },
+    {
+      "alias": "fexx",
+      "name": "Fexx"
+    },
+    {
+      "alias": "fiasp-flextouch",
+      "name": "Fiasp Flextouch"
+    },
+    {
+      "alias": "fiber-mais",
+      "name": "Fiber Mais"
+    },
+    {
+      "alias": "fibrasca",
+      "name": "Fibrasca"
+    },
+    {
+      "alias": "fiesta",
+      "name": "Fiesta"
+    },
+    {
+      "alias": "filgrastim",
+      "name": "Filgrastim"
+    },
+    {
+      "alias": "filtrair-defense",
+      "name": "Filtrair Defense"
+    },
+    {
+      "alias": "filtrair-prevent",
+      "name": "Filtrair Prevent"
+    },
+    {
+      "alias": "filtrum",
+      "name": "Filtrum"
+    },
+    {
+      "alias": "finalop",
+      "name": "Finalop"
+    },
+    {
+      "alias": "finasterida",
+      "name": "Finasterida"
+    },
+    {
+      "alias": "finastil",
+      "name": "Finastil"
+    },
+    {
+      "alias": "fini",
+      "name": "Fini"
+    },
+    {
+      "alias": "finn",
+      "name": "Finn"
+    },
+    {
+      "alias": "fiona",
+      "name": "Fiona"
+    },
+    {
+      "alias": "firialta",
+      "name": "Firialta"
+    },
+    {
+      "alias": "fisiocrem",
+      "name": "Fisiocrem"
+    },
+    {
+      "alias": "fisiogel",
+      "name": "Fisiogel"
+    },
+    {
+      "alias": "fisiogen",
+      "name": "Fisiogen"
+    },
+    {
+      "alias": "fisioton",
+      "name": "Fisioton"
+    },
+    {
+      "alias": "fitobiloba",
+      "name": "Fitobiloba"
+    },
+    {
+      "alias": "fixare",
+      "name": "Fixare"
+    },
+    {
+      "alias": "fixodent",
+      "name": "Fixodent"
+    },
+    {
+      "alias": "flagimax",
+      "name": "Flagimax"
+    },
+    {
+      "alias": "flagyl",
+      "name": "Flagyl"
+    },
+    {
+      "alias": "flavenos",
+      "name": "Flavenos"
+    },
+    {
+      "alias": "flavonid",
+      "name": "Flavonid"
+    },
+    {
+      "alias": "flebodia",
+      "name": "Flebodia"
+    },
+    {
+      "alias": "flebon",
+      "name": "Flebon"
+    },
+    {
+      "alias": "fledoid",
+      "name": "Fledoid"
+    },
+    {
+      "alias": "fletop",
+      "name": "Fletop"
+    },
+    {
+      "alias": "fleurity",
+      "name": "Fleurity"
+    },
+    {
+      "alias": "flexinox",
+      "name": "Flexinox"
+    },
+    {
+      "alias": "flexitrex",
+      "name": "Flexitrex"
+    },
+    {
+      "alias": "flogo-rosa",
+      "name": "Flogo-Rosa"
+    },
+    {
+      "alias": "flogoral",
+      "name": "Flogoral"
+    },
+    {
+      "alias": "flooty",
+      "name": "Flooty"
+    },
+    {
+      "alias": "flora-nativa",
+      "name": "Flora Nativa"
+    },
+    {
+      "alias": "flora-nativa-do-brasil",
+      "name": "Flora Nativa do Brasil"
+    },
+    {
+      "alias": "floralyte",
+      "name": "Floralyte"
+    },
+    {
+      "alias": "floratil",
+      "name": "Floratil"
+    },
+    {
+      "alias": "florax",
+      "name": "Florax"
+    },
+    {
+      "alias": "florent",
+      "name": "Florent"
+    },
+    {
+      "alias": "florinefe",
+      "name": "Florinefe"
+    },
+    {
+      "alias": "fluconazol",
+      "name": "Fluconazol"
+    },
+    {
+      "alias": "fluconazon",
+      "name": "Fluconazon"
+    },
+    {
+      "alias": "fluibron",
+      "name": "Fluibron"
+    },
+    {
+      "alias": "fluiteina",
+      "name": "Fluiteina"
+    },
+    {
+      "alias": "fluive",
+      "name": "Fluive"
+    },
+    {
+      "alias": "flunitec",
+      "name": "Flunitec"
+    },
+    {
+      "alias": "flutinol",
+      "name": "Flutinol"
+    },
+    {
+      "alias": "flutivate",
+      "name": "Flutivate"
+    },
+    {
+      "alias": "fluviral",
+      "name": "Fluviral"
+    },
+    {
+      "alias": "fnb-sports",
+      "name": "FNB Sports"
+    },
+    {
+      "alias": "folacin",
+      "name": "Folacin"
+    },
+    {
+      "alias": "foldan",
+      "name": "Foldan"
+    },
+    {
+      "alias": "foliane",
+      "name": "Foliane"
+    },
+    {
+      "alias": "folifer",
+      "name": "Folifer"
+    },
+    {
+      "alias": "folifolin",
+      "name": "Folifolin"
+    },
+    {
+      "alias": "folin",
+      "name": "Folin"
+    },
+    {
+      "alias": "forever-liss",
+      "name": "Forever Liss"
+    },
+    {
+      "alias": "forfig",
+      "name": "Forfig"
+    },
+    {
+      "alias": "foritus",
+      "name": "Foritus"
+    },
+    {
+      "alias": "formulados-farma",
+      "name": "Formulados Farma"
+    },
+    {
+      "alias": "forteo",
+      "name": "Forteo"
+    },
+    {
+      "alias": "forteviron",
+      "name": "Forteviron"
+    },
+    {
+      "alias": "fortilon",
+      "name": "Fortilon"
+    },
+    {
+      "alias": "fortini",
+      "name": "Fortini"
+    },
+    {
+      "alias": "forxiga",
+      "name": "Forxiga"
+    },
+    {
+      "alias": "fosamax",
+      "name": "Fosamax"
+    },
+    {
+      "alias": "fosfato-de-sitagliptina",
+      "name": "Fosfato De Sitagliptina"
+    },
+    {
+      "alias": "fostair",
+      "name": "Fostair"
+    },
+    {
+      "alias": "fqm",
+      "name": "FQM"
+    },
+    {
+      "alias": "franciny-ehlke",
+      "name": "Franciny Ehlke"
+    },
+    {
+      "alias": "freeco",
+      "name": "Freeco"
+    },
+    {
+      "alias": "freestyle",
+      "name": "Freestyle"
+    },
+    {
+      "alias": "fresh-tears",
+      "name": "Fresh Tears"
+    },
+    {
+      "alias": "fumarat",
+      "name": "Fumarat"
+    },
+    {
+      "alias": "fumarato-de-cetotifeno",
+      "name": "Fumarato De Cetotifeno"
+    },
+    {
+      "alias": "funchicorea",
+      "name": "Funchicorea"
+    },
+    {
+      "alias": "fungilovers",
+      "name": "Fungilovers"
+    },
+    {
+      "alias": "funtyl",
+      "name": "Funtyl"
+    },
+    {
+      "alias": "furoato",
+      "name": "Furoato"
+    },
+    {
+      "alias": "furoato-de-mometasona",
+      "name": "Furoato De Mometasona"
+    },
+    {
+      "alias": "furosemida",
+      "name": "Furosemida"
+    },
+    {
+      "alias": "g-tech",
+      "name": "G-Tech"
+    },
+    {
+      "alias": "gaballon",
+      "name": "Gaballon"
+    },
+    {
+      "alias": "gaballon-cog",
+      "name": "Gaballon Cog"
+    },
+    {
+      "alias": "gabapentina",
+      "name": "Gabapentina"
+    },
+    {
+      "alias": "gabriela-sabatini",
+      "name": "Gabriela Sabatini"
+    },
+    {
+      "alias": "gaeso",
+      "name": "Gaeso"
+    },
+    {
+      "alias": "galderma",
+      "name": "Galderma"
+    },
+    {
+      "alias": "galvus",
+      "name": "Galvus"
+    },
+    {
+      "alias": "gamaline",
+      "name": "Gamaline"
+    },
+    {
+      "alias": "gamax",
+      "name": "Gamax"
+    },
+    {
+      "alias": "ganfort",
+      "name": "Ganfort"
+    },
+    {
+      "alias": "garasone",
+      "name": "Garasone"
+    },
+    {
+      "alias": "garlic",
+      "name": "Garlic"
+    },
+    {
+      "alias": "garnier",
+      "name": "Garnier"
+    },
+    {
+      "alias": "garoto",
+      "name": "Garoto"
+    },
+    {
+      "alias": "gastrol",
+      "name": "Gastrol"
+    },
+    {
+      "alias": "gbio",
+      "name": "Gbio"
+    },
+    {
+      "alias": "gedeon-richter",
+      "name": "Gedeon Richter"
+    },
+    {
+      "alias": "gen-aripiprazol-10-mg-cp-ache",
+      "name": "Gen Aripiprazol 10 Mg Cp Ache"
+    },
+    {
+      "alias": "genfibrozila",
+      "name": "Genfibrozila"
+    },
+    {
+      "alias": "gengimin",
+      "name": "Gengimin"
+    },
+    {
+      "alias": "genom",
+      "name": "Genom"
+    },
+    {
+      "alias": "genomma",
+      "name": "Genomma"
+    },
+    {
+      "alias": "genotropin",
+      "name": "Genotropin"
+    },
+    {
+      "alias": "geolab",
+      "name": "Geolab"
+    },
+    {
+      "alias": "gerialife",
+      "name": "Gerialife"
+    },
+    {
+      "alias": "geriatex",
+      "name": "Geriatex"
+    },
+    {
+      "alias": "germed",
+      "name": "Germed"
+    },
+    {
+      "alias": "gestinol",
+      "name": "Gestinol"
+    },
+    {
+      "alias": "gg-industria",
+      "name": "Gg Industria"
+    },
+    {
+      "alias": "giamebil",
+      "name": "Giamebil"
+    },
+    {
+      "alias": "gillette",
+      "name": "Gillette"
+    },
+    {
+      "alias": "gillette-fusion",
+      "name": "Gillette Fusion"
+    },
+    {
+      "alias": "gillette-mach3",
+      "name": "Gillette Mach3"
+    },
+    {
+      "alias": "gillette-prestobarba",
+      "name": "Gillette Prestobarba"
+    },
+    {
+      "alias": "gillette-probak",
+      "name": "Gillette Probak"
+    },
+    {
+      "alias": "gillette-venus",
+      "name": "Gillette Venus"
+    },
+    {
+      "alias": "ginesse",
+      "name": "Ginesse"
+    },
+    {
+      "alias": "ginkoba",
+      "name": "Ginkoba"
+    },
+    {
+      "alias": "ginkocaps",
+      "name": "Ginkocaps"
+    },
+    {
+      "alias": "ginna",
+      "name": "Ginna"
+    },
+    {
+      "alias": "gino-canesten",
+      "name": "Gino-Canesten"
+    },
+    {
+      "alias": "giorgio-armani",
+      "name": "Giorgio Armani"
+    },
+    {
+      "alias": "giorgio-beverly-hills",
+      "name": "Giorgio Beverly Hills"
+    },
+    {
+      "alias": "giorno-bagno",
+      "name": "Giorno Bagno"
+    },
+    {
+      "alias": "giovanna-baby",
+      "name": "Giovanna Baby"
+    },
+    {
+      "alias": "givenchy",
+      "name": "Givenchy"
+    },
+    {
+      "alias": "glade",
+      "name": "Glade"
+    },
+    {
+      "alias": "glamigan",
+      "name": "Glamigan"
+    },
+    {
+      "alias": "glanatec",
+      "name": "Glanatec"
+    },
+    {
+      "alias": "glargilin",
+      "name": "Glargilin"
+    },
+    {
+      "alias": "glaub",
+      "name": "Glaub"
+    },
+    {
+      "alias": "glaucotrat",
+      "name": "Glaucotrat"
+    },
+    {
+      "alias": "glibenclamida",
+      "name": "Glibenclamida"
+    },
+    {
+      "alias": "gliclazida",
+      "name": "Gliclazida"
+    },
+    {
+      "alias": "glifage",
+      "name": "Glifage"
+    },
+    {
+      "alias": "glivance",
+      "name": "Glivance"
+    },
+    {
+      "alias": "globo",
+      "name": "Globo"
+    },
+    {
+      "alias": "glucagem",
+      "name": "Glucagem"
+    },
+    {
+      "alias": "glucerna",
+      "name": "Glucerna"
+    },
+    {
+      "alias": "glucovance",
+      "name": "Glucovance"
+    },
+    {
+      "alias": "glycare",
+      "name": "Glycare"
+    },
+    {
+      "alias": "glyteol",
+      "name": "Glyteol"
+    },
+    {
+      "alias": "glyxambi",
+      "name": "Glyxambi"
+    },
+    {
+      "alias": "gold-lab",
+      "name": "Gold Lab"
+    },
+    {
+      "alias": "good-vit",
+      "name": "Good Vit"
+    },
+    {
+      "alias": "gracial",
+      "name": "Gracial"
+    },
+    {
+      "alias": "granado",
+      "name": "Granado"
+    },
+    {
+      "alias": "grancaps",
+      "name": "Grancaps"
+    },
+    {
+      "alias": "gravtest",
+      "name": "Gravtest"
+    },
+    {
+      "alias": "grece",
+      "name": "Grece"
+    },
+    {
+      "alias": "grecin",
+      "name": "Grecin"
+    },
+    {
+      "alias": "gres",
+      "name": "Grès"
+    },
+    {
+      "alias": "gripalce",
+      "name": "Gripalce"
+    },
+    {
+      "alias": "gripeol",
+      "name": "Gripeol"
+    },
+    {
+      "alias": "gripinew",
+      "name": "Gripinew"
+    },
+    {
+      "alias": "grow",
+      "name": "Grow"
+    },
+    {
+      "alias": "gsk",
+      "name": "Gsk"
+    },
+    {
+      "alias": "guaramil",
+      "name": "Guaramil"
+    },
+    {
+      "alias": "guarana-jesus",
+      "name": "Guarana Jesus"
+    },
+    {
+      "alias": "gucci",
+      "name": "Gucci"
+    },
+    {
+      "alias": "guday",
+      "name": "Guday"
+    },
+    {
+      "alias": "guess",
+      "name": "Guess"
+    },
+    {
+      "alias": "gum",
+      "name": "Gum"
+    },
+    {
+      "alias": "guy-laroche",
+      "name": "Guy Laroche"
+    },
+    {
+      "alias": "gvs",
+      "name": "Gvs"
+    },
+    {
+      "alias": "gynazole",
+      "name": "Gynazole"
+    },
+    {
+      "alias": "gynopac",
+      "name": "Gynopac"
+    },
+    {
+      "alias": "gynotran",
+      "name": "Gynotran"
+    },
+    {
+      "alias": "gynpro",
+      "name": "Gynpro"
+    },
+    {
+      "alias": "h",
+      "name": "H"
+    },
+    {
+      "alias": "halley",
+      "name": "Halley"
+    },
+    {
+      "alias": "halls",
+      "name": "Halls"
+    },
+    {
+      "alias": "halobex",
+      "name": "Halobex"
+    },
+    {
+      "alias": "haoxi",
+      "name": "Haoxi"
+    },
+    {
+      "alias": "havaianas",
+      "name": "Havaianas"
+    },
+    {
+      "alias": "hawaiian-tropic",
+      "name": "Hawaiian Tropic"
+    },
+    {
+      "alias": "head-shoulders",
+      "name": "Head & Shoulders"
+    },
+    {
+      "alias": "hedera",
+      "name": "Hedera"
+    },
+    {
+      "alias": "helioderm",
+      "name": "Helioderm"
+    },
+    {
+      "alias": "helioral",
+      "name": "Helioral"
+    },
+    {
+      "alias": "helleva",
+      "name": "Helleva"
+    },
+    {
+      "alias": "hello-kitty",
+      "name": "Hello Kitty"
+    },
+    {
+      "alias": "helmilab",
+      "name": "Helmilab"
+    },
+    {
+      "alias": "hemax",
+      "name": "Hemax"
+    },
+    {
+      "alias": "hemifumarato-de-bisoprolol",
+      "name": "Hemifumarato De Bisoprolol"
+    },
+    {
+      "alias": "hemolip",
+      "name": "Hemolip"
+    },
+    {
+      "alias": "heparinox",
+      "name": "Heparinox"
+    },
+    {
+      "alias": "herbarium",
+      "name": "Herbarium"
+    },
+    {
+      "alias": "herbissimo",
+      "name": "Herbissimo"
+    },
+    {
+      "alias": "here-now-cbd",
+      "name": "Here Now CBD"
+    },
+    {
+      "alias": "herpstal",
+      "name": "Herpstal"
+    },
+    {
+      "alias": "hersheys",
+      "name": "Hersheys"
+    },
+    {
+      "alias": "hertz",
+      "name": "Hertz"
+    },
+    {
+      "alias": "hexal-ag",
+      "name": "Hexal AG"
+    },
+    {
+      "alias": "hidrat",
+      "name": "Hidrat"
+    },
+    {
+      "alias": "hidroclorotiazida",
+      "name": "Hidroclorotiazida"
+    },
+    {
+      "alias": "hidrocortisona",
+      "name": "Hidrocortisona"
+    },
+    {
+      "alias": "hidrolight",
+      "name": "Hidrolight"
+    },
+    {
+      "alias": "hidroq-tret-acet",
+      "name": "Hidroq+tret+acet"
+    },
+    {
+      "alias": "hidroquinona",
+      "name": "Hidroquinona"
+    },
+    {
+      "alias": "hidroxicloroquina",
+      "name": "Hidroxicloroquina"
+    },
+    {
+      "alias": "higicler",
+      "name": "Higicler"
+    },
+    {
+      "alias": "higifral",
+      "name": "Higifral"
+    },
+    {
+      "alias": "hiluropt",
+      "name": "Hiluropt"
+    },
+    {
+      "alias": "hipoglos",
+      "name": "Hipoglos"
+    },
+    {
+      "alias": "hirudoid",
+      "name": "Hirudoid"
+    },
+    {
+      "alias": "hisbila",
+      "name": "Hisbila"
+    },
+    {
+      "alias": "histadin",
+      "name": "Histadin"
+    },
+    {
+      "alias": "histamin",
+      "name": "Histamin"
+    },
+    {
+      "alias": "hixizine",
+      "name": "Hixizine"
+    },
+    {
+      "alias": "hizofito",
+      "name": "Hizofito"
+    },
+    {
+      "alias": "holmes",
+      "name": "Holmes"
+    },
+    {
+      "alias": "hominus",
+      "name": "Hominus"
+    },
+    {
+      "alias": "hormoskin",
+      "name": "Hormoskin"
+    },
+    {
+      "alias": "hormus",
+      "name": "Hormus"
+    },
+    {
+      "alias": "huggies",
+      "name": "Huggies"
+    },
+    {
+      "alias": "hugo-boss",
+      "name": "Hugo Boss"
+    },
+    {
+      "alias": "humalog",
+      "name": "Humalog"
+    },
+    {
+      "alias": "humulin",
+      "name": "Humulin"
+    },
+    {
+      "alias": "hyabak",
+      "name": "Hyabak"
+    },
+    {
+      "alias": "hyalufem",
+      "name": "Hyalufem"
+    },
+    {
+      "alias": "hydraporin",
+      "name": "Hydraporin"
+    },
+    {
+      "alias": "hylo",
+      "name": "Hylo"
+    },
+    {
+      "alias": "hypera",
+      "name": "Hypera"
+    },
+    {
+      "alias": "hypermarcas",
+      "name": "Hypermarcas"
+    },
+    {
+      "alias": "hyponat-o",
+      "name": "Hyponat-O"
+    },
+    {
+      "alias": "i2go",
+      "name": "i2GO"
+    },
+    {
+      "alias": "iban",
+      "name": "Iban"
+    },
+    {
+      "alias": "ibandronato",
+      "name": "Ibandronato"
+    },
+    {
+      "alias": "ibanuno",
+      "name": "Ibanuno"
+    },
+    {
+      "alias": "ibiapina",
+      "name": "Ibiapina"
+    },
+    {
+      "alias": "icacort",
+      "name": "Icacort"
+    },
+    {
+      "alias": "icaden",
+      "name": "Icaden"
+    },
+    {
+      "alias": "ideal-produtos-ortopedicos",
+      "name": "Ideal Produtos Ortopédicos"
+    },
+    {
+      "alias": "ideal-soleil",
+      "name": "Ideal Soleil"
+    },
+    {
+      "alias": "imedia",
+      "name": "Imedia"
+    },
+    {
+      "alias": "imosec",
+      "name": "Imosec"
+    },
+    {
+      "alias": "impact",
+      "name": "Impact"
+    },
+    {
+      "alias": "impere",
+      "name": "Impere"
+    },
+    {
+      "alias": "implanon",
+      "name": "Implanon"
+    },
+    {
+      "alias": "imunoflan",
+      "name": "Imunoflan"
+    },
+    {
+      "alias": "imunoglucan",
+      "name": "Imunoglucan"
+    },
+    {
+      "alias": "incoterm",
+      "name": "Incoterm"
+    },
+    {
+      "alias": "indapamida",
+      "name": "Indapamida"
+    },
+    {
+      "alias": "indosso",
+      "name": "Indosso"
+    },
+    {
+      "alias": "indux",
+      "name": "Indux"
+    },
+    {
+      "alias": "inelatte",
+      "name": "Inelatte"
+    },
+    {
+      "alias": "infatrini",
+      "name": "Infatrini"
+    },
+    {
+      "alias": "infludoron",
+      "name": "Infludoron"
+    },
+    {
+      "alias": "inglot",
+      "name": "Inglot"
+    },
+    {
+      "alias": "inilok",
+      "name": "Inilok"
+    },
+    {
+      "alias": "inpruv",
+      "name": "Inpruv"
+    },
+    {
+      "alias": "insit",
+      "name": "Insit"
+    },
+    {
+      "alias": "integralmedica",
+      "name": "Integralmedica"
+    },
+    {
+      "alias": "intimus",
+      "name": "Intimus"
+    },
+    {
+      "alias": "invokana",
+      "name": "Invokana"
+    },
+    {
+      "alias": "inzelm",
+      "name": "Inzelm"
+    },
+    {
+      "alias": "iron-core",
+      "name": "Iron Core"
+    },
+    {
+      "alias": "isdin",
+      "name": "Isdin"
+    },
+    {
+      "alias": "isdinceutics",
+      "name": "Isdinceutics"
+    },
+    {
+      "alias": "isoflavine",
+      "name": "Isoflavine"
+    },
+    {
+      "alias": "ison",
+      "name": "Ison"
+    },
+    {
+      "alias": "issey-miyake",
+      "name": "Issey Miyake"
+    },
+    {
+      "alias": "itraconazol",
+      "name": "Itraconazol"
+    },
+    {
+      "alias": "iumi",
+      "name": "Iumi"
+    },
+    {
+      "alias": "ivermectina",
+      "name": "Ivermectina"
+    },
+    {
+      "alias": "ivevi",
+      "name": "Ivevi"
+    },
+    {
+      "alias": "ivy-c",
+      "name": "Ivy C"
+    },
+    {
+      "alias": "ixium",
+      "name": "Ixium"
+    },
+    {
+      "alias": "iziz",
+      "name": "Iziz"
+    },
+    {
+      "alias": "jacques-bogart",
+      "name": "Jacques Bogart"
+    },
+    {
+      "alias": "jacques-janine",
+      "name": "Jacques Janine"
+    },
+    {
+      "alias": "jaguar",
+      "name": "Jaguar"
+    },
+    {
+      "alias": "jaguaribe",
+      "name": "Jaguaribe"
+    },
+    {
+      "alias": "janumet",
+      "name": "Janumet"
+    },
+    {
+      "alias": "januvia",
+      "name": "Januvia"
+    },
+    {
+      "alias": "jardiance",
+      "name": "Jardiance"
+    },
+    {
+      "alias": "jean-paul-gaultier",
+      "name": "Jean Paul Gaultier"
+    },
+    {
+      "alias": "jimmy-choo",
+      "name": "Jimmy Choo"
+    },
+    {
+      "alias": "joao-e-maria",
+      "name": "Joao e Maria"
+    },
+    {
+      "alias": "joe-mello",
+      "name": "Joe Mello"
+    },
+    {
+      "alias": "jogger",
+      "name": "Jogger"
+    },
+    {
+      "alias": "johnson",
+      "name": "Johnson"
+    },
+    {
+      "alias": "johnson-johnson",
+      "name": "Johnson & Johnson"
+    },
+    {
+      "alias": "johnsons-baby",
+      "name": "Johnsons Baby"
+    },
+    {
+      "alias": "jontex",
+      "name": "Jontex"
+    },
+    {
+      "alias": "joop",
+      "name": "Joop"
+    },
+    {
+      "alias": "juliana-paes",
+      "name": "Juliana Paes"
+    },
+    {
+      "alias": "jungle",
+      "name": "Jungle"
+    },
+    {
+      "alias": "junno",
+      "name": "Junno"
+    },
+    {
+      "alias": "kabrimil",
+      "name": "Kabrimil"
+    },
+    {
+      "alias": "kalist",
+      "name": "Kalist"
+    },
+    {
+      "alias": "kallango",
+      "name": "Kallango"
+    },
+    {
+      "alias": "kaloba",
+      "name": "Kaloba"
+    },
+    {
+      "alias": "karen-bachini-beauty",
+      "name": "Karen Bachini Beauty"
+    },
+    {
+      "alias": "katy-perry",
+      "name": "Katy Perry"
+    },
+    {
+      "alias": "keflex",
+      "name": "Keflex"
+    },
+    {
+      "alias": "keltrina",
+      "name": "Keltrina"
+    },
+    {
+      "alias": "kendall",
+      "name": "Kendall"
+    },
+    {
+      "alias": "kenzo",
+      "name": "Kenzo"
+    },
+    {
+      "alias": "kess",
+      "name": "Kess"
+    },
+    {
+      "alias": "kestal",
+      "name": "Kestal"
+    },
+    {
+      "alias": "kibon",
+      "name": "Kibon"
+    },
+    {
+      "alias": "kiko",
+      "name": "Kiko"
+    },
+    {
+      "alias": "kin",
+      "name": "Kin"
+    },
+    {
+      "alias": "kinder",
+      "name": "Kinder"
+    },
+    {
+      "alias": "kiss-new-york",
+      "name": "Kiss New York"
+    },
+    {
+      "alias": "kitkat",
+      "name": "Kitkat"
+    },
+    {
+      "alias": "kleenex",
+      "name": "Kleenex"
+    },
+    {
+      "alias": "kley-hertz",
+      "name": "Kley Hertz"
+    },
+    {
+      "alias": "koide",
+      "name": "Koide"
+    },
+    {
+      "alias": "kolene",
+      "name": "Kolene"
+    },
+    {
+      "alias": "koleston",
+      "name": "Koleston"
+    },
+    {
+      "alias": "koli-d",
+      "name": "Koli D"
+    },
+    {
+      "alias": "kollagenase",
+      "name": "Kollagenase"
+    },
+    {
+      "alias": "kolplast",
+      "name": "Kolplast"
+    },
+    {
+      "alias": "konjac",
+      "name": "Konjac"
+    },
+    {
+      "alias": "kronel",
+      "name": "Kronel"
+    },
+    {
+      "alias": "kuka",
+      "name": "Kuka"
+    },
+    {
+      "alias": "kuka-baby",
+      "name": "Kuka Baby"
+    },
+    {
+      "alias": "kuramed",
+      "name": "Kuramed"
+    },
+    {
+      "alias": "kyleena",
+      "name": "Kyleena"
+    },
+    {
+      "alias": "l-caps",
+      "name": "L-Caps"
+    },
+    {
+      "alias": "l-oreal",
+      "name": "L'Oréal"
+    },
+    {
+      "alias": "l-oreal-professionnel",
+      "name": "L'Oréal Professionnel"
+    },
+    {
+      "alias": "la-kesia",
+      "name": "La Kesia"
+    },
+    {
+      "alias": "la-roche-posay",
+      "name": "La Roche Posay"
+    },
+    {
+      "alias": "labirin",
+      "name": "Labirin"
+    },
+    {
+      "alias": "labor-import",
+      "name": "Labor Import"
+    },
+    {
+      "alias": "labotrat",
+      "name": "Labotrat"
+    },
+    {
+      "alias": "lacoste",
+      "name": "Lacoste"
+    },
+    {
+      "alias": "lacribell",
+      "name": "Lacribell"
+    },
+    {
+      "alias": "lacrifilm",
+      "name": "Lacrifilm"
+    },
+    {
+      "alias": "lacrima",
+      "name": "Lacrima"
+    },
+    {
+      "alias": "lacta",
+      "name": "Lacta"
+    },
+    {
+      "alias": "lacto-purga",
+      "name": "Lacto Purga"
+    },
+    {
+      "alias": "lactosil",
+      "name": "Lactosil"
+    },
+    {
+      "alias": "lactulona",
+      "name": "Lactulona"
+    },
+    {
+      "alias": "lamotrigina",
+      "name": "Lamotrigina"
+    },
+    {
+      "alias": "lancome",
+      "name": "Lancome"
+    },
+    {
+      "alias": "lanico",
+      "name": "Lanico"
+    },
+    {
+      "alias": "lanolina-hpa",
+      "name": "Lanolina Hpa"
+    },
+    {
+      "alias": "lansoprazol",
+      "name": "Lansoprazol"
+    },
+    {
+      "alias": "lantus",
+      "name": "Lantus"
+    },
+    {
+      "alias": "lanue",
+      "name": "Lanue"
+    },
+    {
+      "alias": "lastacaft",
+      "name": "Lastacaft"
+    },
+    {
+      "alias": "latanoprosta",
+      "name": "Latanoprosta"
+    },
+    {
+      "alias": "latisse",
+      "name": "Latisse"
+    },
+    {
+      "alias": "latonan",
+      "name": "Latonan"
+    },
+    {
+      "alias": "lattafa-perfumes",
+      "name": "Lattafa Perfumes"
+    },
+    {
+      "alias": "lauton",
+      "name": "Lauton"
+    },
+    {
+      "alias": "lavi-white",
+      "name": "Lavi White"
+    },
+    {
+      "alias": "lavitan",
+      "name": "Lavitan"
+    },
+    {
+      "alias": "lays",
+      "name": "Lays"
+    },
+    {
+      "alias": "leader-nutrition",
+      "name": "Leader Nutrition"
+    },
+    {
+      "alias": "lecieza",
+      "name": "Lecieza"
+    },
+    {
+      "alias": "lecitina",
+      "name": "Lecitina"
+    },
+    {
+      "alias": "lectrum",
+      "name": "Lectrum"
+    },
+    {
+      "alias": "leg",
+      "name": "Leg"
+    },
+    {
+      "alias": "legalon",
+      "name": "Legalon"
+    },
+    {
+      "alias": "legrand",
+      "name": "Legrand"
+    },
+    {
+      "alias": "leite-de-colonia",
+      "name": "Leite De Colonia"
+    },
+    {
+      "alias": "leite-magnesia",
+      "name": "Leite Magnesia"
+    },
+    {
+      "alias": "leite-rosas",
+      "name": "Leite Rosas"
+    },
+    {
+      "alias": "leitor",
+      "name": "Leitor"
+    },
+    {
+      "alias": "lemont",
+      "name": "Lemont"
+    },
+    {
+      "alias": "lester",
+      "name": "Lester"
+    },
+    {
+      "alias": "let-me-be",
+      "name": "Let me be"
+    },
+    {
+      "alias": "letrozol",
+      "name": "Letrozol"
+    },
+    {
+      "alias": "leukeran",
+      "name": "Leukeran"
+    },
+    {
+      "alias": "leukoplast",
+      "name": "Leukoplast"
+    },
+    {
+      "alias": "levaquin",
+      "name": "Levaquin"
+    },
+    {
+      "alias": "level",
+      "name": "Level"
+    },
+    {
+      "alias": "levitra",
+      "name": "Levitra"
+    },
+    {
+      "alias": "levocetirizina",
+      "name": "Levocetirizina"
+    },
+    {
+      "alias": "levofloxacino",
+      "name": "Levofloxacino"
+    },
+    {
+      "alias": "levoid",
+      "name": "Levoid"
+    },
+    {
+      "alias": "levolukast",
+      "name": "Levolukast"
+    },
+    {
+      "alias": "levon-etinil",
+      "name": "Levon+etinil"
+    },
+    {
+      "alias": "levotiroxina",
+      "name": "Levotiroxina"
+    },
+    {
+      "alias": "levoxin",
+      "name": "Levoxin"
+    },
+    {
+      "alias": "lib",
+      "name": "Lib"
+    },
+    {
+      "alias": "libbs",
+      "name": "Libbs"
+    },
+    {
+      "alias": "libiam",
+      "name": "Libiam"
+    },
+    {
+      "alias": "lidexor",
+      "name": "Lidexor"
+    },
+    {
+      "alias": "lidocaina",
+      "name": "Lidocaina"
+    },
+    {
+      "alias": "lidopass",
+      "name": "Lidopass"
+    },
+    {
+      "alias": "lightner",
+      "name": "Lightner"
+    },
+    {
+      "alias": "likluc",
+      "name": "Likluc"
+    },
+    {
+      "alias": "lillo",
+      "name": "Lillo"
+    },
+    {
+      "alias": "linea",
+      "name": "Linea"
+    },
+    {
+      "alias": "linofeme",
+      "name": "Linofeme"
+    },
+    {
+      "alias": "lipanon",
+      "name": "Lipanon"
+    },
+    {
+      "alias": "lipiblock",
+      "name": "Lipiblock"
+    },
+    {
+      "alias": "lipidil",
+      "name": "Lipidil"
+    },
+    {
+      "alias": "lipistat",
+      "name": "Lipistat"
+    },
+    {
+      "alias": "lipitor",
+      "name": "Lipitor"
+    },
+    {
+      "alias": "lipless",
+      "name": "Lipless"
+    },
+    {
+      "alias": "liposic",
+      "name": "Liposic"
+    },
+    {
+      "alias": "liris-carmelose",
+      "name": "Liris Carmelose"
+    },
+    {
+      "alias": "lisefex",
+      "name": "Lisefex"
+    },
+    {
+      "alias": "lisinopril",
+      "name": "Lisinopril"
+    },
+    {
+      "alias": "listerine",
+      "name": "Listerine"
+    },
+    {
+      "alias": "lite",
+      "name": "Lite"
+    },
+    {
+      "alias": "litocit",
+      "name": "Litocit"
+    },
+    {
+      "alias": "littmann",
+      "name": "Littmann"
+    },
+    {
+      "alias": "livalo",
+      "name": "Livalo"
+    },
+    {
+      "alias": "livepax",
+      "name": "Livepax"
+    },
+    {
+      "alias": "livial",
+      "name": "Livial"
+    },
+    {
+      "alias": "lixiana",
+      "name": "Lixiana"
+    },
+    {
+      "alias": "lola",
+      "name": "Lola"
+    },
+    {
+      "alias": "lola-cosmetics",
+      "name": "Lola Cosmetics"
+    },
+    {
+      "alias": "lolly",
+      "name": "Lolly"
+    },
+    {
+      "alias": "longevicorp",
+      "name": "Longevicorp"
+    },
+    {
+      "alias": "longevita",
+      "name": "Longevita"
+    },
+    {
+      "alias": "lonium",
+      "name": "Lonium"
+    },
+    {
+      "alias": "lorasliv",
+      "name": "Lorasliv"
+    },
+    {
+      "alias": "loratadina",
+      "name": "Loratadina"
+    },
+    {
+      "alias": "loratadina-sulf",
+      "name": "Loratadina+sulf"
+    },
+    {
+      "alias": "loratamed",
+      "name": "Loratamed"
+    },
+    {
+      "alias": "loreal",
+      "name": "Loreal"
+    },
+    {
+      "alias": "loreal-paris",
+      "name": "Loreal Paris"
+    },
+    {
+      "alias": "loritil",
+      "name": "Loritil"
+    },
+    {
+      "alias": "losart",
+      "name": "Losart"
+    },
+    {
+      "alias": "losartana",
+      "name": "Losartana"
+    },
+    {
+      "alias": "losartana-potassica-hidroclorotiazida",
+      "name": "Losartana Potassica + Hidroclorotiazida"
+    },
+    {
+      "alias": "lotar",
+      "name": "Lotar"
+    },
+    {
+      "alias": "loteprol",
+      "name": "Loteprol"
+    },
+    {
+      "alias": "love-beauty-and-planet",
+      "name": "Love Beauty And Planet"
+    },
+    {
+      "alias": "lovesecret",
+      "name": "LoveSecret"
+    },
+    {
+      "alias": "luccas-neto",
+      "name": "Luccas Neto"
+    },
+    {
+      "alias": "luciara",
+      "name": "Luciara"
+    },
+    {
+      "alias": "luckspuma",
+      "name": "Luckspuma"
+    },
+    {
+      "alias": "luftal",
+      "name": "Luftal"
+    },
+    {
+      "alias": "lumiar",
+      "name": "Lumiar"
+    },
+    {
+      "alias": "lumigan",
+      "name": "Lumigan"
+    },
+    {
+      "alias": "lunah",
+      "name": "Lunah"
+    },
+    {
+      "alias": "lunera",
+      "name": "Lunera"
+    },
+    {
+      "alias": "lur",
+      "name": "Lur"
+    },
+    {
+      "alias": "luvis",
+      "name": "Luvis"
+    },
+    {
+      "alias": "luvis-gold",
+      "name": "Luvis Gold"
+    },
+    {
+      "alias": "lux",
+      "name": "Lux"
+    },
+    {
+      "alias": "lynax",
+      "name": "Lynax"
+    },
+    {
+      "alias": "lyndavel-uno",
+      "name": "Lyndavel Uno"
+    },
+    {
+      "alias": "lysoform",
+      "name": "Lysoform"
+    },
+    {
+      "alias": "m-ms",
+      "name": "M&Ms"
+    },
+    {
+      "alias": "mac-titanium",
+      "name": "Mac Titanium"
+    },
+    {
+      "alias": "macrodantina",
+      "name": "Macrodantina"
+    },
+    {
+      "alias": "macrophytus",
+      "name": "Macrophytus"
+    },
+    {
+      "alias": "madamelis",
+      "name": "Madamelis"
+    },
+    {
+      "alias": "made",
+      "name": "Made"
+    },
+    {
+      "alias": "mag",
+      "name": "MAG+"
+    },
+    {
+      "alias": "magic-retouch",
+      "name": "Magic Retouch"
+    },
+    {
+      "alias": "magnesia-bisurada",
+      "name": "Magnesia Bisurada"
+    },
+    {
+      "alias": "mais-mu",
+      "name": "Mais Mu"
+    },
+    {
+      "alias": "maison-alhambra",
+      "name": "Maison Alhambra"
+    },
+    {
+      "alias": "maleato-de-dexbronfeniramina",
+      "name": "Maleato De Dexbronfeniramina"
+    },
+    {
+      "alias": "maleato-de-dexclofeniramina",
+      "name": "Maleato De Dexclofeniramina"
+    },
+    {
+      "alias": "maleato-de-dexclorfeniramina",
+      "name": "Maleato De Dexclorfeniramina"
+    },
+    {
+      "alias": "maleato-de-dexclorfeniramina-betametasona",
+      "name": "Maleato De Dexclorfeniramina+betametasona"
+    },
+    {
+      "alias": "maleato-de-enalapril",
+      "name": "Maleato De Enalapril"
+    },
+    {
+      "alias": "maleato-de-timolol",
+      "name": "Maleato De Timolol"
+    },
+    {
+      "alias": "maleato-de-trimebutina",
+      "name": "Maleato De Trimebutina"
+    },
+    {
+      "alias": "malvatricin",
+      "name": "Malvatricin"
+    },
+    {
+      "alias": "malvatrikids",
+      "name": "Malvatrikids"
+    },
+    {
+      "alias": "mam",
+      "name": "Mam"
+    },
+    {
+      "alias": "mamades",
+      "name": "Mamades"
+    },
+    {
+      "alias": "mamylan",
+      "name": "Mamylan"
+    },
+    {
+      "alias": "mamypoko",
+      "name": "Mamypoko"
+    },
+    {
+      "alias": "manivasc",
+      "name": "Manivasc"
+    },
+    {
+      "alias": "mantecorp",
+      "name": "Mantecorp"
+    },
+    {
+      "alias": "maracugina",
+      "name": "Maracugina"
+    },
+    {
+      "alias": "maracuja",
+      "name": "Maracuja"
+    },
+    {
+      "alias": "marca-propria",
+      "name": "Marca Propria"
+    },
+    {
+      "alias": "marcas-de-impacto",
+      "name": "Marcas de Impacto"
+    },
+    {
+      "alias": "marcbrayn",
+      "name": "Marcbrayn"
+    },
+    {
+      "alias": "marco-boni",
+      "name": "Marco Boni"
+    },
+    {
+      "alias": "maresis",
+      "name": "Maresis"
+    },
+    {
+      "alias": "marevan",
+      "name": "Marevan"
+    },
+    {
+      "alias": "mari-maria",
+      "name": "Mari Maria"
+    },
+    {
+      "alias": "marimar",
+      "name": "Marimar"
+    },
+    {
+      "alias": "marina-de-bourbon",
+      "name": "Marina de Bourbon"
+    },
+    {
+      "alias": "mark-med",
+      "name": "Mark Med"
+    },
+    {
+      "alias": "materskin",
+      "name": "Materskin"
+    },
+    {
+      "alias": "mavala",
+      "name": "Mavala"
+    },
+    {
+      "alias": "maxibell",
+      "name": "Maxibell"
+    },
+    {
+      "alias": "maxidex",
+      "name": "Maxidex"
+    },
+    {
+      "alias": "maxidrate",
+      "name": "Maxidrate"
+    },
+    {
+      "alias": "maxiflox",
+      "name": "Maxiflox"
+    },
+    {
+      "alias": "maxilerg",
+      "name": "Maxilerg"
+    },
+    {
+      "alias": "maxinom",
+      "name": "Maxinom"
+    },
+    {
+      "alias": "maxinutri",
+      "name": "Maxinutri"
+    },
+    {
+      "alias": "maxitrol",
+      "name": "Maxitrol"
+    },
+    {
+      "alias": "maxton",
+      "name": "Maxton"
+    },
+    {
+      "alias": "md",
+      "name": "Md"
+    },
+    {
+      "alias": "mebuki",
+      "name": "Mebuki"
+    },
+    {
+      "alias": "mec",
+      "name": "Mec"
+    },
+    {
+      "alias": "meclin",
+      "name": "Meclin"
+    },
+    {
+      "alias": "mecobe",
+      "name": "Mecobe"
+    },
+    {
+      "alias": "medela",
+      "name": "Medela"
+    },
+    {
+      "alias": "medical",
+      "name": "Medical"
+    },
+    {
+      "alias": "medicate",
+      "name": "Medicate"
+    },
+    {
+      "alias": "medix",
+      "name": "Medix"
+    },
+    {
+      "alias": "medley",
+      "name": "Medley"
+    },
+    {
+      "alias": "medquimica",
+      "name": "Medquimica"
+    },
+    {
+      "alias": "mefex",
+      "name": "Mefex"
+    },
+    {
+      "alias": "melagriao",
+      "name": "Melagriao"
+    },
+    {
+      "alias": "melcon",
+      "name": "Melcon"
+    },
+    {
+      "alias": "melhor-med",
+      "name": "Melhor Med"
+    },
+    {
+      "alias": "melocox",
+      "name": "Melocox"
+    },
+    {
+      "alias": "meloxicam",
+      "name": "Meloxicam"
+    },
+    {
+      "alias": "mentos",
+      "name": "Mentos"
+    },
+    {
+      "alias": "mercedes-benz",
+      "name": "Mercedes Benz"
+    },
+    {
+      "alias": "mercilon",
+      "name": "Mercilon"
+    },
+    {
+      "alias": "mercur",
+      "name": "Mercur"
+    },
+    {
+      "alias": "meritor",
+      "name": "Meritor"
+    },
+    {
+      "alias": "merthiolate",
+      "name": "Merthiolate"
+    },
+    {
+      "alias": "mesalazina",
+      "name": "Mesalazina"
+    },
+    {
+      "alias": "mesigyna",
+      "name": "Mesigyna"
+    },
+    {
+      "alias": "mesilato-doxazosina",
+      "name": "Mesilato Doxazosina"
+    },
+    {
+      "alias": "metamucil",
+      "name": "Metamucil"
+    },
+    {
+      "alias": "metformina",
+      "name": "Metformina"
+    },
+    {
+      "alias": "metildopa",
+      "name": "Metildopa"
+    },
+    {
+      "alias": "metrexato",
+      "name": "Metrexato"
+    },
+    {
+      "alias": "metronidazol",
+      "name": "Metronidazol"
+    },
+    {
+      "alias": "metronidazoltnist",
+      "name": "Metronidazoltnist"
+    },
+    {
+      "alias": "mezzo",
+      "name": "Mezzo"
+    },
+    {
+      "alias": "mhm",
+      "name": "Mhm"
+    },
+    {
+      "alias": "micardis",
+      "name": "Micardis"
+    },
+    {
+      "alias": "michael-kors",
+      "name": "Michael Kors"
+    },
+    {
+      "alias": "micolamina",
+      "name": "Micolamina"
+    },
+    {
+      "alias": "miconazol",
+      "name": "Miconazol"
+    },
+    {
+      "alias": "micrex-bioworld",
+      "name": "Micrex Bioworld"
+    },
+    {
+      "alias": "microdiol",
+      "name": "Microdiol"
+    },
+    {
+      "alias": "micropil",
+      "name": "Micropil"
+    },
+    {
+      "alias": "microvlar",
+      "name": "Microvlar"
+    },
+    {
+      "alias": "mikatos",
+      "name": "Mikatos"
+    },
+    {
+      "alias": "milde",
+      "name": "Milde"
+    },
+    {
+      "alias": "miligrama",
+      "name": "Miligrama"
+    },
+    {
+      "alias": "millar",
+      "name": "Millar"
+    },
+    {
+      "alias": "milnutri",
+      "name": "Milnutri"
+    },
+    {
+      "alias": "mimosa",
+      "name": "Mimosa"
+    },
+    {
+      "alias": "minel",
+      "name": "Minel"
+    },
+    {
+      "alias": "minesol",
+      "name": "Minesol"
+    },
+    {
+      "alias": "minian",
+      "name": "Minian"
+    },
+    {
+      "alias": "minilax",
+      "name": "Minilax"
+    },
+    {
+      "alias": "minoxidil",
+      "name": "Minoxidil"
+    },
+    {
+      "alias": "minti",
+      "name": "Minti"
+    },
+    {
+      "alias": "mirab",
+      "name": "Mirab"
+    },
+    {
+      "alias": "mirabegrona",
+      "name": "Mirabegrona"
+    },
+    {
+      "alias": "miraculous",
+      "name": "Miraculous"
+    },
+    {
+      "alias": "mirador",
+      "name": "Mirador"
+    },
+    {
+      "alias": "miranova",
+      "name": "Miranova"
+    },
+    {
+      "alias": "mirena",
+      "name": "Mirena"
+    },
+    {
+      "alias": "mirtazapina",
+      "name": "Mirtazapina"
+    },
+    {
+      "alias": "mirugell",
+      "name": "Mirugell"
+    },
+    {
+      "alias": "missner",
+      "name": "Missner"
+    },
+    {
+      "alias": "model-forma",
+      "name": "Model Forma"
+    },
+    {
+      "alias": "modik",
+      "name": "Modik"
+    },
+    {
+      "alias": "molico",
+      "name": "Molico"
+    },
+    {
+      "alias": "molieri",
+      "name": "Molieri"
+    },
+    {
+      "alias": "molyneux",
+      "name": "Molyneux"
+    },
+    {
+      "alias": "moment",
+      "name": "Moment"
+    },
+    {
+      "alias": "monange",
+      "name": "Monange"
+    },
+    {
+      "alias": "mono-isossorbida",
+      "name": "Mono Isossorbida"
+    },
+    {
+      "alias": "monocordil",
+      "name": "Monocordil"
+    },
+    {
+      "alias": "mononitrato-de-isossorbida",
+      "name": "Mononitrato De Isossorbida"
+    },
+    {
+      "alias": "monster",
+      "name": "Monster"
+    },
+    {
+      "alias": "mont-blanc",
+      "name": "Mont Blanc"
+    },
+    {
+      "alias": "montelair",
+      "name": "Montelair"
+    },
+    {
+      "alias": "montelucaste",
+      "name": "Montelucaste"
+    },
+    {
+      "alias": "monuril",
+      "name": "Monuril"
+    },
+    {
+      "alias": "moschino",
+      "name": "Moschino"
+    },
+    {
+      "alias": "motilex",
+      "name": "Motilex"
+    },
+    {
+      "alias": "motix",
+      "name": "Motix"
+    },
+    {
+      "alias": "motore",
+      "name": "Motore"
+    },
+    {
+      "alias": "mounjaro",
+      "name": "Mounjaro"
+    },
+    {
+      "alias": "mounjaro-tirzepatida",
+      "name": "Mounjaro - Tirzepatida"
+    },
+    {
+      "alias": "moving",
+      "name": "Moving"
+    },
+    {
+      "alias": "mucilon",
+      "name": "Mucilon"
+    },
+    {
+      "alias": "mucoflux",
+      "name": "Mucoflux"
+    },
+    {
+      "alias": "mucolitic",
+      "name": "Mucolitic"
+    },
+    {
+      "alias": "multi-bi",
+      "name": "Multi Bi"
+    },
+    {
+      "alias": "multigrip",
+      "name": "Multigrip"
+    },
+    {
+      "alias": "multilab",
+      "name": "Multilab"
+    },
+    {
+      "alias": "multilaser",
+      "name": "Multilaser"
+    },
+    {
+      "alias": "multimix",
+      "name": "Multimix"
+    },
+    {
+      "alias": "multisoro",
+      "name": "Multisoro"
+    },
+    {
+      "alias": "mundial",
+      "name": "Mundial"
+    },
+    {
+      "alias": "mundo-bita",
+      "name": "Mundo Bita"
+    },
+    {
+      "alias": "mundo-verde",
+      "name": "Mundo Verde"
+    },
+    {
+      "alias": "mundo-verde-selecao",
+      "name": "Mundo Verde Seleção"
+    },
+    {
+      "alias": "mupirocina",
+      "name": "Mupirocina"
+    },
+    {
+      "alias": "mustela",
+      "name": "Mustela"
+    },
+    {
+      "alias": "muwiz",
+      "name": "Muwiz"
+    },
+    {
+      "alias": "mydriacyl",
+      "name": "Mydriacyl"
+    },
+    {
+      "alias": "mylanta",
+      "name": "Mylanta"
+    },
+    {
+      "alias": "mylus",
+      "name": "Mylus"
+    },
+    {
+      "alias": "myrafer",
+      "name": "Myrafer"
+    },
+    {
+      "alias": "myralis",
+      "name": "Myralis"
+    },
+    {
+      "alias": "myrbetric",
+      "name": "Myrbetric"
+    },
+    {
+      "alias": "nactali",
+      "name": "Nactali"
+    },
+    {
+      "alias": "nactil",
+      "name": "Nactil"
+    },
+    {
+      "alias": "naire",
+      "name": "Naire"
+    },
+    {
+      "alias": "naldecon",
+      "name": "Naldecon"
+    },
+    {
+      "alias": "nan",
+      "name": "Nan"
+    },
+    {
+      "alias": "nan-althera",
+      "name": "Nan Althera"
+    },
+    {
+      "alias": "nanlac",
+      "name": "Nanlac"
+    },
+    {
+      "alias": "naprix",
+      "name": "Naprix"
+    },
+    {
+      "alias": "naridrin",
+      "name": "Naridrin"
+    },
+    {
+      "alias": "nasoar",
+      "name": "Nasoar"
+    },
+    {
+      "alias": "nasonex",
+      "name": "Nasonex"
+    },
+    {
+      "alias": "natcofarma",
+      "name": "Natcofarma"
+    },
+    {
+      "alias": "natifa",
+      "name": "Natifa"
+    },
+    {
+      "alias": "nativita",
+      "name": "Nativita"
+    },
+    {
+      "alias": "natulab",
+      "name": "Natulab"
+    },
+    {
+      "alias": "natulha",
+      "name": "Natulha"
+    },
+    {
+      "alias": "natural-oil",
+      "name": "Natural Oil"
+    },
+    {
+      "alias": "nature-made",
+      "name": "Nature Made"
+    },
+    {
+      "alias": "naturnes",
+      "name": "Naturnes"
+    },
+    {
+      "alias": "natus",
+      "name": "Natus"
+    },
+    {
+      "alias": "natuser",
+      "name": "Natuser"
+    },
+    {
+      "alias": "nautica",
+      "name": "Nautica"
+    },
+    {
+      "alias": "nebacetin",
+      "name": "Nebacetin"
+    },
+    {
+      "alias": "nebido",
+      "name": "Nebido"
+    },
+    {
+      "alias": "neblock",
+      "name": "Neblock"
+    },
+    {
+      "alias": "nectar-floral",
+      "name": "Nectar Floral"
+    },
+    {
+      "alias": "nene",
+      "name": "Nene"
+    },
+    {
+      "alias": "neo",
+      "name": "Neo"
+    },
+    {
+      "alias": "neo-b",
+      "name": "Neo B"
+    },
+    {
+      "alias": "neo-brasil",
+      "name": "Neo Brasil"
+    },
+    {
+      "alias": "neo-cebetil",
+      "name": "Neo Cebetil"
+    },
+    {
+      "alias": "neo-decapeptyl",
+      "name": "Neo Decapeptyl"
+    },
+    {
+      "alias": "neo-fedipina",
+      "name": "Neo Fedipina"
+    },
+    {
+      "alias": "neo-folico",
+      "name": "Neo Folico"
+    },
+    {
+      "alias": "neo-fresh",
+      "name": "Neo Fresh"
+    },
+    {
+      "alias": "neo-loratadin",
+      "name": "Neo Loratadin"
+    },
+    {
+      "alias": "neo-mistatin",
+      "name": "Neo Mistatin"
+    },
+    {
+      "alias": "neo-quimica",
+      "name": "Neo Quimica"
+    },
+    {
+      "alias": "neocate",
+      "name": "Neocate"
+    },
+    {
+      "alias": "neodia",
+      "name": "Neodia"
+    },
+    {
+      "alias": "neoforte",
+      "name": "Neoforte"
+    },
+    {
+      "alias": "neolefrin",
+      "name": "Neolefrin"
+    },
+    {
+      "alias": "neomicina-bacitracina",
+      "name": "Neomicina+bacitracina"
+    },
+    {
+      "alias": "neopantol",
+      "name": "Neopantol"
+    },
+    {
+      "alias": "neosil",
+      "name": "Neosil"
+    },
+    {
+      "alias": "neosoro",
+      "name": "Neosoro"
+    },
+    {
+      "alias": "neotigason",
+      "name": "Neotigason"
+    },
+    {
+      "alias": "neovangy",
+      "name": "Neovangy"
+    },
+    {
+      "alias": "neovite",
+      "name": "Neovite"
+    },
+    {
+      "alias": "neovlar",
+      "name": "Neovlar"
+    },
+    {
+      "alias": "neprazol",
+      "name": "Neprazol"
+    },
+    {
+      "alias": "nervocalm",
+      "name": "Nervocalm"
+    },
+    {
+      "alias": "nesina",
+      "name": "Nesina"
+    },
+    {
+      "alias": "neslac",
+      "name": "Neslac"
+    },
+    {
+      "alias": "nesta",
+      "name": "Nesta"
+    },
+    {
+      "alias": "nestle",
+      "name": "Nestle"
+    },
+    {
+      "alias": "nestogeno",
+      "name": "Nestogeno"
+    },
+    {
+      "alias": "nestonutri",
+      "name": "Nestonutri"
+    },
+    {
+      "alias": "neurexan",
+      "name": "Neurexan"
+    },
+    {
+      "alias": "neutro",
+      "name": "Neutro +"
+    },
+    {
+      "alias": "neutrofer",
+      "name": "Neutrofer"
+    },
+    {
+      "alias": "neutrogena",
+      "name": "Neutrogena"
+    },
+    {
+      "alias": "nevanac",
+      "name": "Nevanac"
+    },
+    {
+      "alias": "neve",
+      "name": "Neve"
+    },
+    {
+      "alias": "nevoni",
+      "name": "Nevoni"
+    },
+    {
+      "alias": "nevrix",
+      "name": "Nevrix"
+    },
+    {
+      "alias": "nexcare",
+      "name": "Nexcare"
+    },
+    {
+      "alias": "next",
+      "name": "Next"
+    },
+    {
+      "alias": "niely-gold",
+      "name": "Niely Gold"
+    },
+    {
+      "alias": "niki",
+      "name": "Niki"
+    },
+    {
+      "alias": "nimegon",
+      "name": "Nimegon"
+    },
+    {
+      "alias": "nimenrix",
+      "name": "Nimenrix"
+    },
+    {
+      "alias": "nina-ricci",
+      "name": "Nina Ricci"
+    },
+    {
+      "alias": "ninho",
+      "name": "Ninho"
+    },
+    {
+      "alias": "niquitin",
+      "name": "Niquitin"
+    },
+    {
+      "alias": "nistatina",
+      "name": "Nistatina"
+    },
+    {
+      "alias": "nistatina-oxido-de-zinco",
+      "name": "Nistatina + Oxido De Zinco"
+    },
+    {
+      "alias": "nitazoxanida",
+      "name": "Nitazoxanida"
+    },
+    {
+      "alias": "nitrat",
+      "name": "Nitrat"
+    },
+    {
+      "alias": "nitrato",
+      "name": "Nitrato"
+    },
+    {
+      "alias": "nitrendipino",
+      "name": "Nitrendipino"
+    },
+    {
+      "alias": "nitrofurantoina",
+      "name": "Nitrofurantoina"
+    },
+    {
+      "alias": "nivea",
+      "name": "Nivea"
+    },
+    {
+      "alias": "nobre",
+      "name": "Nobre"
+    },
+    {
+      "alias": "nociclin",
+      "name": "Nociclin"
+    },
+    {
+      "alias": "nolvadex",
+      "name": "Nolvadex"
+    },
+    {
+      "alias": "nordette",
+      "name": "Nordette"
+    },
+    {
+      "alias": "noregyna",
+      "name": "Noregyna"
+    },
+    {
+      "alias": "norestin",
+      "name": "Norestin"
+    },
+    {
+      "alias": "noretisterona",
+      "name": "Noretisterona"
+    },
+    {
+      "alias": "norfloxacino",
+      "name": "Norfloxacino"
+    },
+    {
+      "alias": "noripurum",
+      "name": "Noripurum"
+    },
+    {
+      "alias": "nosewash",
+      "name": "NoseWash"
+    },
+    {
+      "alias": "nostil",
+      "name": "Nostil"
+    },
+    {
+      "alias": "nourin",
+      "name": "Nourin"
+    },
+    {
+      "alias": "nova-quimica",
+      "name": "Nova Quimica"
+    },
+    {
+      "alias": "novamil",
+      "name": "Novamil"
+    },
+    {
+      "alias": "novanlo",
+      "name": "Novanlo"
+    },
+    {
+      "alias": "novanoite",
+      "name": "Novanoite"
+    },
+    {
+      "alias": "novartis",
+      "name": "Novartis"
+    },
+    {
+      "alias": "novofine",
+      "name": "Novofine"
+    },
+    {
+      "alias": "novolin",
+      "name": "Novolin"
+    },
+    {
+      "alias": "novorapid",
+      "name": "Novorapid"
+    },
+    {
+      "alias": "nuk",
+      "name": "Nuk"
+    },
+    {
+      "alias": "nupill",
+      "name": "Nupill"
+    },
+    {
+      "alias": "nutella",
+      "name": "Nutella"
+    },
+    {
+      "alias": "nutrabix",
+      "name": "Nutrabix"
+    },
+    {
+      "alias": "nutren",
+      "name": "Nutren"
+    },
+    {
+      "alias": "nutridrink",
+      "name": "Nutridrink"
+    },
+    {
+      "alias": "nutrify",
+      "name": "Nutrify"
+    },
+    {
+      "alias": "nuvaring",
+      "name": "Nuvaring"
+    },
+    {
+      "alias": "oaz",
+      "name": "OAZ"
+    },
+    {
+      "alias": "ob",
+      "name": "Ob"
+    },
+    {
+      "alias": "oceane",
+      "name": "Océane"
+    },
+    {
+      "alias": "octifen",
+      "name": "Octifen"
+    },
+    {
+      "alias": "ocupress",
+      "name": "Ocupress"
+    },
+    {
+      "alias": "ofev",
+      "name": "Ofev"
+    },
+    {
+      "alias": "off",
+      "name": "Off"
+    },
+    {
+      "alias": "oflox",
+      "name": "Oflox"
+    },
+    {
+      "alias": "ofolato",
+      "name": "Ofolato"
+    },
+    {
+      "alias": "oftpred",
+      "name": "Oftpred"
+    },
+    {
+      "alias": "ogestan",
+      "name": "Ogestan"
+    },
+    {
+      "alias": "ohde",
+      "name": "Ohde"
+    },
+    {
+      "alias": "oi",
+      "name": "Oi"
+    },
+    {
+      "alias": "ola",
+      "name": "Ola"
+    },
+    {
+      "alias": "olanzapina",
+      "name": "Olanzapina"
+    },
+    {
+      "alias": "old-spice",
+      "name": "Old Spice"
+    },
+    {
+      "alias": "oleo-primula",
+      "name": "Oleo Primula"
+    },
+    {
+      "alias": "olire",
+      "name": "Olire"
+    },
+    {
+      "alias": "olla",
+      "name": "Olla"
+    },
+    {
+      "alias": "ollie",
+      "name": "Ollie"
+    },
+    {
+      "alias": "olmesartana-hidroclorotiazida",
+      "name": "Olmesartana + Hidroclorotiazida"
+    },
+    {
+      "alias": "olmesartana-medoxomila",
+      "name": "Olmesartana Medoxomila"
+    },
+    {
+      "alias": "olmy",
+      "name": "Olmy"
+    },
+    {
+      "alias": "omcilon",
+      "name": "Omcilon"
+    },
+    {
+      "alias": "omepramix",
+      "name": "Omepramix"
+    },
+    {
+      "alias": "omeprazol",
+      "name": "Omeprazol"
+    },
+    {
+      "alias": "omix",
+      "name": "Omix"
+    },
+    {
+      "alias": "omnic",
+      "name": "Omnic"
+    },
+    {
+      "alias": "omnitrope",
+      "name": "Omnitrope"
+    },
+    {
+      "alias": "omo",
+      "name": "Omo"
+    },
+    {
+      "alias": "omron",
+      "name": "Omron"
+    },
+    {
+      "alias": "oncileg",
+      "name": "Oncileg"
+    },
+    {
+      "alias": "ondif",
+      "name": "Ondif"
+    },
+    {
+      "alias": "onetouch",
+      "name": "Onetouch"
+    },
+    {
+      "alias": "onglyza",
+      "name": "Onglyza"
+    },
+    {
+      "alias": "onicut",
+      "name": "Onicut"
+    },
+    {
+      "alias": "onua",
+      "name": "Onua"
+    },
+    {
+      "alias": "opti-free",
+      "name": "Opti Free"
+    },
+    {
+      "alias": "optilar",
+      "name": "Optilar"
+    },
+    {
+      "alias": "optive",
+      "name": "Optive"
+    },
+    {
+      "alias": "oral-b",
+      "name": "Oral B"
+    },
+    {
+      "alias": "oreo",
+      "name": "Oreo"
+    },
+    {
+      "alias": "orientica",
+      "name": "Orientica"
+    },
+    {
+      "alias": "orlipid",
+      "name": "Orlipid"
+    },
+    {
+      "alias": "orlistate",
+      "name": "Orlistate"
+    },
+    {
+      "alias": "oroxadin",
+      "name": "Oroxadin"
+    },
+    {
+      "alias": "ortho-pauher",
+      "name": "Ortho Pauher"
+    },
+    {
+      "alias": "ortho-silic",
+      "name": "Ortho Silic"
+    },
+    {
+      "alias": "orthogard",
+      "name": "Orthogard"
+    },
+    {
+      "alias": "oscal",
+      "name": "Oscal"
+    },
+    {
+      "alias": "oscillococcinum",
+      "name": "Oscillococcinum"
+    },
+    {
+      "alias": "oselguard",
+      "name": "Oselguard"
+    },
+    {
+      "alias": "oss-for-k",
+      "name": "Oss For K"
+    },
+    {
+      "alias": "ossone",
+      "name": "Ossone"
+    },
+    {
+      "alias": "osteoban",
+      "name": "Osteoban"
+    },
+    {
+      "alias": "osteoform",
+      "name": "Osteoform"
+    },
+    {
+      "alias": "osteonutri",
+      "name": "Osteonutri"
+    },
+    {
+      "alias": "osteotec",
+      "name": "Osteotec"
+    },
+    {
+      "alias": "osteotrat",
+      "name": "Osteotrat"
+    },
+    {
+      "alias": "otrivina",
+      "name": "Otrivina"
+    },
+    {
+      "alias": "ottobock",
+      "name": "Ottobock"
+    },
+    {
+      "alias": "ox",
+      "name": "Ox"
+    },
+    {
+      "alias": "oxal",
+      "name": "Oxal"
+    },
+    {
+      "alias": "oxal-escitalopram",
+      "name": "Oxal Escitalopram"
+    },
+    {
+      "alias": "oxalato-de-escitalopram",
+      "name": "Oxalato De Escitalopram"
+    },
+    {
+      "alias": "oximetazol",
+      "name": "Oximetazol"
+    },
+    {
+      "alias": "ozempic",
+      "name": "Ozempic"
+    },
+    {
+      "alias": "paco-rabanne",
+      "name": "Paco Rabanne"
+    },
+    {
+      "alias": "pague-menos",
+      "name": "Pague Menos"
+    },
+    {
+      "alias": "pague-menos-eco",
+      "name": "Pague Menos Eco"
+    },
+    {
+      "alias": "paixao",
+      "name": "Paixao"
+    },
+    {
+      "alias": "palinetes",
+      "name": "Palinetes"
+    },
+    {
+      "alias": "palmolive",
+      "name": "Palmolive"
+    },
+    {
+      "alias": "pampers",
+      "name": "Pampers"
+    },
+    {
+      "alias": "panini",
+      "name": "Panini"
+    },
+    {
+      "alias": "pant",
+      "name": "Pant"
+    },
+    {
+      "alias": "pant-minoxidil",
+      "name": "Pant Minoxidil"
+    },
+    {
+      "alias": "pantene",
+      "name": "Pantene"
+    },
+    {
+      "alias": "pantogar",
+      "name": "Pantogar"
+    },
+    {
+      "alias": "pantoprazol",
+      "name": "Pantoprazol"
+    },
+    {
+      "alias": "papapa",
+      "name": "Papapá"
+    },
+    {
+      "alias": "papelial",
+      "name": "Papelial"
+    },
+    {
+      "alias": "paracetamol-assoc",
+      "name": "Paracetamol + Assoc."
+    },
+    {
+      "alias": "parafina-bronze",
+      "name": "Parafina Bronze"
+    },
+    {
+      "alias": "parasin",
+      "name": "Parasin"
+    },
+    {
+      "alias": "parodontax",
+      "name": "Parodontax"
+    },
+    {
+      "alias": "pasalix",
+      "name": "Pasalix"
+    },
+    {
+      "alias": "passatempo",
+      "name": "Passatempo"
+    },
+    {
+      "alias": "passiflorine",
+      "name": "Passiflorine"
+    },
+    {
+      "alias": "patanol",
+      "name": "Patanol"
+    },
+    {
+      "alias": "pato",
+      "name": "Pato"
+    },
+    {
+      "alias": "patrulha-canina",
+      "name": "Patrulha Canina"
+    },
+    {
+      "alias": "paxlovid",
+      "name": "Paxlovid"
+    },
+    {
+      "alias": "paxoral",
+      "name": "Paxoral"
+    },
+    {
+      "alias": "payot",
+      "name": "Payot"
+    },
+    {
+      "alias": "pediasure",
+      "name": "Pediasure"
+    },
+    {
+      "alias": "pediderm",
+      "name": "Pediderm"
+    },
+    {
+      "alias": "pediletan",
+      "name": "Pediletan"
+    },
+    {
+      "alias": "pegasys",
+      "name": "Pegasys"
+    },
+    {
+      "alias": "peitoral",
+      "name": "Peitoral"
+    },
+    {
+      "alias": "pelotense-baby",
+      "name": "Pelotense Baby"
+    },
+    {
+      "alias": "penepin",
+      "name": "Penepin"
+    },
+    {
+      "alias": "pentoxifilina",
+      "name": "Pentoxifilina"
+    },
+    {
+      "alias": "penvir",
+      "name": "Penvir"
+    },
+    {
+      "alias": "pepsamar",
+      "name": "Pepsamar"
+    },
+    {
+      "alias": "pepsico",
+      "name": "Pepsico"
+    },
+    {
+      "alias": "percoide",
+      "name": "Percoide"
+    },
+    {
+      "alias": "perfenol",
+      "name": "Perfenol"
+    },
+    {
+      "alias": "perfetto",
+      "name": "Perfetto"
+    },
+    {
+      "alias": "pergo",
+      "name": "Pergo"
+    },
+    {
+      "alias": "periogard",
+      "name": "Periogard"
+    },
+    {
+      "alias": "periotrat",
+      "name": "Periotrat"
+    },
+    {
+      "alias": "permear",
+      "name": "Permear"
+    },
+    {
+      "alias": "permetrina",
+      "name": "Permetrina"
+    },
+    {
+      "alias": "perola",
+      "name": "Perola"
+    },
+    {
+      "alias": "perspirex",
+      "name": "Perspirex"
+    },
+    {
+      "alias": "petamig",
+      "name": "Petamig"
+    },
+    {
+      "alias": "pfizer",
+      "name": "Pfizer"
+    },
+    {
+      "alias": "pharlab",
+      "name": "Pharlab"
+    },
+    {
+      "alias": "pharmascience-lab",
+      "name": "Pharmascience Lab"
+    },
+    {
+      "alias": "pharmatherm",
+      "name": "Pharmatherm"
+    },
+    {
+      "alias": "phebo",
+      "name": "Phebo"
+    },
+    {
+      "alias": "philips-avent",
+      "name": "Philips Avent"
+    },
+    {
+      "alias": "philips-respironics",
+      "name": "Philips Respironics"
+    },
+    {
+      "alias": "phosfoenema",
+      "name": "Phosfoenema"
+    },
+    {
+      "alias": "photoderm",
+      "name": "Photoderm"
+    },
+    {
+      "alias": "physician-s-choice",
+      "name": "Physician's Choice"
+    },
+    {
+      "alias": "piascledine",
+      "name": "Piascledine"
+    },
+    {
+      "alias": "pic-me",
+      "name": "Pic Me"
+    },
+    {
+      "alias": "pic-solution",
+      "name": "Pic Solution"
+    },
+    {
+      "alias": "pielus",
+      "name": "Pielus"
+    },
+    {
+      "alias": "pietra",
+      "name": "Pietra"
+    },
+    {
+      "alias": "pilbox",
+      "name": "Pilbox"
+    },
+    {
+      "alias": "pilem",
+      "name": "Pilem"
+    },
+    {
+      "alias": "pilocarpina",
+      "name": "Pilocarpina"
+    },
+    {
+      "alias": "pinati",
+      "name": "Pinati"
+    },
+    {
+      "alias": "pink-cheeks",
+      "name": "Pink Cheeks"
+    },
+    {
+      "alias": "pioglitazana",
+      "name": "Pioglitazana"
+    },
+    {
+      "alias": "pioglitazona",
+      "name": "Pioglitazona"
+    },
+    {
+      "alias": "pioletal",
+      "name": "Pioletal"
+    },
+    {
+      "alias": "piomi",
+      "name": "Piomi"
+    },
+    {
+      "alias": "piosan",
+      "name": "Piosan"
+    },
+    {
+      "alias": "piotaz",
+      "name": "Piotaz"
+    },
+    {
+      "alias": "piquitucho",
+      "name": "Piquitucho"
+    },
+    {
+      "alias": "piracanjuba",
+      "name": "Piracanjuba"
+    },
+    {
+      "alias": "pitavastatina",
+      "name": "Pitavastatina"
+    },
+    {
+      "alias": "pivast",
+      "name": "Pivast"
+    },
+    {
+      "alias": "plant-power",
+      "name": "Plant Power"
+    },
+    {
+      "alias": "plantaben",
+      "name": "Plantaben"
+    },
+    {
+      "alias": "plaquinol",
+      "name": "Plaquinol"
+    },
+    {
+      "alias": "plavix",
+      "name": "Plavix"
+    },
+    {
+      "alias": "plenance",
+      "name": "Plenance"
+    },
+    {
+      "alias": "plenigell",
+      "name": "Plenigell"
+    },
+    {
+      "alias": "plenitud",
+      "name": "Plenitud"
+    },
+    {
+      "alias": "plurair",
+      "name": "Plurair"
+    },
+    {
+      "alias": "po-pelotense",
+      "name": "Pó Pelotense"
+    },
+    {
+      "alias": "poise",
+      "name": "Poise"
+    },
+    {
+      "alias": "polar",
+      "name": "Polar"
+    },
+    {
+      "alias": "polaramine",
+      "name": "Polaramine"
+    },
+    {
+      "alias": "polaratuss",
+      "name": "Polaratuss"
+    },
+    {
+      "alias": "pompom",
+      "name": "Pompom"
+    },
+    {
+      "alias": "posicor",
+      "name": "Posicor"
+    },
+    {
+      "alias": "poslov",
+      "name": "Poslov"
+    },
+    {
+      "alias": "postec",
+      "name": "Postec"
+    },
+    {
+      "alias": "poviztra",
+      "name": "Poviztra"
+    },
+    {
+      "alias": "powerade",
+      "name": "Powerade"
+    },
+    {
+      "alias": "powerdent",
+      "name": "Powerdent"
+    },
+    {
+      "alias": "pozato",
+      "name": "Pozato"
+    },
+    {
+      "alias": "ppropionato-de-clobetasol",
+      "name": "Ppropionato De Clobetasol"
+    },
+    {
+      "alias": "prada",
+      "name": "Prada"
+    },
+    {
+      "alias": "pradaxa",
+      "name": "Pradaxa"
+    },
+    {
+      "alias": "prati-donaduzzi",
+      "name": "Prati Donaduzzi"
+    },
+    {
+      "alias": "pravastatina",
+      "name": "Pravastatina"
+    },
+    {
+      "alias": "pred",
+      "name": "Pred"
+    },
+    {
+      "alias": "pred-mild",
+      "name": "Pred Mild"
+    },
+    {
+      "alias": "prednisolona",
+      "name": "Prednisolona"
+    },
+    {
+      "alias": "predsim",
+      "name": "Predsim"
+    },
+    {
+      "alias": "pregabalina",
+      "name": "Pregabalina"
+    },
+    {
+      "alias": "pregomin",
+      "name": "Pregomin"
+    },
+    {
+      "alias": "prelone",
+      "name": "Prelone"
+    },
+    {
+      "alias": "premium",
+      "name": "Premium"
+    },
+    {
+      "alias": "presmin",
+      "name": "Presmin"
+    },
+    {
+      "alias": "press",
+      "name": "Press"
+    },
+    {
+      "alias": "pressat",
+      "name": "Pressat"
+    },
+    {
+      "alias": "preten",
+      "name": "Preten"
+    },
+    {
+      "alias": "prevent",
+      "name": "Prevent"
+    },
+    {
+      "alias": "previane",
+      "name": "Previane"
+    },
+    {
+      "alias": "previgrip",
+      "name": "Previgrip"
+    },
+    {
+      "alias": "primera",
+      "name": "Primera"
+    },
+    {
+      "alias": "primogyna",
+      "name": "Primogyna"
+    },
+    {
+      "alias": "primolut-nor",
+      "name": "Primolut-Nor"
+    },
+    {
+      "alias": "primosiston",
+      "name": "Primosiston"
+    },
+    {
+      "alias": "principia",
+      "name": "Principia"
+    },
+    {
+      "alias": "probiotica",
+      "name": "Probiotica"
+    },
+    {
+      "alias": "procoralan",
+      "name": "Procoralan"
+    },
+    {
+      "alias": "proctan",
+      "name": "Proctan"
+    },
+    {
+      "alias": "proctyl",
+      "name": "Proctyl"
+    },
+    {
+      "alias": "proflox",
+      "name": "Proflox"
+    },
+    {
+      "alias": "profuse",
+      "name": "Profuse"
+    },
+    {
+      "alias": "progress",
+      "name": "Progress"
+    },
+    {
+      "alias": "prolia",
+      "name": "Prolia"
+    },
+    {
+      "alias": "prolife",
+      "name": "Prolife"
+    },
+    {
+      "alias": "promestrieno",
+      "name": "Promestrieno"
+    },
+    {
+      "alias": "prometazina",
+      "name": "Prometazina"
+    },
+    {
+      "alias": "propafenona",
+      "name": "Propafenona"
+    },
+    {
+      "alias": "propionato-de-clobetasol",
+      "name": "Propionato De Clobetasol"
+    },
+    {
+      "alias": "propomax",
+      "name": "Propomax"
+    },
+    {
+      "alias": "propomax-dia",
+      "name": "Propomax Dia"
+    },
+    {
+      "alias": "propomax-noite",
+      "name": "Propomax Noite"
+    },
+    {
+      "alias": "propranolol",
+      "name": "Propranolol"
+    },
+    {
+      "alias": "pros",
+      "name": "Pros"
+    },
+    {
+      "alias": "prosso",
+      "name": "Prosso"
+    },
+    {
+      "alias": "prostatal",
+      "name": "Prostatal"
+    },
+    {
+      "alias": "protena",
+      "name": "Protena"
+    },
+    {
+      "alias": "protex",
+      "name": "Protex"
+    },
+    {
+      "alias": "protex-baby",
+      "name": "Protex Baby"
+    },
+    {
+      "alias": "protopic",
+      "name": "Protopic"
+    },
+    {
+      "alias": "provera",
+      "name": "Provera"
+    },
+    {
+      "alias": "prudence",
+      "name": "Prudence"
+    },
+    {
+      "alias": "psorex",
+      "name": "Psorex"
+    },
+    {
+      "alias": "puran",
+      "name": "Puran"
+    },
+    {
+      "alias": "puzzy",
+      "name": "Puzzy"
+    },
+    {
+      "alias": "pyridium",
+      "name": "Pyridium"
+    },
+    {
+      "alias": "pyverm",
+      "name": "Pyverm"
+    },
+    {
+      "alias": "qlaira",
+      "name": "Qlaira"
+    },
+    {
+      "alias": "qod",
+      "name": "Qod"
+    },
+    {
+      "alias": "qtern",
+      "name": "Qtern"
+    },
+    {
+      "alias": "quarteto",
+      "name": "Quarteto"
+    },
+    {
+      "alias": "queimalive",
+      "name": "Queimalive"
+    },
+    {
+      "alias": "questran",
+      "name": "Questran"
+    },
+    {
+      "alias": "quinoflox",
+      "name": "Quinoflox"
+    },
+    {
+      "alias": "raid",
+      "name": "Raid"
+    },
+    {
+      "alias": "ralph-lauren",
+      "name": "Ralph Lauren"
+    },
+    {
+      "alias": "ramipril",
+      "name": "Ramipril"
+    },
+    {
+      "alias": "ranbaxy",
+      "name": "Ranbaxy"
+    },
+    {
+      "alias": "rapilax",
+      "name": "Rapilax"
+    },
+    {
+      "alias": "reach",
+      "name": "Reach"
+    },
+    {
+      "alias": "real-techniques",
+      "name": "Real Techniques"
+    },
+    {
+      "alias": "red-bull",
+      "name": "Red Bull"
+    },
+    {
+      "alias": "redoxon",
+      "name": "Redoxon"
+    },
+    {
+      "alias": "regencel",
+      "name": "Regencel"
+    },
+    {
+      "alias": "regenesis",
+      "name": "Regenesis"
+    },
+    {
+      "alias": "relaxmedic",
+      "name": "Relaxmedic"
+    },
+    {
+      "alias": "relestat",
+      "name": "Relestat"
+    },
+    {
+      "alias": "remilev",
+      "name": "Remilev"
+    },
+    {
+      "alias": "renu",
+      "name": "Renu"
+    },
+    {
+      "alias": "repatha",
+      "name": "Repatha"
+    },
+    {
+      "alias": "repelex",
+      "name": "Repelex"
+    },
+    {
+      "alias": "repoflor",
+      "name": "Repoflor"
+    },
+    {
+      "alias": "repopil",
+      "name": "Repopil"
+    },
+    {
+      "alias": "resfenol",
+      "name": "Resfenol"
+    },
+    {
+      "alias": "resfriliv",
+      "name": "Resfriliv"
+    },
+    {
+      "alias": "resmed",
+      "name": "Resmed"
+    },
+    {
+      "alias": "ressaliv",
+      "name": "Ressaliv"
+    },
+    {
+      "alias": "restasis",
+      "name": "Restasis"
+    },
+    {
+      "alias": "retemic",
+      "name": "Retemic"
+    },
+    {
+      "alias": "reuquinol",
+      "name": "Reuquinol"
+    },
+    {
+      "alias": "revectina",
+      "name": "Revectina"
+    },
+    {
+      "alias": "revlon",
+      "name": "Revlon"
+    },
+    {
+      "alias": "revoc",
+      "name": "Revoc"
+    },
+    {
+      "alias": "revolade",
+      "name": "Revolade"
+    },
+    {
+      "alias": "rexona",
+      "name": "Rexona"
+    },
+    {
+      "alias": "reyou",
+      "name": "Reyou"
+    },
+    {
+      "alias": "ricca",
+      "name": "Ricca"
+    },
+    {
+      "alias": "richester",
+      "name": "Richester"
+    },
+    {
+      "alias": "rifaldin",
+      "name": "Rifaldin"
+    },
+    {
+      "alias": "rifamicina",
+      "name": "Rifamicina"
+    },
+    {
+      "alias": "rinosoro",
+      "name": "Rinosoro"
+    },
+    {
+      "alias": "rinospray",
+      "name": "Rinospray"
+    },
+    {
+      "alias": "rioquimica",
+      "name": "Rioquimica"
+    },
+    {
+      "alias": "riscard",
+      "name": "Riscard"
+    },
+    {
+      "alias": "risedronato",
+      "name": "Risedronato"
+    },
+    {
+      "alias": "risedronato-sodico",
+      "name": "Risedronato Sodico"
+    },
+    {
+      "alias": "risedross",
+      "name": "Risedross"
+    },
+    {
+      "alias": "risperidona",
+      "name": "Risperidona"
+    },
+    {
+      "alias": "risque",
+      "name": "Risqué"
+    },
+    {
+      "alias": "ritmoneuran",
+      "name": "Ritmoneuran"
+    },
+    {
+      "alias": "rivaroxaba",
+      "name": "Rivaroxaba"
+    },
+    {
+      "alias": "rivaroxabana",
+      "name": "Rivaroxabana"
+    },
+    {
+      "alias": "rivaxa",
+      "name": "Rivaxa"
+    },
+    {
+      "alias": "rizi",
+      "name": "Rizi"
+    },
+    {
+      "alias": "rizi-m",
+      "name": "Rizi-M"
+    },
+    {
+      "alias": "roacutan",
+      "name": "Roacutan"
+    },
+    {
+      "alias": "rochas",
+      "name": "Rochas"
+    },
+    {
+      "alias": "roche",
+      "name": "Roche"
+    },
+    {
+      "alias": "rohto-mentholatum",
+      "name": "Rohto Mentholatum"
+    },
+    {
+      "alias": "rosa",
+      "name": "Rosa"
+    },
+    {
+      "alias": "rosa-clean",
+      "name": "Rosa Clean"
+    },
+    {
+      "alias": "rosa-selvagem",
+      "name": "Rosa Selvagem"
+    },
+    {
+      "alias": "rosucor",
+      "name": "Rosucor"
+    },
+    {
+      "alias": "rosulib",
+      "name": "Rosulib"
+    },
+    {
+      "alias": "rosuvastatina",
+      "name": "Rosuvastatina"
+    },
+    {
+      "alias": "rovamicina",
+      "name": "Rovamicina"
+    },
+    {
+      "alias": "rox",
+      "name": "Rox"
+    },
+    {
+      "alias": "rozex",
+      "name": "Rozex"
+    },
+    {
+      "alias": "rubia",
+      "name": "Rubia"
+    },
+    {
+      "alias": "rudite",
+      "name": "Rudite"
+    },
+    {
+      "alias": "runner",
+      "name": "Runner"
+    },
+    {
+      "alias": "runner-eze",
+      "name": "Runner Eze"
+    },
+    {
+      "alias": "rusovas",
+      "name": "Rusovas"
+    },
+    {
+      "alias": "ruva",
+      "name": "Ruva"
+    },
+    {
+      "alias": "rybelsus",
+      "name": "Rybelsus"
+    },
+    {
+      "alias": "rydapt",
+      "name": "Rydapt"
+    },
+    {
+      "alias": "sai-mosquito",
+      "name": "Sai Mosquito"
+    },
+    {
+      "alias": "sal-andrews",
+      "name": "Sal Andrews"
+    },
+    {
+      "alias": "sal-fruta-eno",
+      "name": "Sal Fruta Eno"
+    },
+    {
+      "alias": "salbutamol",
+      "name": "Salbutamol"
+    },
+    {
+      "alias": "sallve",
+      "name": "Sallve"
+    },
+    {
+      "alias": "salon-line",
+      "name": "Salon Line"
+    },
+    {
+      "alias": "salonpas",
+      "name": "Salonpas"
+    },
+    {
+      "alias": "salvador-dali",
+      "name": "Salvador Dali"
+    },
+    {
+      "alias": "salvape",
+      "name": "Salvape"
+    },
+    {
+      "alias": "sanasar",
+      "name": "Sanasar"
+    },
+    {
+      "alias": "sanavita",
+      "name": "Sanavita"
+    },
+    {
+      "alias": "sancare-baby",
+      "name": "Sancare Baby"
+    },
+    {
+      "alias": "sandostatin-lar",
+      "name": "Sandostatin Lar"
+    },
+    {
+      "alias": "sandoz",
+      "name": "Sandoz"
+    },
+    {
+      "alias": "sandrena",
+      "name": "Sandrena"
+    },
+    {
+      "alias": "sanfarma",
+      "name": "Sanfarma"
+    },
+    {
+      "alias": "sanifill",
+      "name": "Sanifill"
+    },
+    {
+      "alias": "sanofi",
+      "name": "Sanofi"
+    },
+    {
+      "alias": "sanprost",
+      "name": "Sanprost"
+    },
+    {
+      "alias": "sany",
+      "name": "Sany"
+    },
+    {
+      "alias": "sarcopen",
+      "name": "Sarcopen"
+    },
+    {
+      "alias": "saxenda",
+      "name": "Saxenda"
+    },
+    {
+      "alias": "sbp",
+      "name": "Sbp"
+    },
+    {
+      "alias": "schweppes",
+      "name": "Schweppes"
+    },
+    {
+      "alias": "scott",
+      "name": "Scott"
+    },
+    {
+      "alias": "seakalm",
+      "name": "Seakalm"
+    },
+    {
+      "alias": "sebastian-professional",
+      "name": "Sebastian Professional"
+    },
+    {
+      "alias": "secfar",
+      "name": "Secfar"
+    },
+    {
+      "alias": "secnidal",
+      "name": "Secnidal"
+    },
+    {
+      "alias": "secnidazol",
+      "name": "Secnidazol"
+    },
+    {
+      "alias": "secnihexal",
+      "name": "Secnihexal"
+    },
+    {
+      "alias": "secnimax",
+      "name": "Secnimax"
+    },
+    {
+      "alias": "secret",
+      "name": "Secret"
+    },
+    {
+      "alias": "seda",
+      "name": "Seda"
+    },
+    {
+      "alias": "sedatif",
+      "name": "Sedatif"
+    },
+    {
+      "alias": "sedavan",
+      "name": "Sedavan"
+    },
+    {
+      "alias": "seiva-de-alfazema",
+      "name": "Seiva De Alfazema"
+    },
+    {
+      "alias": "seki",
+      "name": "Seki"
+    },
+    {
+      "alias": "selene",
+      "name": "Selene"
+    },
+    {
+      "alias": "selozok",
+      "name": "Selozok"
+    },
+    {
+      "alias": "sem-marca",
+      "name": "Sem marca"
+    },
+    {
+      "alias": "sempre-bem",
+      "name": "Sempre Bem"
+    },
+    {
+      "alias": "sempre-livre",
+      "name": "Sempre Livre"
+    },
+    {
+      "alias": "sensodyne",
+      "name": "Sensodyne"
+    },
+    {
+      "alias": "sepurin",
+      "name": "Sepurin"
+    },
+    {
+      "alias": "serenus",
+      "name": "Serenus"
+    },
+    {
+      "alias": "seretide",
+      "name": "Seretide"
+    },
+    {
+      "alias": "sertralina",
+      "name": "Sertralina"
+    },
+    {
+      "alias": "servier",
+      "name": "Servier"
+    },
+    {
+      "alias": "shiseido",
+      "name": "Shiseido"
+    },
+    {
+      "alias": "siblima",
+      "name": "Siblima"
+    },
+    {
+      "alias": "sibus",
+      "name": "Sibus"
+    },
+    {
+      "alias": "sibutramina",
+      "name": "Sibutramina"
+    },
+    {
+      "alias": "sigma-clav",
+      "name": "Sigma-Clav"
+    },
+    {
+      "alias": "sigmatriol",
+      "name": "Sigmatriol"
+    },
+    {
+      "alias": "sigvaris",
+      "name": "Sigvaris"
+    },
+    {
+      "alias": "sil-hp",
+      "name": "Sil-Hp"
+    },
+    {
+      "alias": "sildenafila",
+      "name": "Sildenafila"
+    },
+    {
+      "alias": "silimalon",
+      "name": "Silimalon"
+    },
+    {
+      "alias": "simbrinza",
+      "name": "Simbrinza"
+    },
+    {
+      "alias": "simeticona",
+      "name": "Simeticona"
+    },
+    {
+      "alias": "simple-organic",
+      "name": "Simple Organic"
+    },
+    {
+      "alias": "sinudoron",
+      "name": "Sinudoron"
+    },
+    {
+      "alias": "sinvalip",
+      "name": "Sinvalip"
+    },
+    {
+      "alias": "sinvascor",
+      "name": "Sinvascor"
+    },
+    {
+      "alias": "sinvastacor",
+      "name": "Sinvastacor"
+    },
+    {
+      "alias": "sinvastatina",
+      "name": "Sinvastatina"
+    },
+    {
+      "alias": "sisley",
+      "name": "Sisley"
+    },
+    {
+      "alias": "skinage",
+      "name": "Skinage"
+    },
+    {
+      "alias": "skinceuticals",
+      "name": "Skinceuticals"
+    },
+    {
+      "alias": "skyn",
+      "name": "Skyn"
+    },
+    {
+      "alias": "slinda",
+      "name": "Slinda"
+    },
+    {
+      "alias": "snickers",
+      "name": "Snickers"
+    },
+    {
+      "alias": "snif",
+      "name": "Snif"
+    },
+    {
+      "alias": "soft-color",
+      "name": "Soft Color"
+    },
+    {
+      "alias": "sol-salina",
+      "name": "Sol Salina"
+    },
+    {
+      "alias": "solidor",
+      "name": "Solidor"
+    },
+    {
+      "alias": "soliqua",
+      "name": "Soliqua"
+    },
+    {
+      "alias": "sollys",
+      "name": "Sollys"
+    },
+    {
+      "alias": "solomed",
+      "name": "Solomed"
+    },
+    {
+      "alias": "somalgin",
+      "name": "Somalgin"
+    },
+    {
+      "alias": "sonozzz",
+      "name": "Sonozzz"
+    },
+    {
+      "alias": "sonrisal",
+      "name": "Sonrisal"
+    },
+    {
+      "alias": "soy",
+      "name": "Soy"
+    },
+    {
+      "alias": "speedicath",
+      "name": "SpeediCath"
+    },
+    {
+      "alias": "spirulina",
+      "name": "Spirulina"
+    },
+    {
+      "alias": "spk",
+      "name": "SPK"
+    },
+    {
+      "alias": "standart",
+      "name": "Standart"
+    },
+    {
+      "alias": "stanglit",
+      "name": "Stanglit"
+    },
+    {
+      "alias": "stanley",
+      "name": "Stanley"
+    },
+    {
+      "alias": "steaton",
+      "name": "Steaton"
+    },
+    {
+      "alias": "stele",
+      "name": "Stele"
+    },
+    {
+      "alias": "ster",
+      "name": "Ster"
+    },
+    {
+      "alias": "stezza",
+      "name": "Stezza"
+    },
+    {
+      "alias": "stilgrip",
+      "name": "Stilgrip"
+    },
+    {
+      "alias": "still",
+      "name": "Still"
+    },
+    {
+      "alias": "stressdoron",
+      "name": "Stressdoron"
+    },
+    {
+      "alias": "stub",
+      "name": "Stub"
+    },
+    {
+      "alias": "suavicid",
+      "name": "Suavicid"
+    },
+    {
+      "alias": "suavie",
+      "name": "Suavie"
+    },
+    {
+      "alias": "subtrax",
+      "name": "Subtrax"
+    },
+    {
+      "alias": "succinato-de-metoprolol",
+      "name": "Succinato De Metoprolol"
+    },
+    {
+      "alias": "succinato-de-solifenacina",
+      "name": "Succinato De Solifenacina"
+    },
+    {
+      "alias": "sucrafilm",
+      "name": "Sucrafilm"
+    },
+    {
+      "alias": "suganon",
+      "name": "Suganon"
+    },
+    {
+      "alias": "sulf-trimetoprima",
+      "name": "Sulf+trimetoprima"
+    },
+    {
+      "alias": "sulfadiazina",
+      "name": "Sulfadiazina"
+    },
+    {
+      "alias": "sulfam-trimet",
+      "name": "Sulfam+trimet"
+    },
+    {
+      "alias": "sulfato-de-glicosamina",
+      "name": "Sulfato De Glicosamina"
+    },
+    {
+      "alias": "sulfato-de-neomicina",
+      "name": "Sulfato De Neomicina"
+    },
+    {
+      "alias": "sundown",
+      "name": "Sundown"
+    },
+    {
+      "alias": "sunless",
+      "name": "Sunless"
+    },
+    {
+      "alias": "sunmax",
+      "name": "Sunmax"
+    },
+    {
+      "alias": "super",
+      "name": "Super"
+    },
+    {
+      "alias": "super-bonder",
+      "name": "Super Bonder"
+    },
+    {
+      "alias": "supera",
+      "name": "Supera"
+    },
+    {
+      "alias": "supera-rx",
+      "name": "Supera Rx"
+    },
+    {
+      "alias": "superhist",
+      "name": "Superhist"
+    },
+    {
+      "alias": "supermedy",
+      "name": "Supermedy"
+    },
+    {
+      "alias": "supply-health-brasil",
+      "name": "Supply & Health Brasil"
+    },
+    {
+      "alias": "suprasoy",
+      "name": "Suprasoy"
+    },
+    {
+      "alias": "surya-henna",
+      "name": "Surya Henna"
+    },
+    {
+      "alias": "sustagen",
+      "name": "Sustagen"
+    },
+    {
+      "alias": "sustain",
+      "name": "Sustain"
+    },
+    {
+      "alias": "sustrate",
+      "name": "Sustrate"
+    },
+    {
+      "alias": "symbicort",
+      "name": "Symbicort"
+    },
+    {
+      "alias": "synthroid",
+      "name": "Synthroid"
+    },
+    {
+      "alias": "systane",
+      "name": "Systane"
+    },
+    {
+      "alias": "systen",
+      "name": "Systen"
+    },
+    {
+      "alias": "tada",
+      "name": "Tada"
+    },
+    {
+      "alias": "tadalafila",
+      "name": "Tadalafila"
+    },
+    {
+      "alias": "taiff",
+      "name": "Taiff"
+    },
+    {
+      "alias": "tamarine",
+      "name": "Tamarine"
+    },
+    {
+      "alias": "tamiflu",
+      "name": "Tamiflu"
+    },
+    {
+      "alias": "tamiram",
+      "name": "Tamiram"
+    },
+    {
+      "alias": "tamisa",
+      "name": "Tamisa"
+    },
+    {
+      "alias": "tamoxifeno",
+      "name": "Tamoxifeno"
+    },
+    {
+      "alias": "tampax",
+      "name": "Tampax"
+    },
+    {
+      "alias": "tamsulon",
+      "name": "Tamsulon"
+    },
+    {
+      "alias": "tandy",
+      "name": "Tandy"
+    },
+    {
+      "alias": "tansudart",
+      "name": "Tansudart"
+    },
+    {
+      "alias": "tantin",
+      "name": "Tantin"
+    },
+    {
+      "alias": "tapazol",
+      "name": "Tapazol"
+    },
+    {
+      "alias": "tartarato",
+      "name": "Tartarato"
+    },
+    {
+      "alias": "tartarato-de-brimonidina",
+      "name": "Tartarato De Brimonidina"
+    },
+    {
+      "alias": "tasulil",
+      "name": "Tasulil"
+    },
+    {
+      "alias": "tavok",
+      "name": "Tavok"
+    },
+    {
+      "alias": "tc-care",
+      "name": "Tc Care"
+    },
+    {
+      "alias": "tebonin",
+      "name": "Tebonin"
+    },
+    {
+      "alias": "techline",
+      "name": "Techline"
+    },
+    {
+      "alias": "tecnofer",
+      "name": "Tecnofer"
+    },
+    {
+      "alias": "tecnomet",
+      "name": "Tecnomet"
+    },
+    {
+      "alias": "ted-lapidus",
+      "name": "Ted Lapidus"
+    },
+    {
+      "alias": "teen-titans-go",
+      "name": "Teen Titans Go"
+    },
+    {
+      "alias": "telmisartana",
+      "name": "Telmisartana"
+    },
+    {
+      "alias": "tena",
+      "name": "Tena"
+    },
+    {
+      "alias": "tensaliv",
+      "name": "Tensaliv"
+    },
+    {
+      "alias": "tensart",
+      "name": "Tensart"
+    },
+    {
+      "alias": "tenys-pe",
+      "name": "Tenys Pe"
+    },
+    {
+      "alias": "tenys-pe-baruel",
+      "name": "Tenys Pe Baruel"
+    },
+    {
+      "alias": "tepev",
+      "name": "Tepev"
+    },
+    {
+      "alias": "terbinafina",
+      "name": "Terbinafina"
+    },
+    {
+      "alias": "termoplasticos",
+      "name": "Termoplasticos"
+    },
+    {
+      "alias": "terolac",
+      "name": "Terolac"
+    },
+    {
+      "alias": "teroquatro",
+      "name": "Teroquatro"
+    },
+    {
+      "alias": "terumo",
+      "name": "Terumo"
+    },
+    {
+      "alias": "tess",
+      "name": "Tess"
+    },
+    {
+      "alias": "testosterona",
+      "name": "Testosterona"
+    },
+    {
+      "alias": "teuto",
+      "name": "Teuto"
+    },
+    {
+      "alias": "thealoz-duo",
+      "name": "Thealoz Duo"
+    },
+    {
+      "alias": "thera",
+      "name": "THERA"
+    },
+    {
+      "alias": "therapsor",
+      "name": "Therapsor"
+    },
+    {
+      "alias": "theraskin",
+      "name": "Theraskin"
+    },
+    {
+      "alias": "therdose",
+      "name": "Therdose"
+    },
+    {
+      "alias": "thierry-mugler",
+      "name": "Thierry Mugler"
+    },
+    {
+      "alias": "thioctacid",
+      "name": "Thioctacid"
+    },
+    {
+      "alias": "tiadol",
+      "name": "Tiadol"
+    },
+    {
+      "alias": "tiboclin",
+      "name": "Tiboclin"
+    },
+    {
+      "alias": "tibolona",
+      "name": "Tibolona"
+    },
+    {
+      "alias": "tic-tac",
+      "name": "Tic Tac"
+    },
+    {
+      "alias": "ticlopidina",
+      "name": "Ticlopidina"
+    },
+    {
+      "alias": "tim",
+      "name": "Tim"
+    },
+    {
+      "alias": "timoptol",
+      "name": "Timoptol"
+    },
+    {
+      "alias": "tinid-nit",
+      "name": "Tinid+nit"
+    },
+    {
+      "alias": "tinidazol",
+      "name": "Tinidazol"
+    },
+    {
+      "alias": "tinidazol-nit",
+      "name": "Tinidazol+nit"
+    },
+    {
+      "alias": "tio-nacho",
+      "name": "Tio Nacho"
+    },
+    {
+      "alias": "tioconazol-tinidazol",
+      "name": "Tioconazol+tinidazol"
+    },
+    {
+      "alias": "tiorfan",
+      "name": "Tiorfan"
+    },
+    {
+      "alias": "tobracin",
+      "name": "Tobracin"
+    },
+    {
+      "alias": "tobracort",
+      "name": "Tobracort"
+    },
+    {
+      "alias": "tobradex",
+      "name": "Tobradex"
+    },
+    {
+      "alias": "tobramicina",
+      "name": "Tobramicina"
+    },
+    {
+      "alias": "tobrex",
+      "name": "Tobrex"
+    },
+    {
+      "alias": "top-beauty",
+      "name": "Top Beauty"
+    },
+    {
+      "alias": "topiramato",
+      "name": "Topiramato"
+    },
+    {
+      "alias": "topison",
+      "name": "Topison"
+    },
+    {
+      "alias": "topz",
+      "name": "Topz"
+    },
+    {
+      "alias": "topz-baby",
+      "name": "Topz Baby"
+    },
+    {
+      "alias": "toragesic",
+      "name": "Toragesic"
+    },
+    {
+      "alias": "torrent",
+      "name": "Torrent"
+    },
+    {
+      "alias": "torsilax",
+      "name": "Torsilax"
+    },
+    {
+      "alias": "toujeo",
+      "name": "Toujeo"
+    },
+    {
+      "alias": "toyster",
+      "name": "Toyster"
+    },
+    {
+      "alias": "tracta",
+      "name": "Tracta"
+    },
+    {
+      "alias": "tralala",
+      "name": "Tralala"
+    },
+    {
+      "alias": "tranexamico",
+      "name": "Tranexamico"
+    },
+    {
+      "alias": "transamin",
+      "name": "Transamin"
+    },
+    {
+      "alias": "traturil",
+      "name": "Traturil"
+    },
+    {
+      "alias": "travamed",
+      "name": "Travamed"
+    },
+    {
+      "alias": "travatan",
+      "name": "Travatan"
+    },
+    {
+      "alias": "travoprosta",
+      "name": "Travoprosta"
+    },
+    {
+      "alias": "travoptic",
+      "name": "Travoptic"
+    },
+    {
+      "alias": "traxonol",
+      "name": "Traxonol"
+    },
+    {
+      "alias": "trayenta",
+      "name": "Trayenta"
+    },
+    {
+      "alias": "tres-coracoes",
+      "name": "Três Corações"
+    },
+    {
+      "alias": "tresemme",
+      "name": "Tresemme"
+    },
+    {
+      "alias": "tresiba",
+      "name": "Tresiba"
+    },
+    {
+      "alias": "trezete",
+      "name": "Trezete"
+    },
+    {
+      "alias": "trezor",
+      "name": "Trezor"
+    },
+    {
+      "alias": "triade",
+      "name": "Triade"
+    },
+    {
+      "alias": "triancil",
+      "name": "Triancil"
+    },
+    {
+      "alias": "triancinolona",
+      "name": "Triancinolona"
+    },
+    {
+      "alias": "trident",
+      "name": "Trident"
+    },
+    {
+      "alias": "trifor",
+      "name": "Trifor"
+    },
+    {
+      "alias": "triplenex",
+      "name": "Triplenex"
+    },
+    {
+      "alias": "triplixam",
+      "name": "Triplixam"
+    },
+    {
+      "alias": "triquilar",
+      "name": "Triquilar"
+    },
+    {
+      "alias": "trisorb",
+      "name": "Trisorb"
+    },
+    {
+      "alias": "trivagel-n",
+      "name": "Trivagel-N"
+    },
+    {
+      "alias": "trok",
+      "name": "Trok"
+    },
+    {
+      "alias": "trombofob",
+      "name": "Trombofob"
+    },
+    {
+      "alias": "trometamol-cetorolaco",
+      "name": "Trometamol Cetorolaco"
+    },
+    {
+      "alias": "true-source",
+      "name": "True Source"
+    },
+    {
+      "alias": "trulicity",
+      "name": "Trulicity"
+    },
+    {
+      "alias": "turma-da-monica",
+      "name": "Turma Da Monica"
+    },
+    {
+      "alias": "turma-da-xuxinha",
+      "name": "Turma Da Xuxinha"
+    },
+    {
+      "alias": "turma-do-soninho",
+      "name": "Turma do Soninho"
+    },
+    {
+      "alias": "tutti-care",
+      "name": "Tutti Care"
+    },
+    {
+      "alias": "twix",
+      "name": "Twix"
+    },
+    {
+      "alias": "tylenol",
+      "name": "Tylenol"
+    },
+    {
+      "alias": "tyna",
+      "name": "Tyna"
+    },
+    {
+      "alias": "ulric-de-varens",
+      "name": "Ulric de Varens"
+    },
+    {
+      "alias": "ultrafer",
+      "name": "Ultrafer"
+    },
+    {
+      "alias": "umbrella",
+      "name": "Umbrella"
+    },
+    {
+      "alias": "umidita",
+      "name": "Umidita"
+    },
+    {
+      "alias": "unak",
+      "name": "Unak"
+    },
+    {
+      "alias": "unha-sana",
+      "name": "Unha Sana"
+    },
+    {
+      "alias": "uniao-quimica",
+      "name": "Uniao Quimica"
+    },
+    {
+      "alias": "unica-sensitive",
+      "name": "Unica Sensitive"
+    },
+    {
+      "alias": "unicpharma",
+      "name": "Unicpharma"
+    },
+    {
+      "alias": "unilife",
+      "name": "Unilife"
+    },
+    {
+      "alias": "uniqmed",
+      "name": "Uniqmed"
+    },
+    {
+      "alias": "uno",
+      "name": "Uno"
+    },
+    {
+      "alias": "unoprost",
+      "name": "Unoprost"
+    },
+    {
+      "alias": "untral",
+      "name": "Untral"
+    },
+    {
+      "alias": "ureadin",
+      "name": "Ureadin"
+    },
+    {
+      "alias": "uro-vaxom",
+      "name": "Uro-Vaxom"
+    },
+    {
+      "alias": "urocran",
+      "name": "Urocran"
+    },
+    {
+      "alias": "ursodesoxicolico",
+      "name": "Ursodesoxicolico"
+    },
+    {
+      "alias": "utrogestan",
+      "name": "Utrogestan"
+    },
+    {
+      "alias": "vagalumy",
+      "name": "Vagalumy"
+    },
+    {
+      "alias": "vagisil",
+      "name": "Vagisil"
+    },
+    {
+      "alias": "val-bet-gent-tofn-clioq",
+      "name": "Val Bet+gent+tofn+clioq"
+    },
+    {
+      "alias": "valaciclovir",
+      "name": "Valaciclovir"
+    },
+    {
+      "alias": "valda",
+      "name": "Valda"
+    },
+    {
+      "alias": "valerance",
+      "name": "Valerance"
+    },
+    {
+      "alias": "valerato",
+      "name": "Valerato"
+    },
+    {
+      "alias": "valerato-de-betametasona",
+      "name": "Valerato De Betametasona"
+    },
+    {
+      "alias": "valeriane",
+      "name": "Valeriane"
+    },
+    {
+      "alias": "valessone",
+      "name": "Valessone"
+    },
+    {
+      "alias": "valsartana",
+      "name": "Valsartana"
+    },
+    {
+      "alias": "valsartana-besilato-de-anlodipino",
+      "name": "Valsartana+besilato De Anlodipino"
+    },
+    {
+      "alias": "valsartana-hid",
+      "name": "Valsartana+hid"
+    },
+    {
+      "alias": "valtrex",
+      "name": "Valtrex"
+    },
+    {
+      "alias": "varfarina",
+      "name": "Varfarina"
+    },
+    {
+      "alias": "varicell",
+      "name": "Varicell"
+    },
+    {
+      "alias": "varicoss",
+      "name": "Varicoss"
+    },
+    {
+      "alias": "vaslip",
+      "name": "Vaslip"
+    },
+    {
+      "alias": "vasogard",
+      "name": "Vasogard"
+    },
+    {
+      "alias": "vasopril",
+      "name": "Vasopril"
+    },
+    {
+      "alias": "vast",
+      "name": "Vast"
+    },
+    {
+      "alias": "vastarel",
+      "name": "Vastarel"
+    },
+    {
+      "alias": "vazidin",
+      "name": "Vazidin"
+    },
+    {
+      "alias": "vazy",
+      "name": "Vazy"
+    },
+    {
+      "alias": "veet",
+      "name": "Veet"
+    },
+    {
+      "alias": "velija",
+      "name": "Velija"
+    },
+    {
+      "alias": "venaflon",
+      "name": "Venaflon"
+    },
+    {
+      "alias": "venalot",
+      "name": "Venalot"
+    },
+    {
+      "alias": "venlafaxina",
+      "name": "Venlafaxina"
+    },
+    {
+      "alias": "venosan",
+      "name": "Venosan"
+    },
+    {
+      "alias": "venoxide",
+      "name": "Venoxide"
+    },
+    {
+      "alias": "venula",
+      "name": "Venula"
+    },
+    {
+      "alias": "venzer",
+      "name": "Venzer"
+    },
+    {
+      "alias": "verapamil",
+      "name": "Verapamil"
+    },
+    {
+      "alias": "versa",
+      "name": "Versa"
+    },
+    {
+      "alias": "versace",
+      "name": "Versace"
+    },
+    {
+      "alias": "vertigoheel",
+      "name": "Vertigoheel"
+    },
+    {
+      "alias": "vesicare",
+      "name": "Vesicare"
+    },
+    {
+      "alias": "vesomni",
+      "name": "Vesomni"
+    },
+    {
+      "alias": "vi-ferrin",
+      "name": "Vi-Ferrin"
+    },
+    {
+      "alias": "via-aroma",
+      "name": "Via Aroma"
+    },
+    {
+      "alias": "viagra",
+      "name": "Viagra"
+    },
+    {
+      "alias": "vibral",
+      "name": "Vibral"
+    },
+    {
+      "alias": "vibramicina",
+      "name": "Vibramicina"
+    },
+    {
+      "alias": "vichy",
+      "name": "Vichy"
+    },
+    {
+      "alias": "vick",
+      "name": "Vick"
+    },
+    {
+      "alias": "victoria-s-secret",
+      "name": "Victoria's Secret"
+    },
+    {
+      "alias": "victoza",
+      "name": "Victoza"
+    },
+    {
+      "alias": "videnfil",
+      "name": "Videnfil"
+    },
+    {
+      "alias": "vidisic",
+      "name": "Vidisic"
+    },
+    {
+      "alias": "vigadexa",
+      "name": "Vigadexa"
+    },
+    {
+      "alias": "vigamox",
+      "name": "Vigamox"
+    },
+    {
+      "alias": "viofta",
+      "name": "Viofta"
+    },
+    {
+      "alias": "visoptic",
+      "name": "Visoptic"
+    },
+    {
+      "alias": "vit-d",
+      "name": "Vit D"
+    },
+    {
+      "alias": "vita-derm",
+      "name": "Vita Derm"
+    },
+    {
+      "alias": "vita-medical",
+      "name": "Vita Medical"
+    },
+    {
+      "alias": "vitacid",
+      "name": "Vitacid"
+    },
+    {
+      "alias": "vitafer",
+      "name": "Vitafer"
+    },
+    {
+      "alias": "vitafor",
+      "name": "Vitafor"
+    },
+    {
+      "alias": "vitamed",
+      "name": "Vitamed"
+    },
+    {
+      "alias": "vitamedic",
+      "name": "Vitamedic"
+    },
+    {
+      "alias": "vitamina-d-cimed",
+      "name": "Vitamina D Cimed"
+    },
+    {
+      "alias": "vitamina-d3",
+      "name": "Vitamina D3"
+    },
+    {
+      "alias": "vitamine-se",
+      "name": "Vitamine-Se"
+    },
+    {
+      "alias": "vitanol-a",
+      "name": "Vitanol-A"
+    },
+    {
+      "alias": "vitao",
+      "name": "Vitao"
+    },
+    {
+      "alias": "vitergan",
+      "name": "Vitergan"
+    },
+    {
+      "alias": "vitergan-zinco",
+      "name": "Vitergan Zinco"
+    },
+    {
+      "alias": "vivo",
+      "name": "Vivo"
+    },
+    {
+      "alias": "vivosso",
+      "name": "Vivosso"
+    },
+    {
+      "alias": "vizzela",
+      "name": "Vizzela"
+    },
+    {
+      "alias": "vodol",
+      "name": "Vodol"
+    },
+    {
+      "alias": "volare",
+      "name": "Volare"
+    },
+    {
+      "alias": "vonau-gasmax",
+      "name": "Vonau Gasmax"
+    },
+    {
+      "alias": "vult",
+      "name": "Vult"
+    },
+    {
+      "alias": "vult-cabelo",
+      "name": "Vult Cabelo"
+    },
+    {
+      "alias": "vynaxa",
+      "name": "Vynaxa"
+    },
+    {
+      "alias": "vytorin",
+      "name": "Vytorin"
+    },
+    {
+      "alias": "vyzulta",
+      "name": "Vyzulta"
+    },
+    {
+      "alias": "wahl-clipper",
+      "name": "Wahl Clipper"
+    },
+    {
+      "alias": "waryz",
+      "name": "Waryz"
+    },
+    {
+      "alias": "wegovy",
+      "name": "Wegovy"
+    },
+    {
+      "alias": "weleda",
+      "name": "Weleda"
+    },
+    {
+      "alias": "wella-professionals",
+      "name": "Wella Professionals"
+    },
+    {
+      "alias": "wellness",
+      "name": "Wellness"
+    },
+    {
+      "alias": "wetbrush",
+      "name": "WetBrush"
+    },
+    {
+      "alias": "wiltex",
+      "name": "Wiltex"
+    },
+    {
+      "alias": "wvegan",
+      "name": "Wvegan"
+    },
+    {
+      "alias": "xafac",
+      "name": "Xafac"
+    },
+    {
+      "alias": "xakilis",
+      "name": "Xakilis"
+    },
+    {
+      "alias": "xalacom",
+      "name": "Xalacom"
+    },
+    {
+      "alias": "xalanoft",
+      "name": "Xalanoft"
+    },
+    {
+      "alias": "xalatan",
+      "name": "Xalatan"
+    },
+    {
+      "alias": "xaloftal",
+      "name": "Xaloftal"
+    },
+    {
+      "alias": "xantinon",
+      "name": "Xantinon"
+    },
+    {
+      "alias": "xarelto",
+      "name": "Xarelto"
+    },
+    {
+      "alias": "xerjoff",
+      "name": "Xerjoff"
+    },
+    {
+      "alias": "xifaxan",
+      "name": "Xifaxan"
+    },
+    {
+      "alias": "xigduo",
+      "name": "Xigduo"
+    },
+    {
+      "alias": "xo-inseto",
+      "name": "Xo Inseto"
+    },
+    {
+      "alias": "xolair",
+      "name": "Xolair"
+    },
+    {
+      "alias": "xultophy",
+      "name": "Xultophy"
+    },
+    {
+      "alias": "yama",
+      "name": "Yamá"
+    },
+    {
+      "alias": "yasmin",
+      "name": "Yasmin"
+    },
+    {
+      "alias": "yaz",
+      "name": "Yaz"
+    },
+    {
+      "alias": "yomax",
+      "name": "Yomax"
+    },
+    {
+      "alias": "yopro",
+      "name": "Yopro"
+    },
+    {
+      "alias": "york",
+      "name": "York"
+    },
+    {
+      "alias": "ype",
+      "name": "Ype"
+    },
+    {
+      "alias": "yves-saint-laurent",
+      "name": "Yves Saint Laurent"
+    },
+    {
+      "alias": "zaila",
+      "name": "Zaila"
+    },
+    {
+      "alias": "zanidip",
+      "name": "Zanidip"
+    },
+    {
+      "alias": "zero-cal",
+      "name": "Zero Cal"
+    },
+    {
+      "alias": "zetia",
+      "name": "Zetia"
+    },
+    {
+      "alias": "zetsim",
+      "name": "Zetsim"
+    },
+    {
+      "alias": "zilaricina",
+      "name": "Zilaricina"
+    },
+    {
+      "alias": "zimaya",
+      "name": "Zimaya"
+    },
+    {
+      "alias": "zimedical",
+      "name": "Zimedical"
+    },
+    {
+      "alias": "zimiex",
+      "name": "Zimiex"
+    },
+    {
+      "alias": "zina",
+      "name": "Zina"
+    },
+    {
+      "alias": "zinco",
+      "name": "Zinco"
+    },
+    {
+      "alias": "zinnat",
+      "name": "Zinnat"
+    },
+    {
+      "alias": "zinpass",
+      "name": "Zinpass"
+    },
+    {
+      "alias": "ziprol",
+      "name": "Ziprol"
+    },
+    {
+      "alias": "zobilar",
+      "name": "zobilar"
+    },
+    {
+      "alias": "zoladex",
+      "name": "Zoladex"
+    },
+    {
+      "alias": "zuzaboo",
+      "name": "Zuzaboo"
+    },
+    {
+      "alias": "zyad",
+      "name": "Zyad"
+    },
+    {
+      "alias": "zydus",
+      "name": "Zydus"
+    },
+    {
+      "alias": "zyloric",
+      "name": "Zyloric"
+    },
+    {
+      "alias": "zymar",
+      "name": "Zymar"
+    },
+    {
+      "alias": "zypred",
+      "name": "Zypred"
+    },
+    {
+      "alias": "zyrtec",
+      "name": "Zyrtec"
+    },
+    {
+      "alias": "zyxem",
+      "name": "Zyxem"
+    }
+  ]
+}

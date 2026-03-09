@@ -1,0 +1,57 @@
+import { Id } from "@pharmacore/shared";
+import { Branch, BranchErrors, FindBranchByIdUseCase } from "../../src/";
+
+import { MockBranchRepository } from "../data/mock-branch-repo";
+
+describe("FindBranchByIdUseCase", () => {
+    let usecase: FindBranchByIdUseCase;
+    let branchRepository: MockBranchRepository;
+    let existingBranch: Branch;
+
+    beforeEach(() => {
+        branchRepository = new MockBranchRepository();
+        usecase = new FindBranchByIdUseCase(branchRepository.findDetailsById);
+
+        const branchResult = Branch.tryCreate({
+            id: Id.tryCreate(undefined).instance.value,
+            name: "Farmácia Central",
+            cnpj: "11222333000181",
+            isActive: true,
+            address: {
+                street: "Rua Principal",
+                number: "123",
+                complement: "Sala 101",
+                neighborhood: "Centro",
+                city: "São Paulo",
+                state: "SP",
+                zip: "01310-100",
+                country: "Brasil",
+            },
+        });
+
+        if (branchResult.isOk) {
+            existingBranch = branchResult.instance;
+            branchRepository.branches.push(existingBranch);
+        }
+    });
+
+    test("should find a branch by id successfully", async () => {
+        const input = { id: existingBranch.id };
+
+        const result = await usecase.execute(input);
+
+        expect(result.isOk).toBe(true);
+        expect(result.instance?.id).toBe(existingBranch.id);
+    });
+
+    test("should fail if branch is not found", async () => {
+        const nonExistentId = "non-existent-id";
+        const input = { id: nonExistentId };
+
+        const result = await usecase.execute(input);
+
+        expect(result.isFailure).toBe(true);
+        expect(result.errors).toHaveLength(1);
+        expect(result.errors?.[0]).toEqual(BranchErrors.NOT_FOUND);
+    });
+});

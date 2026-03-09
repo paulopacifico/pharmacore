@@ -1,0 +1,2704 @@
+{
+  "total": 300,
+  "items": [
+    {
+      "name": "Mariana Costa",
+      "email": "admin@formacao.dev",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=56",
+      "roles": [
+        "admin"
+      ]
+    },
+    {
+      "name": "Felipe Azevedo",
+      "email": "felipe.azevedo@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=2",
+      "roles": [
+        "iam admin"
+      ]
+    },
+    {
+      "name": "Camila Barros",
+      "email": "camila.barros@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=3",
+      "roles": [
+        "iam admin"
+      ]
+    },
+    {
+      "name": "Ricardo Sampaio",
+      "email": "ricardo.sampaio@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=4",
+      "roles": [
+        "executivo"
+      ]
+    },
+    {
+      "name": "Patricia Nogueira",
+      "email": "patricia.nogueira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=5",
+      "roles": [
+        "auditor interno"
+      ]
+    },
+    {
+      "name": "Tatiane Rocha",
+      "email": "tatiane.rocha@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=6",
+      "roles": [
+        "gerente operacoes",
+        "comprador cadastro"
+      ]
+    },
+    {
+      "name": "Ana Silva Rocha",
+      "email": "ana.silva.rocha@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=7",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Bruno Santos Cardoso",
+      "email": "bruno.santos.cardoso@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=8",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Camila Pereira Cavalcanti",
+      "email": "camila.pereira.cavalcanti@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=9",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Daniel Nunes Machado",
+      "email": "daniel.nunes.machado@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=10",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Eduarda Freitas Ramos",
+      "email": "eduarda.freitas.ramos@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=11",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Felipe Ribeiro Queiroz",
+      "email": "felipe.ribeiro.queiroz@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=12",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Gabriela Cardoso Santos",
+      "email": "gabriela.cardoso.santos@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=13",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Henrique Moura Barros",
+      "email": "henrique.moura.barros@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=14",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Isabela Duarte Araujo",
+      "email": "isabela.duarte.araujo@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=15",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Joao Mendes Duarte",
+      "email": "joao.mendes.duarte@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=16",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Karina Ferreira Pires",
+      "email": "karina.ferreira.pires@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=17",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Lucas Guedes Castro",
+      "email": "lucas.guedes.castro@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=18",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Mariana Prado Leite",
+      "email": "mariana.prado.leite@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=19",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Nicolas Ramos Oliveira",
+      "email": "nicolas.ramos.oliveira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=20",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Olivia Assis Nunes",
+      "email": "olivia.assis.nunes@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=21",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Paulo Leite Gomes",
+      "email": "paulo.leite.gomes@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=22",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Renata Fonseca Farias",
+      "email": "renata.fonseca.farias@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=23",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Samuel Souza Ferreira",
+      "email": "samuel.souza.ferreira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=24",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Tatiane Lima Moreira",
+      "email": "tatiane.lima.moreira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=25",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Vinicius Rodrigues Tavares",
+      "email": "vinicius.rodrigues.tavares@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=26",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Aline Barros Souza",
+      "email": "aline.barros.souza@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=27",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Beatriz Melo Almeida",
+      "email": "beatriz.melo.almeida@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=28",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Caio Gomes Ribeiro",
+      "email": "caio.gomes.ribeiro@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=29",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Debora Teixeira Rezende",
+      "email": "debora.teixeira.rezende@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=30",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Elaine Rezende Campos",
+      "email": "elaine.rezende.campos@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=31",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Fernanda Cavalcanti Prado",
+      "email": "fernanda.cavalcanti.prado@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=32",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Gustavo Vasconcelos Macedo",
+      "email": "gustavo.vasconcelos.macedo@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=33",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Helena Pires Silva",
+      "email": "helena.pires.silva@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=34",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Igor Sampaio Rodrigues",
+      "email": "igor.sampaio.rodrigues@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=35",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Jessica Moreira Martins",
+      "email": "jessica.moreira.martins@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=36",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Leandro Vieira Moura",
+      "email": "leandro.vieira.moura@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=37",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Monique Macedo Vasconcelos",
+      "email": "monique.macedo.vasconcelos@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=38",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Nathalia Queiroz Nogueira",
+      "email": "nathalia.queiroz.nogueira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=39",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Otavio Miranda Assis",
+      "email": "otavio.miranda.assis@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=40",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Priscila Oliveira Miranda",
+      "email": "priscila.oliveira.miranda@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=41",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Rafael Costa Pereira",
+      "email": "rafael.costa.pereira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=42",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Sabrina Almeida Melo",
+      "email": "sabrina.almeida.melo@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=43",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Thiago Rocha Batista",
+      "email": "thiago.rocha.batista@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=44",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Vanessa Martins Mendes",
+      "email": "vanessa.martins.mendes@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=45",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Wesley Araujo Sampaio",
+      "email": "wesley.araujo.sampaio@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=46",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Yasmin Batista Correia",
+      "email": "yasmin.batista.correia@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=47",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Zuleica Farias Fonseca",
+      "email": "zuleica.farias.fonseca@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=48",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Anderson Borges Costa",
+      "email": "anderson.borges.costa@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=49",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Bianca Campos Freitas",
+      "email": "bianca.campos.freitas@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=50",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Carlos Machado Teixeira",
+      "email": "carlos.machado.teixeira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=51",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Diogo Nogueira Borges",
+      "email": "diogo.nogueira.borges@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=52",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Erica Castro Guedes",
+      "email": "erica.castro.guedes@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=53",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Fabricio Correia Vieira",
+      "email": "fabricio.correia.vieira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=54",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Geovana Tavares Coelho",
+      "email": "geovana.tavares.coelho@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=55",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Hugo Coelho Lima",
+      "email": "hugo.coelho.lima@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=56",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Juliana Silva Rocha",
+      "email": "juliana.silva.rocha@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=57",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Kelly Santos Cardoso",
+      "email": "kelly.santos.cardoso@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=58",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Larissa Pereira Cavalcanti",
+      "email": "larissa.pereira.cavalcanti@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=59",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Mateus Nunes Machado",
+      "email": "mateus.nunes.machado@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=60",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Neusa Freitas Ramos",
+      "email": "neusa.freitas.ramos@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=61",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Patricia Ribeiro Queiroz",
+      "email": "patricia.ribeiro.queiroz@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=62",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Roberta Cardoso Santos",
+      "email": "roberta.cardoso.santos@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=63",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Silvia Moura Barros",
+      "email": "silvia.moura.barros@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=64",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Talita Duarte Araujo",
+      "email": "talita.duarte.araujo@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=65",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Ubirajara Mendes Duarte",
+      "email": "ubirajara.mendes.duarte@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=66",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Ana Ferreira Pires",
+      "email": "ana.ferreira.pires@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=67",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Bruno Guedes Castro",
+      "email": "bruno.guedes.castro@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=68",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Camila Prado Leite",
+      "email": "camila.prado.leite@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=69",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Daniel Ramos Oliveira",
+      "email": "daniel.ramos.oliveira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=70",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Eduarda Assis Nunes",
+      "email": "eduarda.assis.nunes@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=1",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Felipe Leite Gomes",
+      "email": "felipe.leite.gomes@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=2",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Gabriela Fonseca Farias",
+      "email": "gabriela.fonseca.farias@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=3",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Henrique Souza Ferreira",
+      "email": "henrique.souza.ferreira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=4",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Isabela Lima Moreira",
+      "email": "isabela.lima.moreira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=5",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Joao Rodrigues Tavares",
+      "email": "joao.rodrigues.tavares@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=6",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Karina Barros Souza",
+      "email": "karina.barros.souza@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=7",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Lucas Melo Almeida",
+      "email": "lucas.melo.almeida@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=8",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Mariana Gomes Ribeiro",
+      "email": "mariana.gomes.ribeiro@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=9",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Nicolas Teixeira Rezende",
+      "email": "nicolas.teixeira.rezende@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=10",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Olivia Rezende Campos",
+      "email": "olivia.rezende.campos@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=11",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Paulo Cavalcanti Prado",
+      "email": "paulo.cavalcanti.prado@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=12",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Renata Vasconcelos Macedo",
+      "email": "renata.vasconcelos.macedo@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=13",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Samuel Pires Silva",
+      "email": "samuel.pires.silva@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=14",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Tatiane Sampaio Rodrigues",
+      "email": "tatiane.sampaio.rodrigues@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=15",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Vinicius Moreira Martins",
+      "email": "vinicius.moreira.martins@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=16",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Aline Vieira Moura",
+      "email": "aline.vieira.moura@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=17",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Beatriz Macedo Vasconcelos",
+      "email": "beatriz.macedo.vasconcelos@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=18",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Caio Queiroz Nogueira",
+      "email": "caio.queiroz.nogueira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=19",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Debora Miranda Assis",
+      "email": "debora.miranda.assis@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=20",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Elaine Oliveira Miranda",
+      "email": "elaine.oliveira.miranda@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=21",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Fernanda Costa Pereira",
+      "email": "fernanda.costa.pereira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=22",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Gustavo Almeida Melo",
+      "email": "gustavo.almeida.melo@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=23",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Helena Rocha Batista",
+      "email": "helena.rocha.batista@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=24",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Igor Martins Mendes",
+      "email": "igor.martins.mendes@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=25",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Jessica Araujo Sampaio",
+      "email": "jessica.araujo.sampaio@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=26",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Leandro Batista Correia",
+      "email": "leandro.batista.correia@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=27",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Monique Farias Fonseca",
+      "email": "monique.farias.fonseca@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=28",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Nathalia Borges Costa",
+      "email": "nathalia.borges.costa@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=29",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Otavio Campos Freitas",
+      "email": "otavio.campos.freitas@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=30",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Priscila Machado Teixeira",
+      "email": "priscila.machado.teixeira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=31",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Rafael Nogueira Borges",
+      "email": "rafael.nogueira.borges@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=32",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Sabrina Castro Guedes",
+      "email": "sabrina.castro.guedes@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=33",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Thiago Correia Vieira",
+      "email": "thiago.correia.vieira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=34",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Vanessa Tavares Coelho",
+      "email": "vanessa.tavares.coelho@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=35",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Wesley Coelho Lima",
+      "email": "wesley.coelho.lima@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=36",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Yasmin Silva Rocha",
+      "email": "yasmin.silva.rocha@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=37",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Zuleica Santos Cardoso",
+      "email": "zuleica.santos.cardoso@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=38",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Anderson Pereira Cavalcanti",
+      "email": "anderson.pereira.cavalcanti@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=39",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Bianca Nunes Machado",
+      "email": "bianca.nunes.machado@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=40",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Carlos Freitas Ramos",
+      "email": "carlos.freitas.ramos@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=41",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Diogo Ribeiro Queiroz",
+      "email": "diogo.ribeiro.queiroz@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=42",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Erica Cardoso Santos",
+      "email": "erica.cardoso.santos@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=43",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Fabricio Moura Barros",
+      "email": "fabricio.moura.barros@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=44",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Geovana Duarte Araujo",
+      "email": "geovana.duarte.araujo@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=45",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Hugo Mendes Duarte",
+      "email": "hugo.mendes.duarte@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=46",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Juliana Ferreira Pires",
+      "email": "juliana.ferreira.pires@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=47",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Kelly Guedes Castro",
+      "email": "kelly.guedes.castro@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=48",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Larissa Prado Leite",
+      "email": "larissa.prado.leite@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=49",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Mateus Ramos Oliveira",
+      "email": "mateus.ramos.oliveira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=50",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Neusa Assis Nunes",
+      "email": "neusa.assis.nunes@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=51",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Patricia Leite Gomes",
+      "email": "patricia.leite.gomes@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=52",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Roberta Fonseca Farias",
+      "email": "roberta.fonseca.farias@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=53",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Silvia Souza Ferreira",
+      "email": "silvia.souza.ferreira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=54",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Talita Lima Moreira",
+      "email": "talita.lima.moreira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=55",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Ubirajara Rodrigues Tavares",
+      "email": "ubirajara.rodrigues.tavares@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=56",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Ana Barros Souza",
+      "email": "ana.barros.souza@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=57",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Bruno Melo Almeida",
+      "email": "bruno.melo.almeida@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=58",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Camila Gomes Ribeiro",
+      "email": "camila.gomes.ribeiro@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=59",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Daniel Teixeira Rezende",
+      "email": "daniel.teixeira.rezende@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=60",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Eduarda Rezende Campos",
+      "email": "eduarda.rezende.campos@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=61",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Felipe Cavalcanti Prado",
+      "email": "felipe.cavalcanti.prado@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=62",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Gabriela Vasconcelos Macedo",
+      "email": "gabriela.vasconcelos.macedo@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=63",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Henrique Pires Silva",
+      "email": "henrique.pires.silva@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=64",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Isabela Sampaio Rodrigues",
+      "email": "isabela.sampaio.rodrigues@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=65",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Joao Moreira Martins",
+      "email": "joao.moreira.martins@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=66",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Karina Vieira Moura",
+      "email": "karina.vieira.moura@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=67",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Lucas Macedo Vasconcelos",
+      "email": "lucas.macedo.vasconcelos@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=68",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Mariana Queiroz Nogueira",
+      "email": "mariana.queiroz.nogueira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=69",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Nicolas Miranda Assis",
+      "email": "nicolas.miranda.assis@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=70",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Olivia Oliveira Miranda",
+      "email": "olivia.oliveira.miranda@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=1",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Paulo Costa Pereira",
+      "email": "paulo.costa.pereira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=2",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Renata Almeida Melo",
+      "email": "renata.almeida.melo@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=3",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Samuel Rocha Batista",
+      "email": "samuel.rocha.batista@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=4",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Tatiane Martins Mendes",
+      "email": "tatiane.martins.mendes@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=5",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Vinicius Araujo Sampaio",
+      "email": "vinicius.araujo.sampaio@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=6",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Aline Batista Correia",
+      "email": "aline.batista.correia@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=7",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Beatriz Farias Fonseca",
+      "email": "beatriz.farias.fonseca@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=8",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Caio Borges Costa",
+      "email": "caio.borges.costa@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=9",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Debora Campos Freitas",
+      "email": "debora.campos.freitas@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=10",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Elaine Machado Teixeira",
+      "email": "elaine.machado.teixeira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=11",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Fernanda Nogueira Borges",
+      "email": "fernanda.nogueira.borges@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=12",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Gustavo Castro Guedes",
+      "email": "gustavo.castro.guedes@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=13",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Helena Correia Vieira",
+      "email": "helena.correia.vieira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=14",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Igor Tavares Coelho",
+      "email": "igor.tavares.coelho@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=15",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Jessica Coelho Lima",
+      "email": "jessica.coelho.lima@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=16",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Leandro Silva Rocha",
+      "email": "leandro.silva.rocha@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=17",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Monique Santos Cardoso",
+      "email": "monique.santos.cardoso@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=18",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Nathalia Pereira Cavalcanti",
+      "email": "nathalia.pereira.cavalcanti@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=19",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Otavio Nunes Machado",
+      "email": "otavio.nunes.machado@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=20",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Priscila Freitas Ramos",
+      "email": "priscila.freitas.ramos@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=21",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Rafael Ribeiro Queiroz",
+      "email": "rafael.ribeiro.queiroz@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=22",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Sabrina Cardoso Santos",
+      "email": "sabrina.cardoso.santos@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=23",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Thiago Moura Barros",
+      "email": "thiago.moura.barros@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=24",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Vanessa Duarte Araujo",
+      "email": "vanessa.duarte.araujo@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=25",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Wesley Mendes Duarte",
+      "email": "wesley.mendes.duarte@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=26",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Yasmin Ferreira Pires",
+      "email": "yasmin.ferreira.pires@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=27",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Zuleica Guedes Castro",
+      "email": "zuleica.guedes.castro@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=28",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Anderson Prado Leite",
+      "email": "anderson.prado.leite@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=29",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Bianca Ramos Oliveira",
+      "email": "bianca.ramos.oliveira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=30",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Carlos Assis Nunes",
+      "email": "carlos.assis.nunes@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=31",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Diogo Leite Gomes",
+      "email": "diogo.leite.gomes@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=32",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Erica Fonseca Farias",
+      "email": "erica.fonseca.farias@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=33",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Fabricio Souza Ferreira",
+      "email": "fabricio.souza.ferreira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=34",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Geovana Lima Moreira",
+      "email": "geovana.lima.moreira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=35",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Hugo Rodrigues Tavares",
+      "email": "hugo.rodrigues.tavares@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=36",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Juliana Barros Souza",
+      "email": "juliana.barros.souza@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=37",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Kelly Melo Almeida",
+      "email": "kelly.melo.almeida@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=38",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Larissa Gomes Ribeiro",
+      "email": "larissa.gomes.ribeiro@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=39",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Mateus Teixeira Rezende",
+      "email": "mateus.teixeira.rezende@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=40",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Neusa Rezende Campos",
+      "email": "neusa.rezende.campos@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=41",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Patricia Cavalcanti Prado",
+      "email": "patricia.cavalcanti.prado@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=42",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Roberta Vasconcelos Macedo",
+      "email": "roberta.vasconcelos.macedo@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=43",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Silvia Pires Silva",
+      "email": "silvia.pires.silva@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=44",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Talita Sampaio Rodrigues",
+      "email": "talita.sampaio.rodrigues@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=45",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Ubirajara Moreira Martins",
+      "email": "ubirajara.moreira.martins@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=46",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Ana Vieira Moura",
+      "email": "ana.vieira.moura@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=47",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Bruno Macedo Vasconcelos",
+      "email": "bruno.macedo.vasconcelos@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=48",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Camila Queiroz Nogueira",
+      "email": "camila.queiroz.nogueira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=49",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Daniel Miranda Assis",
+      "email": "daniel.miranda.assis@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=50",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Eduarda Oliveira Miranda",
+      "email": "eduarda.oliveira.miranda@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=51",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Felipe Costa Pereira",
+      "email": "felipe.costa.pereira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=52",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Gabriela Almeida Melo",
+      "email": "gabriela.almeida.melo@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=53",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Henrique Rocha Batista",
+      "email": "henrique.rocha.batista@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=54",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Isabela Martins Mendes",
+      "email": "isabela.martins.mendes@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=55",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Joao Araujo Sampaio",
+      "email": "joao.araujo.sampaio@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=56",
+      "roles": [
+        "colaborador"
+      ]
+    },
+    {
+      "name": "Karina Batista Correia",
+      "email": "karina.batista.correia@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=57",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Lucas Farias Fonseca",
+      "email": "lucas.farias.fonseca@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=58",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Mariana Borges Costa",
+      "email": "mariana.borges.costa@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=59",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Nicolas Campos Freitas",
+      "email": "nicolas.campos.freitas@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=60",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Olivia Machado Teixeira",
+      "email": "olivia.machado.teixeira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=61",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Paulo Nogueira Borges",
+      "email": "paulo.nogueira.borges@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=62",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Renata Castro Guedes",
+      "email": "renata.castro.guedes@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=63",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Samuel Correia Vieira",
+      "email": "samuel.correia.vieira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=64",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Tatiane Tavares Coelho",
+      "email": "tatiane.tavares.coelho@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=65",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Vinicius Coelho Lima",
+      "email": "vinicius.coelho.lima@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=66",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Aline Silva Rocha",
+      "email": "aline.silva.rocha@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=67",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Beatriz Santos Cardoso",
+      "email": "beatriz.santos.cardoso@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=68",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Caio Pereira Cavalcanti",
+      "email": "caio.pereira.cavalcanti@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=69",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Debora Nunes Machado",
+      "email": "debora.nunes.machado@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=70",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Elaine Freitas Ramos",
+      "email": "elaine.freitas.ramos@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=1",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Fernanda Ribeiro Queiroz",
+      "email": "fernanda.ribeiro.queiroz@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=2",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Gustavo Cardoso Santos",
+      "email": "gustavo.cardoso.santos@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=3",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Helena Moura Barros",
+      "email": "helena.moura.barros@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=4",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Igor Duarte Araujo",
+      "email": "igor.duarte.araujo@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=5",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Jessica Mendes Duarte",
+      "email": "jessica.mendes.duarte@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=6",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Leandro Ferreira Pires",
+      "email": "leandro.ferreira.pires@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=7",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Monique Guedes Castro",
+      "email": "monique.guedes.castro@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=8",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Nathalia Prado Leite",
+      "email": "nathalia.prado.leite@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=9",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Otavio Ramos Oliveira",
+      "email": "otavio.ramos.oliveira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=10",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Priscila Assis Nunes",
+      "email": "priscila.assis.nunes@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=11",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Rafael Leite Gomes",
+      "email": "rafael.leite.gomes@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=12",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Sabrina Fonseca Farias",
+      "email": "sabrina.fonseca.farias@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=13",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Thiago Souza Ferreira",
+      "email": "thiago.souza.ferreira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=14",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Vanessa Lima Moreira",
+      "email": "vanessa.lima.moreira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=15",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Wesley Rodrigues Tavares",
+      "email": "wesley.rodrigues.tavares@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=16",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Yasmin Barros Souza",
+      "email": "yasmin.barros.souza@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=17",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Zuleica Melo Almeida",
+      "email": "zuleica.melo.almeida@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=18",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Anderson Gomes Ribeiro",
+      "email": "anderson.gomes.ribeiro@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=19",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Bianca Teixeira Rezende",
+      "email": "bianca.teixeira.rezende@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=20",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Carlos Rezende Campos",
+      "email": "carlos.rezende.campos@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=21",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Diogo Cavalcanti Prado",
+      "email": "diogo.cavalcanti.prado@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=22",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Erica Vasconcelos Macedo",
+      "email": "erica.vasconcelos.macedo@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=23",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Fabricio Pires Silva",
+      "email": "fabricio.pires.silva@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=24",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Geovana Sampaio Rodrigues",
+      "email": "geovana.sampaio.rodrigues@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=25",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Hugo Moreira Martins",
+      "email": "hugo.moreira.martins@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=26",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Juliana Vieira Moura",
+      "email": "juliana.vieira.moura@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=27",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Kelly Macedo Vasconcelos",
+      "email": "kelly.macedo.vasconcelos@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=28",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Larissa Queiroz Nogueira",
+      "email": "larissa.queiroz.nogueira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=29",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Mateus Miranda Assis",
+      "email": "mateus.miranda.assis@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=30",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Neusa Oliveira Miranda",
+      "email": "neusa.oliveira.miranda@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=31",
+      "roles": [
+        "atendente loja"
+      ]
+    },
+    {
+      "name": "Patricia Costa Pereira",
+      "email": "patricia.costa.pereira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=32",
+      "roles": [
+        "farmaceutico"
+      ]
+    },
+    {
+      "name": "Roberta Almeida Melo",
+      "email": "roberta.almeida.melo@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=33",
+      "roles": [
+        "farmaceutico"
+      ]
+    },
+    {
+      "name": "Silvia Rocha Batista",
+      "email": "silvia.rocha.batista@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=34",
+      "roles": [
+        "farmaceutico"
+      ]
+    },
+    {
+      "name": "Talita Martins Mendes",
+      "email": "talita.martins.mendes@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=35",
+      "roles": [
+        "farmaceutico"
+      ]
+    },
+    {
+      "name": "Ubirajara Araujo Sampaio",
+      "email": "ubirajara.araujo.sampaio@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=36",
+      "roles": [
+        "farmaceutico"
+      ]
+    },
+    {
+      "name": "Ana Batista Correia",
+      "email": "ana.batista.correia@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=37",
+      "roles": [
+        "farmaceutico"
+      ]
+    },
+    {
+      "name": "Bruno Farias Fonseca",
+      "email": "bruno.farias.fonseca@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=38",
+      "roles": [
+        "farmaceutico"
+      ]
+    },
+    {
+      "name": "Camila Borges Costa",
+      "email": "camila.borges.costa@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=39",
+      "roles": [
+        "farmaceutico"
+      ]
+    },
+    {
+      "name": "Daniel Campos Freitas",
+      "email": "daniel.campos.freitas@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=40",
+      "roles": [
+        "farmaceutico"
+      ]
+    },
+    {
+      "name": "Eduarda Machado Teixeira",
+      "email": "eduarda.machado.teixeira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=41",
+      "roles": [
+        "farmaceutico"
+      ]
+    },
+    {
+      "name": "Felipe Nogueira Borges",
+      "email": "felipe.nogueira.borges@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=42",
+      "roles": [
+        "farmaceutico"
+      ]
+    },
+    {
+      "name": "Gabriela Castro Guedes",
+      "email": "gabriela.castro.guedes@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=43",
+      "roles": [
+        "farmaceutico"
+      ]
+    },
+    {
+      "name": "Henrique Correia Vieira",
+      "email": "henrique.correia.vieira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=44",
+      "roles": [
+        "farmaceutico"
+      ]
+    },
+    {
+      "name": "Isabela Tavares Coelho",
+      "email": "isabela.tavares.coelho@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=45",
+      "roles": [
+        "farmaceutico"
+      ]
+    },
+    {
+      "name": "Joao Coelho Lima",
+      "email": "joao.coelho.lima@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=46",
+      "roles": [
+        "farmaceutico"
+      ]
+    },
+    {
+      "name": "Karina Silva Rocha",
+      "email": "karina.silva.rocha@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=47",
+      "roles": [
+        "farmaceutico"
+      ]
+    },
+    {
+      "name": "Lucas Santos Cardoso",
+      "email": "lucas.santos.cardoso@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=48",
+      "roles": [
+        "farmaceutico"
+      ]
+    },
+    {
+      "name": "Mariana Pereira Cavalcanti",
+      "email": "mariana.pereira.cavalcanti@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=49",
+      "roles": [
+        "farmaceutico"
+      ]
+    },
+    {
+      "name": "Nicolas Nunes Machado",
+      "email": "nicolas.nunes.machado@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=50",
+      "roles": [
+        "farmaceutico"
+      ]
+    },
+    {
+      "name": "Olivia Freitas Ramos",
+      "email": "olivia.freitas.ramos@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=51",
+      "roles": [
+        "farmaceutico"
+      ]
+    },
+    {
+      "name": "Paulo Ribeiro Queiroz",
+      "email": "paulo.ribeiro.queiroz@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=52",
+      "roles": [
+        "farmaceutico"
+      ]
+    },
+    {
+      "name": "Renata Cardoso Santos",
+      "email": "renata.cardoso.santos@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=53",
+      "roles": [
+        "farmaceutico"
+      ]
+    },
+    {
+      "name": "Samuel Moura Barros",
+      "email": "samuel.moura.barros@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=54",
+      "roles": [
+        "farmaceutico"
+      ]
+    },
+    {
+      "name": "Tatiane Duarte Araujo",
+      "email": "tatiane.duarte.araujo@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=55",
+      "roles": [
+        "farmaceutico"
+      ]
+    },
+    {
+      "name": "Vinicius Mendes Duarte",
+      "email": "vinicius.mendes.duarte@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=56",
+      "roles": [
+        "farmaceutico"
+      ]
+    },
+    {
+      "name": "Aline Ferreira Pires",
+      "email": "aline.ferreira.pires@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=57",
+      "roles": [
+        "farmaceutico"
+      ]
+    },
+    {
+      "name": "Beatriz Guedes Castro",
+      "email": "beatriz.guedes.castro@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=58",
+      "roles": [
+        "farmaceutico"
+      ]
+    },
+    {
+      "name": "Caio Prado Leite",
+      "email": "caio.prado.leite@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=59",
+      "roles": [
+        "farmaceutico"
+      ]
+    },
+    {
+      "name": "Debora Ramos Oliveira",
+      "email": "debora.ramos.oliveira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=60",
+      "roles": [
+        "farmaceutico"
+      ]
+    },
+    {
+      "name": "Elaine Assis Nunes",
+      "email": "elaine.assis.nunes@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=61",
+      "roles": [
+        "farmaceutico"
+      ]
+    },
+    {
+      "name": "Fernanda Leite Gomes",
+      "email": "fernanda.leite.gomes@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=62",
+      "roles": [
+        "gerente operacoes"
+      ]
+    },
+    {
+      "name": "Gustavo Fonseca Farias",
+      "email": "gustavo.fonseca.farias@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=63",
+      "roles": [
+        "gerente operacoes"
+      ]
+    },
+    {
+      "name": "Helena Souza Ferreira",
+      "email": "helena.souza.ferreira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=64",
+      "roles": [
+        "gerente operacoes"
+      ]
+    },
+    {
+      "name": "Igor Lima Moreira",
+      "email": "igor.lima.moreira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=65",
+      "roles": [
+        "gerente operacoes"
+      ]
+    },
+    {
+      "name": "Jessica Rodrigues Tavares",
+      "email": "jessica.rodrigues.tavares@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=66",
+      "roles": [
+        "gerente operacoes"
+      ]
+    },
+    {
+      "name": "Leandro Barros Souza",
+      "email": "leandro.barros.souza@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=67",
+      "roles": [
+        "gerente operacoes"
+      ]
+    },
+    {
+      "name": "Monique Melo Almeida",
+      "email": "monique.melo.almeida@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=68",
+      "roles": [
+        "gerente operacoes"
+      ]
+    },
+    {
+      "name": "Nathalia Gomes Ribeiro",
+      "email": "nathalia.gomes.ribeiro@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=69",
+      "roles": [
+        "gerente operacoes"
+      ]
+    },
+    {
+      "name": "Otavio Teixeira Rezende",
+      "email": "otavio.teixeira.rezende@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=70",
+      "roles": [
+        "gerente operacoes"
+      ]
+    },
+    {
+      "name": "Priscila Rezende Campos",
+      "email": "priscila.rezende.campos@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=1",
+      "roles": [
+        "gerente operacoes"
+      ]
+    },
+    {
+      "name": "Rafael Cavalcanti Prado",
+      "email": "rafael.cavalcanti.prado@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=2",
+      "roles": [
+        "gerente operacoes"
+      ]
+    },
+    {
+      "name": "Sabrina Vasconcelos Macedo",
+      "email": "sabrina.vasconcelos.macedo@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=3",
+      "roles": [
+        "gerente operacoes"
+      ]
+    },
+    {
+      "name": "Thiago Pires Silva",
+      "email": "thiago.pires.silva@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=4",
+      "roles": [
+        "gerente operacoes"
+      ]
+    },
+    {
+      "name": "Vanessa Sampaio Rodrigues",
+      "email": "vanessa.sampaio.rodrigues@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=5",
+      "roles": [
+        "gerente operacoes"
+      ]
+    },
+    {
+      "name": "Wesley Moreira Martins",
+      "email": "wesley.moreira.martins@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=6",
+      "roles": [
+        "comprador cadastro"
+      ]
+    },
+    {
+      "name": "Yasmin Vieira Moura",
+      "email": "yasmin.vieira.moura@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=7",
+      "roles": [
+        "comprador cadastro"
+      ]
+    },
+    {
+      "name": "Zuleica Macedo Vasconcelos",
+      "email": "zuleica.macedo.vasconcelos@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=8",
+      "roles": [
+        "comprador cadastro"
+      ]
+    },
+    {
+      "name": "Anderson Queiroz Nogueira",
+      "email": "anderson.queiroz.nogueira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=9",
+      "roles": [
+        "comprador cadastro"
+      ]
+    },
+    {
+      "name": "Bianca Miranda Assis",
+      "email": "bianca.miranda.assis@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=10",
+      "roles": [
+        "comprador cadastro"
+      ]
+    },
+    {
+      "name": "Carlos Oliveira Miranda",
+      "email": "carlos.oliveira.miranda@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=11",
+      "roles": [
+        "comprador cadastro"
+      ]
+    },
+    {
+      "name": "Diogo Costa Pereira",
+      "email": "diogo.costa.pereira@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=12",
+      "roles": [
+        "comprador cadastro"
+      ]
+    },
+    {
+      "name": "Erica Almeida Melo",
+      "email": "erica.almeida.melo@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=13",
+      "roles": [
+        "comprador cadastro"
+      ]
+    },
+    {
+      "name": "Fabricio Rocha Batista",
+      "email": "fabricio.rocha.batista@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=14",
+      "roles": [
+        "comprador cadastro"
+      ]
+    },
+    {
+      "name": "Geovana Martins Mendes",
+      "email": "geovana.martins.mendes@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=15",
+      "roles": [
+        "iam admin"
+      ]
+    },
+    {
+      "name": "Hugo Araujo Sampaio",
+      "email": "hugo.araujo.sampaio@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=16",
+      "roles": [
+        "iam admin"
+      ]
+    },
+    {
+      "name": "Juliana Batista Correia",
+      "email": "juliana.batista.correia@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=17",
+      "roles": [
+        "auditor interno"
+      ]
+    },
+    {
+      "name": "Kelly Farias Fonseca",
+      "email": "kelly.farias.fonseca@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=18",
+      "roles": [
+        "auditor interno"
+      ]
+    },
+    {
+      "name": "Larissa Borges Costa",
+      "email": "larissa.borges.costa@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=19",
+      "roles": [
+        "executivo"
+      ]
+    },
+    {
+      "name": "Mateus Campos Freitas",
+      "email": "mateus.campos.freitas@pharmacore.com.br",
+      "password": "#Senha123",
+      "avatarUrl": "https://i.pravatar.cc/300?img=20",
+      "roles": ["colaborador"]
+    }
+  ]
+}

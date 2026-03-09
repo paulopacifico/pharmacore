@@ -1,0 +1,40 @@
+{
+    "name": "@pharmacore/auth-web",
+    "version": "1.0.0",
+    "main": "src/index.ts",
+    "types": "src/index.ts",
+    "exports": {
+        ".": {
+            "import": "./src/index.ts",
+            "require": "./src/index.ts",
+            "types": "./src/index.ts"
+        },
+        "./styles.css": "./src/styles.css"
+    },
+    "scripts": {
+        "build:components": "tsc",
+        "dev:components": "tsc --watch"
+    },
+    "dependencies": {
+        "@heroicons/react": "^2.2.0",
+        "@pharmacore/auth": "*",
+        "@pharmacore/shared": "*",
+        "@pharmacore/shared-web": "*",
+        "react": "19.2.3",
+        "react-dom": "19.2.3"
+    },
+    "peerDependencies": {
+        "next": "16.1.1",
+        "react": "19.2.3",
+        "react-dom": "19.2.3"
+    },
+    "devDependencies": {
+        "@config/tailwindcss-config": "*",
+        "@tailwindcss/cli": "^4.1.5",
+        "@tailwindcss/postcss": "^4.1.5",
+        "@types/react": "^19.2.3",
+        "@types/react-dom": "19.2.3",
+        "autoprefixer": "^10.4.20",
+        "tailwindcss": "^4.1.5"
+    }
+}

@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-02-16T13:33:10.484Z",
+  "total": 9769,
+  "chunkSize": 500,
+  "totalChunks": 20,
+  "files": [
+    {
+      "file": "products-001.json",
+      "total": 500
+    },
+    {
+      "file": "products-002.json",
+      "total": 500
+    },
+    {
+      "file": "products-003.json",
+      "total": 500
+    },
+    {
+      "file": "products-004.json",
+      "total": 500
+    },
+    {
+      "file": "products-005.json",
+      "total": 500
+    },
+    {
+      "file": "products-006.json",
+      "total": 500
+    },
+    {
+      "file": "products-007.json",
+      "total": 500
+    },
+    {
+      "file": "products-008.json",
+      "total": 500
+    },
+    {
+      "file": "products-009.json",
+      "total": 500
+    },
+    {
+      "file": "products-010.json",
+      "total": 500
+    },
+    {
+      "file": "products-011.json",
+      "total": 500
+    },
+    {
+      "file": "products-012.json",
+      "total": 500
+    },
+    {
+      "file": "products-013.json",
+      "total": 500
+    },
+    {
+      "file": "products-014.json",
+      "total": 500
+    },
+    {
+      "file": "products-015.json",
+      "total": 500
+    },
+    {
+      "file": "products-016.json",
+      "total": 500
+    },
+    {
+      "file": "products-017.json",
+      "total": 500
+    },
+    {
+      "file": "products-018.json",
+      "total": 500
+    },
+    {
+      "file": "products-019.json",
+      "total": 500
+    },
+    {
+      "file": "products-020.json",
+      "total": 269
+    }
+  ]
+}

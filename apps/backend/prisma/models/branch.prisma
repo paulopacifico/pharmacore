@@ -1,0 +1,24 @@
+model Branch {
+  id        String    @id @default(uuid())
+  name      String
+  cnpj      String
+  isActive  Boolean   @map("is_active")
+  
+  // Address fields
+  street        String
+  number        String
+  complement    String
+  neighborhood  String
+  city          String
+  state         String
+  zip           String
+  country       String
+
+  establishedAt DateTime? @map("established_at")
+
+  createdAt DateTime  @default(now()) @map("created_at")
+  updatedAt DateTime  @updatedAt @map("updated_at")
+  deletedAt DateTime? @map("deleted_at")
+
+  @@map("branches")
+}

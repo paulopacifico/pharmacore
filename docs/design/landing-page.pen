@@ -1,0 +1,2795 @@
+{
+  "version": "2.8",
+  "children": [
+    {
+      "type": "frame",
+      "id": "bi8Au",
+      "x": 0,
+      "y": 0,
+      "name": "Pharmacor Landing Page",
+      "clip": true,
+      "width": 1440,
+      "fill": "#FFFFFF",
+      "layout": "vertical",
+      "children": [
+        {
+          "type": "frame",
+          "id": "w3MbC",
+          "name": "Hero Section",
+          "width": "fill_container",
+          "fill": {
+            "type": "gradient",
+            "gradientType": "linear",
+            "enabled": true,
+            "rotation": 40,
+            "size": {
+              "height": 1
+            },
+            "colors": [
+              {
+                "color": "#F3FBF8",
+                "position": 0
+              },
+              {
+                "color": "#EEF4FF",
+                "position": 1
+              }
+            ]
+          },
+          "layout": "vertical",
+          "gap": 48,
+          "padding": [
+            40,
+            96,
+            72,
+            96
+          ],
+          "children": [
+            {
+              "type": "frame",
+              "id": "OqAQ3",
+              "name": "Top Nav",
+              "width": "fill_container",
+              "justifyContent": "space_between",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "L12dN",
+                  "name": "brand",
+                  "gap": 12,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 10,
+                      "id": "nYmU8",
+                      "name": "logoMark",
+                      "fill": {
+                        "type": "gradient",
+                        "gradientType": "linear",
+                        "enabled": true,
+                        "rotation": 35,
+                        "size": {
+                          "height": 1
+                        },
+                        "colors": [
+                          {
+                            "color": "#0D7C66",
+                            "position": 0
+                          },
+                          {
+                            "color": "#0E4A87",
+                            "position": 1
+                          }
+                        ]
+                      },
+                      "width": 34,
+                      "height": 34
+                    },
+                    {
+                      "type": "text",
+                      "id": "tT42e",
+                      "name": "logoText",
+                      "fill": "#0E2B47",
+                      "content": "PharmaCore",
+                      "fontFamily": "Sora",
+                      "fontSize": 24,
+                      "fontWeight": "700"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "5Ez1R",
+                  "name": "links",
+                  "gap": 28,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "U2uZ0",
+                      "name": "link1",
+                      "fill": "#27435E",
+                      "content": "Soluções",
+                      "fontFamily": "Manrope",
+                      "fontSize": 15,
+                      "fontWeight": "500"
+                    },
+                    {
+                      "type": "text",
+                      "id": "3Dwjj",
+                      "name": "link2",
+                      "fill": "#27435E",
+                      "content": "Módulos",
+                      "fontFamily": "Manrope",
+                      "fontSize": 15,
+                      "fontWeight": "500"
+                    },
+                    {
+                      "type": "text",
+                      "id": "2OUMY",
+                      "name": "link3",
+                      "fill": "#27435E",
+                      "content": "Clientes",
+                      "fontFamily": "Manrope",
+                      "fontSize": 15,
+                      "fontWeight": "500"
+                    },
+                    {
+                      "type": "text",
+                      "id": "jX1o6",
+                      "name": "link4",
+                      "fill": "#27435E",
+                      "content": "Contato",
+                      "fontFamily": "Manrope",
+                      "fontSize": 15,
+                      "fontWeight": "500"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "VLk2j",
+                  "name": "navBtn",
+                  "fill": "#0D7C66",
+                  "cornerRadius": 12,
+                  "padding": [
+                    12,
+                    18
+                  ],
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "R9qg9",
+                      "name": "navBtnTxt",
+                      "fill": "#FFFFFF",
+                      "content": "Solicitar Demonstração",
+                      "fontFamily": "Manrope",
+                      "fontSize": 14,
+                      "fontWeight": "700"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "Ybm6M",
+              "name": "Hero Main",
+              "width": "fill_container",
+              "gap": 40,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "EWbqc",
+                  "name": "heroLeft",
+                  "width": "fill_container",
+                  "layout": "vertical",
+                  "gap": 24,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "nekHh",
+                      "name": "badge",
+                      "fill": "#E7F7F1",
+                      "cornerRadius": 999,
+                      "padding": [
+                        8,
+                        14
+                      ],
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "h889Y",
+                          "name": "badgeTxt",
+                          "fill": "#0D7C66",
+                          "content": "ERP enterprise para redes de farmácia no Brasil",
+                          "fontFamily": "Manrope",
+                          "fontSize": 13,
+                          "fontWeight": "700"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "KP0Hj",
+                      "name": "heroTitle",
+                      "fill": "#0E2B47",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "PharmaCore — O ERP que conecta e potencializa redes de farmácia no Brasil",
+                      "lineHeight": 1.05,
+                      "fontFamily": "Sora",
+                      "fontSize": 58,
+                      "fontWeight": "700"
+                    },
+                    {
+                      "type": "text",
+                      "id": "K48do",
+                      "name": "heroSub",
+                      "fill": "#35526E",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "Mais de 1.200 redes farmacêuticas operam com o Pharmacor. São mais de 8.500 lojas, 95 mil usuários ativos e milhões de vendas processadas diariamente.",
+                      "lineHeight": 1.42,
+                      "fontFamily": "Manrope",
+                      "fontSize": 21,
+                      "fontWeight": "500"
+                    },
+                    {
+                      "type": "frame",
+                      "id": "Hb4ko",
+                      "name": "ctaRow",
+                      "gap": 14,
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "1TXKQ",
+                          "name": "btn1",
+                          "fill": "#0D7C66",
+                          "cornerRadius": 14,
+                          "padding": [
+                            15,
+                            24
+                          ],
+                          "justifyContent": "center",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "LxDyn",
+                              "name": "btn1Txt",
+                              "fill": "#FFFFFF",
+                              "content": "Solicitar Demonstração",
+                              "fontFamily": "Manrope",
+                              "fontSize": 16,
+                              "fontWeight": "700"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "eSnWM",
+                          "name": "btn2",
+                          "fill": "#FFFFFF",
+                          "cornerRadius": 14,
+                          "stroke": {
+                            "thickness": 1,
+                            "fill": "#BFD0E2"
+                          },
+                          "padding": [
+                            15,
+                            24
+                          ],
+                          "justifyContent": "center",
+                          "alignItems": "center",
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "ciA4m",
+                              "name": "btn2Txt",
+                              "fill": "#173B5B",
+                              "content": "Falar com um Especialista",
+                              "fontFamily": "Manrope",
+                              "fontSize": 16,
+                              "fontWeight": "700"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "FRCAn",
+                      "name": "heroTrust",
+                      "fill": "#4E6882",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "99,98% de uptime | Infraestrutura com alta disponibilidade | Segurança corporativa",
+                      "fontFamily": "Manrope",
+                      "fontSize": 14,
+                      "fontWeight": "600"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "JLt71",
+                  "name": "heroRight",
+                  "width": "fill_container",
+                  "layout": "vertical",
+                  "gap": 16,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "gExet",
+                      "name": "visualWrap",
+                      "width": "fill_container",
+                      "fill": {
+                        "type": "gradient",
+                        "gradientType": "linear",
+                        "enabled": true,
+                        "rotation": 35,
+                        "size": {
+                          "height": 1
+                        },
+                        "colors": [
+                          {
+                            "color": "#F0F6FF",
+                            "position": 0
+                          },
+                          {
+                            "color": "#E8F8F2",
+                            "position": 1
+                          }
+                        ]
+                      },
+                      "cornerRadius": 24,
+                      "stroke": {
+                        "thickness": 1,
+                        "fill": "#C9D9EA"
+                      },
+                      "layout": "vertical",
+                      "gap": 18,
+                      "padding": 24,
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "uKUn2",
+                          "name": "dash",
+                          "width": "fill_container",
+                          "height": 360,
+                          "fill": "#FFFFFF",
+                          "cornerRadius": 16,
+                          "stroke": {
+                            "thickness": 1,
+                            "fill": "#D6E3F1"
+                          },
+                          "layout": "vertical",
+                          "gap": 14,
+                          "padding": 18,
+                          "children": [
+                            {
+                              "type": "frame",
+                              "id": "4Evw7",
+                              "name": "dashTop",
+                              "width": "fill_container",
+                              "justifyContent": "space_between",
+                              "alignItems": "center",
+                              "children": [
+                                {
+                                  "type": "frame",
+                                  "id": "o7JXM",
+                                  "name": "dashTopLeft",
+                                  "gap": 8,
+                                  "alignItems": "center",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "id": "fPiZg",
+                                      "name": "dashTitle",
+                                      "fill": "#163B5A",
+                                      "content": "Dashboard PharmaCore",
+                                      "fontFamily": "Sora",
+                                      "fontSize": 16,
+                                      "fontWeight": "700"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "frame",
+                                  "id": "0u8HA",
+                                  "name": "dashStatus",
+                                  "fill": "#E6F6F1",
+                                  "cornerRadius": 999,
+                                  "padding": [
+                                    6,
+                                    10
+                                  ],
+                                  "justifyContent": "center",
+                                  "alignItems": "center",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "id": "P0tPU",
+                                      "name": "dashStatusTxt",
+                                      "fill": "#0D7C66",
+                                      "content": "Operação em tempo real",
+                                      "fontFamily": "Manrope",
+                                      "fontSize": 12,
+                                      "fontWeight": "700"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "frame",
+                              "id": "AQsUC",
+                              "name": "chart",
+                              "width": "fill_container",
+                              "height": 146,
+                              "fill": "#F3F8FF",
+                              "cornerRadius": 12,
+                              "layout": "none",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "id": "Zm1Xm",
+                                  "x": 14,
+                                  "y": 12,
+                                  "name": "chartHint",
+                                  "fill": "#54708A",
+                                  "content": "Crescimento de vendas mensal",
+                                  "fontFamily": "Manrope",
+                                  "fontSize": 12,
+                                  "fontWeight": "600"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "frame",
+                              "id": "g0F1C",
+                              "name": "barRow",
+                              "width": "fill_container",
+                              "height": 140,
+                              "gap": 10,
+                              "alignItems": "end",
+                              "children": [
+                                {
+                                  "type": "rectangle",
+                                  "cornerRadius": 8,
+                                  "id": "083sV",
+                                  "name": "bar1",
+                                  "fill": "#9FD6C3",
+                                  "width": "fill_container",
+                                  "height": 58
+                                },
+                                {
+                                  "type": "rectangle",
+                                  "cornerRadius": 8,
+                                  "id": "pNdaH",
+                                  "name": "bar2",
+                                  "fill": "#74C5AA",
+                                  "width": "fill_container",
+                                  "height": 78
+                                },
+                                {
+                                  "type": "rectangle",
+                                  "cornerRadius": 8,
+                                  "id": "HBlj3",
+                                  "name": "bar3",
+                                  "fill": "#42AF8C",
+                                  "width": "fill_container",
+                                  "height": 97
+                                },
+                                {
+                                  "type": "rectangle",
+                                  "cornerRadius": 8,
+                                  "id": "2W4Tn",
+                                  "name": "bar4",
+                                  "fill": "#239A75",
+                                  "width": "fill_container",
+                                  "height": 112
+                                },
+                                {
+                                  "type": "rectangle",
+                                  "cornerRadius": 8,
+                                  "id": "N06Dc",
+                                  "name": "bar5",
+                                  "fill": "#0D7C66",
+                                  "width": "fill_container",
+                                  "height": 130
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "frame",
+                          "id": "2FT8u",
+                          "name": "rowFloat",
+                          "width": "fill_container",
+                          "gap": 12,
+                          "children": [
+                            {
+                              "type": "frame",
+                              "id": "h367l",
+                              "name": "card1",
+                              "width": "fill_container",
+                              "height": 96,
+                              "fill": "#FFFFFF",
+                              "cornerRadius": 12,
+                              "stroke": {
+                                "thickness": 1,
+                                "fill": "#DCE7F3"
+                              },
+                              "layout": "vertical",
+                              "gap": 6,
+                              "padding": [
+                                12,
+                                14
+                              ],
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "id": "Qy6Yu",
+                                  "name": "c1a",
+                                  "fill": "#5D7890",
+                                  "content": "Vendas do dia",
+                                  "fontFamily": "Manrope",
+                                  "fontSize": 11,
+                                  "fontWeight": "600"
+                                },
+                                {
+                                  "type": "text",
+                                  "id": "bb0nw",
+                                  "name": "c1b",
+                                  "fill": "#173B5B",
+                                  "content": "R$ 4,8 mi",
+                                  "fontFamily": "Sora",
+                                  "fontSize": 20,
+                                  "fontWeight": "700"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "frame",
+                              "id": "IT0QM",
+                              "name": "card2",
+                              "width": "fill_container",
+                              "height": 96,
+                              "fill": "#FFFFFF",
+                              "cornerRadius": 12,
+                              "stroke": {
+                                "thickness": 1,
+                                "fill": "#DCE7F3"
+                              },
+                              "layout": "vertical",
+                              "gap": 6,
+                              "padding": [
+                                12,
+                                14
+                              ],
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "id": "FIWjg",
+                                  "name": "c2a",
+                                  "fill": "#5D7890",
+                                  "content": "Estoque crítico",
+                                  "fontFamily": "Manrope",
+                                  "fontSize": 11,
+                                  "fontWeight": "600"
+                                },
+                                {
+                                  "type": "text",
+                                  "id": "HWfyJ",
+                                  "name": "c2b",
+                                  "fill": "#173B5B",
+                                  "content": "214 itens",
+                                  "fontFamily": "Sora",
+                                  "fontSize": 20,
+                                  "fontWeight": "700"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "frame",
+                              "id": "JcL99",
+                              "name": "card3",
+                              "width": "fill_container",
+                              "height": 96,
+                              "fill": "#FFFFFF",
+                              "cornerRadius": 12,
+                              "stroke": {
+                                "thickness": 1,
+                                "fill": "#DCE7F3"
+                              },
+                              "layout": "vertical",
+                              "gap": 6,
+                              "padding": [
+                                12,
+                                14
+                              ],
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "id": "ukBdR",
+                                  "name": "c3a",
+                                  "fill": "#5D7890",
+                                  "content": "Filiais ativas",
+                                  "fontFamily": "Manrope",
+                                  "fontSize": 11,
+                                  "fontWeight": "600"
+                                },
+                                {
+                                  "type": "text",
+                                  "id": "5jOzB",
+                                  "name": "c3b",
+                                  "fill": "#173B5B",
+                                  "content": "8.500",
+                                  "fontFamily": "Sora",
+                                  "fontSize": 20,
+                                  "fontWeight": "700"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "frame",
+                              "id": "QO66W",
+                              "name": "card4",
+                              "width": "fill_container",
+                              "height": 96,
+                              "fill": "#FFFFFF",
+                              "cornerRadius": 12,
+                              "stroke": {
+                                "thickness": 1,
+                                "fill": "#DCE7F3"
+                              },
+                              "layout": "vertical",
+                              "gap": 6,
+                              "padding": [
+                                12,
+                                14
+                              ],
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "id": "7ONfC",
+                                  "name": "c4a",
+                                  "fill": "#5D7890",
+                                  "content": "Usuários online",
+                                  "fontFamily": "Manrope",
+                                  "fontSize": 11,
+                                  "fontWeight": "600"
+                                },
+                                {
+                                  "type": "text",
+                                  "id": "D5CqY",
+                                  "name": "c4b",
+                                  "fill": "#173B5B",
+                                  "content": "12.476",
+                                  "fontFamily": "Sora",
+                                  "fontSize": 20,
+                                  "fontWeight": "700"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "id": "Bhxqn",
+                          "name": "visualNote",
+                          "fill": "#54708A",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "Visão consolidada das operações, finanças e estoque em um único painel.",
+                          "fontFamily": "Manrope",
+                          "fontSize": 13,
+                          "fontWeight": "500"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "UGUQi",
+                      "name": "Hero Visual Photo",
+                      "metadata": {
+                        "type": "unsplash",
+                        "username": "podstolina",
+                        "link": "https://unsplash.com/@podstolina",
+                        "author": "Alicja Podstolska"
+                      },
+                      "width": "fill_container",
+                      "height": 180,
+                      "fill": {
+                        "type": "image",
+                        "enabled": true,
+                        "url": "https://images.unsplash.com/photo-1706443256843-121b4646816c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NDM0ODN8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzE3MTg2MzZ8&ixlib=rb-4.1.0&q=80&w=1080",
+                        "mode": "fill"
+                      },
+                      "cornerRadius": 18,
+                      "stroke": {
+                        "thickness": 1,
+                        "fill": "#C9D9EA"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "nZ6xo",
+          "name": "Metrics Section",
+          "width": "fill_container",
+          "fill": "#F7FBF9",
+          "layout": "vertical",
+          "gap": 32,
+          "padding": [
+            72,
+            96
+          ],
+          "children": [
+            {
+              "type": "frame",
+              "id": "Nc92u",
+              "name": "metHeader",
+              "width": "fill_container",
+              "layout": "vertical",
+              "gap": 12,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "3XKUF",
+                  "name": "metTitle",
+                  "fill": "#0E2B47",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "Métricas de impacto em escala nacional",
+                  "textAlign": "center",
+                  "fontFamily": "Sora",
+                  "fontSize": 42,
+                  "fontWeight": "700"
+                },
+                {
+                  "type": "text",
+                  "id": "3k6Lc",
+                  "name": "metSub",
+                  "fill": "#45627B",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "Resultados concretos de uma plataforma construída para performance empresarial no varejo farmacêutico.",
+                  "textAlign": "center",
+                  "fontFamily": "Manrope",
+                  "fontSize": 18,
+                  "fontWeight": "500"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "53oNt",
+              "name": "metGrid",
+              "width": "fill_container",
+              "gap": 14,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "86Ki0",
+                  "name": "m1",
+                  "width": "fill_container",
+                  "height": 178,
+                  "fill": "#FFFFFF",
+                  "cornerRadius": 16,
+                  "stroke": {
+                    "thickness": 1,
+                    "fill": "#DCE8F3"
+                  },
+                  "layout": "vertical",
+                  "gap": 8,
+                  "padding": [
+                    16,
+                    12
+                  ],
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "icon_font",
+                      "id": "LgRgu",
+                      "name": "i1",
+                      "width": 24,
+                      "height": 24,
+                      "iconFontName": "network",
+                      "iconFontFamily": "lucide",
+                      "fill": "#0D7C66"
+                    },
+                    {
+                      "type": "text",
+                      "id": "bCU1K",
+                      "name": "n1",
+                      "fill": "#0E2B47",
+                      "content": "+1.200",
+                      "fontFamily": "Sora",
+                      "fontSize": 34,
+                      "fontWeight": "700"
+                    },
+                    {
+                      "type": "text",
+                      "id": "lQK4o",
+                      "name": "l1",
+                      "fill": "#4D6880",
+                      "content": "redes atendidas",
+                      "fontFamily": "Manrope",
+                      "fontSize": 14,
+                      "fontWeight": "600"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "XYYHU",
+                  "name": "m2",
+                  "width": "fill_container",
+                  "height": 178,
+                  "fill": "#FFFFFF",
+                  "cornerRadius": 16,
+                  "stroke": {
+                    "thickness": 1,
+                    "fill": "#DCE8F3"
+                  },
+                  "layout": "vertical",
+                  "gap": 8,
+                  "padding": [
+                    16,
+                    12
+                  ],
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "icon_font",
+                      "id": "Bv5mZ",
+                      "name": "i2",
+                      "width": 24,
+                      "height": 24,
+                      "iconFontName": "store",
+                      "iconFontFamily": "lucide",
+                      "fill": "#0D7C66"
+                    },
+                    {
+                      "type": "text",
+                      "id": "vQICB",
+                      "name": "n2",
+                      "fill": "#0E2B47",
+                      "content": "+8.500",
+                      "fontFamily": "Sora",
+                      "fontSize": 34,
+                      "fontWeight": "700"
+                    },
+                    {
+                      "type": "text",
+                      "id": "AiiZL",
+                      "name": "l2",
+                      "fill": "#4D6880",
+                      "content": "lojas operando",
+                      "fontFamily": "Manrope",
+                      "fontSize": 14,
+                      "fontWeight": "600"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "3ZS6e",
+                  "name": "m3",
+                  "width": "fill_container",
+                  "height": 178,
+                  "fill": "#FFFFFF",
+                  "cornerRadius": 16,
+                  "stroke": {
+                    "thickness": 1,
+                    "fill": "#DCE8F3"
+                  },
+                  "layout": "vertical",
+                  "gap": 8,
+                  "padding": [
+                    16,
+                    12
+                  ],
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "icon_font",
+                      "id": "WErgN",
+                      "name": "i3",
+                      "width": 24,
+                      "height": 24,
+                      "iconFontName": "users",
+                      "iconFontFamily": "lucide",
+                      "fill": "#0D7C66"
+                    },
+                    {
+                      "type": "text",
+                      "id": "4HkMc",
+                      "name": "n3",
+                      "fill": "#0E2B47",
+                      "content": "+95.000",
+                      "fontFamily": "Sora",
+                      "fontSize": 34,
+                      "fontWeight": "700"
+                    },
+                    {
+                      "type": "text",
+                      "id": "PYGTW",
+                      "name": "l3",
+                      "fill": "#4D6880",
+                      "content": "usuários ativos",
+                      "fontFamily": "Manrope",
+                      "fontSize": 14,
+                      "fontWeight": "600"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "B2tTW",
+                  "name": "m4",
+                  "width": "fill_container",
+                  "height": 178,
+                  "fill": "#FFFFFF",
+                  "cornerRadius": 16,
+                  "stroke": {
+                    "thickness": 1,
+                    "fill": "#DCE8F3"
+                  },
+                  "layout": "vertical",
+                  "gap": 8,
+                  "padding": [
+                    16,
+                    12
+                  ],
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "icon_font",
+                      "id": "OnOvh",
+                      "name": "i4",
+                      "width": 24,
+                      "height": 24,
+                      "iconFontName": "shopping-cart",
+                      "iconFontFamily": "lucide",
+                      "fill": "#0D7C66"
+                    },
+                    {
+                      "type": "text",
+                      "id": "Tr1NZ",
+                      "name": "n4",
+                      "fill": "#0E2B47",
+                      "content": "+3,4 mi",
+                      "fontFamily": "Sora",
+                      "fontSize": 34,
+                      "fontWeight": "700"
+                    },
+                    {
+                      "type": "text",
+                      "id": "jmcWo",
+                      "name": "l4",
+                      "fill": "#4D6880",
+                      "content": "vendas por dia",
+                      "fontFamily": "Manrope",
+                      "fontSize": 14,
+                      "fontWeight": "600"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "sKRaP",
+                  "name": "m5",
+                  "width": "fill_container",
+                  "height": 178,
+                  "fill": "#FFFFFF",
+                  "cornerRadius": 16,
+                  "stroke": {
+                    "thickness": 1,
+                    "fill": "#DCE8F3"
+                  },
+                  "layout": "vertical",
+                  "gap": 8,
+                  "padding": [
+                    16,
+                    12
+                  ],
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "icon_font",
+                      "id": "tABC9",
+                      "name": "i5",
+                      "width": 24,
+                      "height": 24,
+                      "iconFontName": "shield-check",
+                      "iconFontFamily": "lucide",
+                      "fill": "#0D7C66"
+                    },
+                    {
+                      "type": "text",
+                      "id": "nOwp4",
+                      "name": "n5",
+                      "fill": "#0E2B47",
+                      "content": "99,98%",
+                      "fontFamily": "Sora",
+                      "fontSize": 34,
+                      "fontWeight": "700"
+                    },
+                    {
+                      "type": "text",
+                      "id": "dkm5s",
+                      "name": "l5",
+                      "fill": "#4D6880",
+                      "content": "de uptime",
+                      "fontFamily": "Manrope",
+                      "fontSize": 14,
+                      "fontWeight": "600"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "HwmQa",
+          "name": "Problem Section",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "layout": "vertical",
+          "gap": 36,
+          "padding": [
+            72,
+            96
+          ],
+          "children": [
+            {
+              "type": "frame",
+              "id": "99MKE",
+              "name": "probRow",
+              "width": "fill_container",
+              "gap": 24,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "mi39n",
+                  "name": "probLeft",
+                  "width": "fill_container",
+                  "layout": "vertical",
+                  "gap": 18,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "a0txs",
+                      "name": "probTitle",
+                      "fill": "#0E2B47",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "Gerenciar uma rede de farmácias nunca foi tão complexo.",
+                      "lineHeight": 1.08,
+                      "fontFamily": "Sora",
+                      "fontSize": 46,
+                      "fontWeight": "700"
+                    },
+                    {
+                      "type": "text",
+                      "id": "vXMyL",
+                      "name": "probBody",
+                      "fill": "#42607A",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "A operação farmacêutica moderna exige precisão em escala: milhares de SKUs, múltiplas filiais, regras fiscais rigorosas e tomada de decisão em tempo real. Sistemas fragmentados criam rupturas, perdas e crescimento desorganizado.",
+                      "lineHeight": 1.45,
+                      "fontFamily": "Manrope",
+                      "fontSize": 18,
+                      "fontWeight": "500"
+                    },
+                    {
+                      "type": "frame",
+                      "id": "J6HSU",
+                      "name": "probFinalCard",
+                      "width": "fill_container",
+                      "fill": "#E7F7F1",
+                      "cornerRadius": 14,
+                      "stroke": {
+                        "thickness": 1,
+                        "fill": "#C7EBDD"
+                      },
+                      "padding": [
+                        16,
+                        18
+                      ],
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "bm40t",
+                          "name": "probFinalText",
+                          "fill": "#0D7C66",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "O Pharmacor resolve tudo isso em uma única plataforma integrada.",
+                          "fontFamily": "Manrope",
+                          "fontSize": 17,
+                          "fontWeight": "700"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "U1Gcd",
+                  "name": "probRight",
+                  "width": "fill_container",
+                  "layout": "vertical",
+                  "gap": 12,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "zfHzv",
+                      "name": "probChallenges",
+                      "width": "fill_container",
+                      "fill": "#FFFFFF",
+                      "cornerRadius": 16,
+                      "stroke": {
+                        "thickness": 1,
+                        "fill": "#DCE8F3"
+                      },
+                      "layout": "vertical",
+                      "gap": 14,
+                      "padding": [
+                        20,
+                        22
+                      ],
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "mUTDF",
+                          "name": "probChallengesTitle",
+                          "fill": "#173B5B",
+                          "content": "Principais desafios operacionais",
+                          "fontFamily": "Sora",
+                          "fontSize": 20,
+                          "fontWeight": "700"
+                        },
+                        {
+                          "type": "text",
+                          "id": "B1EsW",
+                          "name": "probChallengesList",
+                          "fill": "#4D6880",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container",
+                          "content": "• Controle de estoque em múltiplas filiais\n• Ruptura de produtos e perdas por validade\n• Autorização de acesso e auditoria\n• Integração entre vendas, estoque e fiscal\n• Gestão de expansão com governança",
+                          "lineHeight": 1.55,
+                          "fontFamily": "Manrope",
+                          "fontSize": 16,
+                          "fontWeight": "500"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "C0CSD",
+                      "name": "Problem Context Photo",
+                      "metadata": {
+                        "type": "unsplash",
+                        "username": "hdbernd",
+                        "link": "https://unsplash.com/@hdbernd",
+                        "author": "Bernd 📷 Dittrich"
+                      },
+                      "width": "fill_container",
+                      "height": 140,
+                      "fill": {
+                        "type": "image",
+                        "enabled": true,
+                        "url": "https://images.unsplash.com/photo-1765031092161-a9ebe556117e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NDM0ODN8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzE3MTg2NDh8&ixlib=rb-4.1.0&q=80&w=1080",
+                        "mode": "fill"
+                      },
+                      "cornerRadius": 14,
+                      "stroke": {
+                        "thickness": 1,
+                        "fill": "#DCE8F3"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "ROlo0",
+          "name": "Modules Section",
+          "width": "fill_container",
+          "fill": "#F8FAFC",
+          "layout": "vertical",
+          "gap": 28,
+          "padding": [
+            72,
+            96
+          ],
+          "children": [
+            {
+              "type": "text",
+              "id": "Nr7df",
+              "name": "modTitle",
+              "fill": "#0E2B47",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Principais módulos do ERP",
+              "fontFamily": "Sora",
+              "fontSize": 42,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "rDsPM",
+              "name": "modSub",
+              "fill": "#45627B",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Arquitetura modular, integrada e escalável para operação de ponta a ponta em redes farmacêuticas.",
+              "fontFamily": "Manrope",
+              "fontSize": 18,
+              "fontWeight": "500"
+            },
+            {
+              "type": "frame",
+              "id": "cQAKP",
+              "name": "Modules Image",
+              "metadata": {
+                "type": "unsplash",
+                "username": "bearsnap",
+                "link": "https://unsplash.com/@bearsnap",
+                "author": "Junseong Lee"
+              },
+              "width": "fill_container",
+              "height": 210,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "https://images.unsplash.com/photo-1643894440673-553350d13370?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NDM0ODN8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzE3MTg2Mzd8&ixlib=rb-4.1.0&q=80&w=1080",
+                "mode": "fill"
+              },
+              "cornerRadius": 16,
+              "stroke": {
+                "thickness": 1,
+                "fill": "#DCE8F3"
+              }
+            },
+            {
+              "type": "frame",
+              "id": "7m0jM",
+              "name": "modRow1",
+              "width": "fill_container",
+              "gap": 16,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "l0aGc",
+                  "name": "modAuth",
+                  "width": "fill_container",
+                  "height": 290,
+                  "fill": "#FFFFFF",
+                  "cornerRadius": 16,
+                  "stroke": {
+                    "thickness": 1,
+                    "fill": "#DCE8F3"
+                  },
+                  "layout": "vertical",
+                  "gap": 12,
+                  "padding": 20,
+                  "children": [
+                    {
+                      "type": "icon_font",
+                      "id": "CDzST",
+                      "name": "authIcon",
+                      "width": 26,
+                      "height": 26,
+                      "iconFontName": "shield",
+                      "iconFontFamily": "lucide",
+                      "fill": "#0D7C66"
+                    },
+                    {
+                      "type": "text",
+                      "id": "N6p4M",
+                      "name": "authTitle",
+                      "fill": "#173B5B",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "Módulo de Autenticação e Autorização",
+                      "lineHeight": 1.2,
+                      "fontFamily": "Sora",
+                      "fontSize": 21,
+                      "fontWeight": "700"
+                    },
+                    {
+                      "type": "text",
+                      "id": "orUbv",
+                      "name": "authDesc",
+                      "fill": "#4B6780",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "• Controle completo de acesso\n• Permissões por perfil\n• Auditoria detalhada\n• Logs de atividades\n• Segurança empresarial",
+                      "lineHeight": 1.5,
+                      "fontFamily": "Manrope",
+                      "fontSize": 15,
+                      "fontWeight": "500"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "v6Jxd",
+                  "name": "modCat",
+                  "width": "fill_container",
+                  "height": 290,
+                  "fill": "#FFFFFF",
+                  "cornerRadius": 16,
+                  "stroke": {
+                    "thickness": 1,
+                    "fill": "#DCE8F3"
+                  },
+                  "layout": "vertical",
+                  "gap": 12,
+                  "padding": 20,
+                  "children": [
+                    {
+                      "type": "icon_font",
+                      "id": "ciOH0",
+                      "name": "catIcon",
+                      "width": 26,
+                      "height": 26,
+                      "iconFontName": "pill",
+                      "iconFontFamily": "lucide",
+                      "fill": "#0D7C66"
+                    },
+                    {
+                      "type": "text",
+                      "id": "fKufn",
+                      "name": "catTitle",
+                      "fill": "#173B5B",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "Módulo de Catálogo de Produtos",
+                      "lineHeight": 1.2,
+                      "fontFamily": "Sora",
+                      "fontSize": 21,
+                      "fontWeight": "700"
+                    },
+                    {
+                      "type": "text",
+                      "id": "L0yYj",
+                      "name": "catDesc",
+                      "fill": "#4B6780",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "• Cadastro estruturado\n• Categorias e subcategorias\n• Controle de validade\n• Integração com estoque",
+                      "lineHeight": 1.5,
+                      "fontFamily": "Manrope",
+                      "fontSize": 15,
+                      "fontWeight": "500"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "FxT4x",
+                  "name": "modBranch",
+                  "width": "fill_container",
+                  "height": 290,
+                  "fill": "#FFFFFF",
+                  "cornerRadius": 16,
+                  "stroke": {
+                    "thickness": 1,
+                    "fill": "#DCE8F3"
+                  },
+                  "layout": "vertical",
+                  "gap": 12,
+                  "padding": 20,
+                  "children": [
+                    {
+                      "type": "icon_font",
+                      "id": "IM2Jg",
+                      "name": "branchIcon",
+                      "width": 26,
+                      "height": 26,
+                      "iconFontName": "building-2",
+                      "iconFontFamily": "lucide",
+                      "fill": "#0D7C66"
+                    },
+                    {
+                      "type": "text",
+                      "id": "LVbd7",
+                      "name": "branchTitle",
+                      "fill": "#173B5B",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "Módulo de Filiais",
+                      "lineHeight": 1.2,
+                      "fontFamily": "Sora",
+                      "fontSize": 21,
+                      "fontWeight": "700"
+                    },
+                    {
+                      "type": "text",
+                      "id": "udiTL",
+                      "name": "branchDesc",
+                      "fill": "#4B6780",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "• Gestão multi-loja\n• Indicadores por unidade\n• Performance comparativa\n• Centralização administrativa",
+                      "lineHeight": 1.5,
+                      "fontFamily": "Manrope",
+                      "fontSize": 15,
+                      "fontWeight": "500"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "bJI0Z",
+              "name": "modRow2",
+              "width": "fill_container",
+              "gap": 16,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "inFzg",
+                  "name": "modSales",
+                  "width": "fill_container",
+                  "height": 290,
+                  "fill": "#FFFFFF",
+                  "cornerRadius": 16,
+                  "stroke": {
+                    "thickness": 1,
+                    "fill": "#DCE8F3"
+                  },
+                  "layout": "vertical",
+                  "gap": 12,
+                  "padding": 20,
+                  "children": [
+                    {
+                      "type": "icon_font",
+                      "id": "L5CEO",
+                      "name": "salesIcon",
+                      "width": 26,
+                      "height": 26,
+                      "iconFontName": "badge-dollar-sign",
+                      "iconFontFamily": "lucide",
+                      "fill": "#0D7C66"
+                    },
+                    {
+                      "type": "text",
+                      "id": "kqMnV",
+                      "name": "salesTitle",
+                      "fill": "#173B5B",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "Módulo de Vendas",
+                      "lineHeight": 1.2,
+                      "fontFamily": "Sora",
+                      "fontSize": 21,
+                      "fontWeight": "700"
+                    },
+                    {
+                      "type": "text",
+                      "id": "WvGEZ",
+                      "name": "salesDesc",
+                      "fill": "#4B6780",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "• Registro completo de vendas\n• Integração com estoque\n• Indicadores financeiros\n• Histórico detalhado",
+                      "lineHeight": 1.5,
+                      "fontFamily": "Manrope",
+                      "fontSize": 15,
+                      "fontWeight": "500"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "3dxAH",
+                  "name": "modStock",
+                  "width": "fill_container",
+                  "height": 290,
+                  "fill": "#FFFFFF",
+                  "cornerRadius": 16,
+                  "stroke": {
+                    "thickness": 1,
+                    "fill": "#DCE8F3"
+                  },
+                  "layout": "vertical",
+                  "gap": 12,
+                  "padding": 20,
+                  "children": [
+                    {
+                      "type": "icon_font",
+                      "id": "jK2em",
+                      "name": "stockIcon",
+                      "width": 26,
+                      "height": 26,
+                      "iconFontName": "package",
+                      "iconFontFamily": "lucide",
+                      "fill": "#0D7C66"
+                    },
+                    {
+                      "type": "text",
+                      "id": "fQb0O",
+                      "name": "stockTitle",
+                      "fill": "#173B5B",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "Módulo de Estoque",
+                      "lineHeight": 1.2,
+                      "fontFamily": "Sora",
+                      "fontSize": 21,
+                      "fontWeight": "700"
+                    },
+                    {
+                      "type": "text",
+                      "id": "bF9GE",
+                      "name": "stockDesc",
+                      "fill": "#4B6780",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "• Controle em tempo real\n• Alerta de estoque mínimo\n• Gestão de lotes\n• Controle de validade\n• Transferência entre filiais",
+                      "lineHeight": 1.5,
+                      "fontFamily": "Manrope",
+                      "fontSize": 15,
+                      "fontWeight": "500"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "zU34L",
+          "name": "Benefits Section",
+          "width": "fill_container",
+          "fill": "#0E2B47",
+          "layout": "vertical",
+          "gap": 28,
+          "padding": [
+            72,
+            96
+          ],
+          "children": [
+            {
+              "type": "text",
+              "id": "IXsM4",
+              "name": "benTitle",
+              "fill": "#FFFFFF",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Por que as maiores redes escolhem o PharmaCore?",
+              "fontFamily": "Sora",
+              "fontSize": 42,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "Tyy8p",
+              "name": "benSub",
+              "fill": "#C8DBEA",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Combinação de tecnologia, governança e performance para sustentar crescimento com segurança operacional.",
+              "fontFamily": "Manrope",
+              "fontSize": 18,
+              "fontWeight": "500"
+            },
+            {
+              "type": "frame",
+              "id": "oH3lI",
+              "name": "benRow",
+              "width": "fill_container",
+              "gap": 16,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "Knt5m",
+                  "name": "benCol1",
+                  "width": "fill_container",
+                  "fill": "#143B5C",
+                  "cornerRadius": 16,
+                  "stroke": {
+                    "thickness": 1,
+                    "fill": "#2B5478"
+                  },
+                  "layout": "vertical",
+                  "gap": 14,
+                  "padding": [
+                    20,
+                    22
+                  ],
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "KBUWx",
+                      "name": "benList1",
+                      "fill": "#E4EFF7",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "• Plataforma 100% integrada\n• Escalável para milhares de lojas\n• Arquitetura moderna e segura\n• Alto desempenho",
+                      "lineHeight": 1.6,
+                      "fontFamily": "Manrope",
+                      "fontSize": 18,
+                      "fontWeight": "600"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "ETMip",
+                  "name": "benCol2",
+                  "width": "fill_container",
+                  "fill": "#143B5C",
+                  "cornerRadius": 16,
+                  "stroke": {
+                    "thickness": 1,
+                    "fill": "#2B5478"
+                  },
+                  "layout": "vertical",
+                  "gap": 14,
+                  "padding": [
+                    20,
+                    22
+                  ],
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "s5xIo",
+                      "name": "benList2",
+                      "fill": "#E4EFF7",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "• Dados centralizados\n• Relatórios estratégicos\n• Redução de perdas e rupturas\n• Aumento de eficiência operacional",
+                      "lineHeight": 1.6,
+                      "fontFamily": "Manrope",
+                      "fontSize": 18,
+                      "fontWeight": "600"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "c0UlG",
+          "name": "Testimonials Section",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "layout": "vertical",
+          "gap": 28,
+          "padding": [
+            72,
+            96
+          ],
+          "children": [
+            {
+              "type": "text",
+              "id": "Ar71C",
+              "name": "testTitle",
+              "fill": "#0E2B47",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Lideranças que transformaram suas redes com o PharmaCore",
+              "fontFamily": "Sora",
+              "fontSize": 38,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "HXtr1",
+              "name": "testSub",
+              "fill": "#45627B",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Depoimentos de executivos que escalaram operações farmacêuticas com mais controle, governança e previsibilidade.",
+              "fontFamily": "Manrope",
+              "fontSize": 18,
+              "fontWeight": "500"
+            },
+            {
+              "type": "frame",
+              "id": "rKAA6",
+              "name": "testRow",
+              "width": "fill_container",
+              "gap": 16,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "9A9hk",
+                  "name": "t1",
+                  "width": "fill_container",
+                  "height": 302,
+                  "fill": "#F9FCFF",
+                  "cornerRadius": 16,
+                  "stroke": {
+                    "thickness": 1,
+                    "fill": "#DCE8F3"
+                  },
+                  "layout": "vertical",
+                  "gap": 14,
+                  "padding": 20,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "KAWz2",
+                      "name": "top1",
+                      "width": "fill_container",
+                      "gap": 12,
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "H9J38",
+                          "name": "av1",
+                          "metadata": {
+                            "type": "unsplash",
+                            "username": "matheussox",
+                            "link": "https://unsplash.com/@matheussox",
+                            "author": "Matheus Câmara da Silva"
+                          },
+                          "width": 56,
+                          "height": 56,
+                          "fill": {
+                            "type": "image",
+                            "enabled": true,
+                            "url": "https://images.unsplash.com/photo-1632184671130-f63ac80ec83b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NDM0ODN8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzE3MTgyMDN8&ixlib=rb-4.1.0&q=80&w=1080",
+                            "mode": "fill"
+                          },
+                          "cornerRadius": 999
+                        },
+                        {
+                          "type": "frame",
+                          "id": "zAiXn",
+                          "name": "info1",
+                          "width": "fill_container",
+                          "layout": "vertical",
+                          "gap": 2,
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "ekAwn",
+                              "name": "name1",
+                              "fill": "#163B5A",
+                              "content": "Carlos Mendes",
+                              "fontFamily": "Sora",
+                              "fontSize": 18,
+                              "fontWeight": "700"
+                            },
+                            {
+                              "type": "text",
+                              "id": "vvBzi",
+                              "name": "role1",
+                              "fill": "#5A748C",
+                              "content": "Diretor Operacional – Rede FarmaVida",
+                              "fontFamily": "Manrope",
+                              "fontSize": 13,
+                              "fontWeight": "600"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "P5el5",
+                      "name": "quote1",
+                      "fill": "#2E4D66",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "“O Pharmacor trouxe controle total das nossas 63 lojas. Reduzimos perdas em 27% no primeiro ano.”",
+                      "lineHeight": 1.5,
+                      "fontFamily": "Manrope",
+                      "fontSize": 18,
+                      "fontWeight": "500"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "MhyrK",
+                  "name": "t2",
+                  "width": "fill_container",
+                  "height": 302,
+                  "fill": "#F9FCFF",
+                  "cornerRadius": 16,
+                  "stroke": {
+                    "thickness": 1,
+                    "fill": "#DCE8F3"
+                  },
+                  "layout": "vertical",
+                  "gap": 14,
+                  "padding": 20,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "nOjgT",
+                      "name": "top2",
+                      "width": "fill_container",
+                      "gap": 12,
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "QGSye",
+                          "name": "av2",
+                          "metadata": {
+                            "type": "unsplash",
+                            "username": "przbe",
+                            "link": "https://unsplash.com/@przbe",
+                            "author": "Praja Nugraha"
+                          },
+                          "width": 56,
+                          "height": 56,
+                          "fill": {
+                            "type": "image",
+                            "enabled": true,
+                            "url": "https://images.unsplash.com/photo-1726710856152-36126c85ee76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NDM0ODN8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzE3MTgyMDR8&ixlib=rb-4.1.0&q=80&w=1080",
+                            "mode": "fill"
+                          },
+                          "cornerRadius": 999
+                        },
+                        {
+                          "type": "frame",
+                          "id": "lN1QF",
+                          "name": "info2",
+                          "width": "fill_container",
+                          "layout": "vertical",
+                          "gap": 2,
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "900VT",
+                              "name": "name2",
+                              "fill": "#163B5A",
+                              "content": "Juliana Souza",
+                              "fontFamily": "Sora",
+                              "fontSize": 18,
+                              "fontWeight": "700"
+                            },
+                            {
+                              "type": "text",
+                              "id": "2SSUO",
+                              "name": "role2",
+                              "fill": "#5A748C",
+                              "content": "CEO – Rede SaúdeMais",
+                              "fontFamily": "Manrope",
+                              "fontSize": 13,
+                              "fontWeight": "600"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "Yu0Vc",
+                      "name": "quote2",
+                      "fill": "#2E4D66",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "“Conseguimos crescer de 18 para 74 lojas mantendo total controle operacional.”",
+                      "lineHeight": 1.5,
+                      "fontFamily": "Manrope",
+                      "fontSize": 18,
+                      "fontWeight": "500"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "fKKFS",
+                  "name": "t3",
+                  "width": "fill_container",
+                  "height": 302,
+                  "fill": "#F9FCFF",
+                  "cornerRadius": 16,
+                  "stroke": {
+                    "thickness": 1,
+                    "fill": "#DCE8F3"
+                  },
+                  "layout": "vertical",
+                  "gap": 14,
+                  "padding": 20,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "JJojv",
+                      "name": "top3",
+                      "width": "fill_container",
+                      "gap": 12,
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "frame",
+                          "id": "b4sLQ",
+                          "name": "av3",
+                          "metadata": {
+                            "type": "unsplash",
+                            "username": "toddjiang",
+                            "link": "https://unsplash.com/@toddjiang",
+                            "author": "Todd Jiang"
+                          },
+                          "width": 56,
+                          "height": 56,
+                          "fill": {
+                            "type": "image",
+                            "enabled": true,
+                            "url": "https://images.unsplash.com/photo-1758607010203-d6b7f6ec9262?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NDM0ODN8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzE3MTgyMDR8&ixlib=rb-4.1.0&q=80&w=1080",
+                            "mode": "fill"
+                          },
+                          "cornerRadius": 999
+                        },
+                        {
+                          "type": "frame",
+                          "id": "GuaIl",
+                          "name": "info3",
+                          "width": "fill_container",
+                          "layout": "vertical",
+                          "gap": 2,
+                          "children": [
+                            {
+                              "type": "text",
+                              "id": "UZshG",
+                              "name": "name3",
+                              "fill": "#163B5A",
+                              "content": "Roberto Lima",
+                              "fontFamily": "Sora",
+                              "fontSize": 18,
+                              "fontWeight": "700"
+                            },
+                            {
+                              "type": "text",
+                              "id": "f4LyT",
+                              "name": "role3",
+                              "fill": "#5A748C",
+                              "content": "Gerente de TI – Drogaria Popular Brasil",
+                              "fontFamily": "Manrope",
+                              "fontSize": 13,
+                              "fontWeight": "600"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "zHTut",
+                      "name": "quote3",
+                      "fill": "#2E4D66",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "“A robustez da plataforma e o nível de auditoria são impressionantes.”",
+                      "lineHeight": 1.5,
+                      "fontFamily": "Manrope",
+                      "fontSize": 18,
+                      "fontWeight": "500"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "6GRcc",
+          "name": "Clients Section",
+          "width": "fill_container",
+          "fill": "#F7FBF9",
+          "layout": "vertical",
+          "gap": 24,
+          "padding": [
+            56,
+            96
+          ],
+          "children": [
+            {
+              "type": "text",
+              "id": "Msmtj",
+              "name": "cliTitle",
+              "fill": "#0E2B47",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Redes que confiam no PharmaCore",
+              "textAlign": "center",
+              "fontFamily": "Sora",
+              "fontSize": 32,
+              "fontWeight": "700"
+            },
+            {
+              "type": "frame",
+              "id": "CGZpO",
+              "name": "cliRow",
+              "width": "fill_container",
+              "gap": 12,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "tdAph",
+                  "name": "logo1",
+                  "width": "fill_container",
+                  "height": 64,
+                  "fill": "#FFFFFF",
+                  "cornerRadius": 12,
+                  "stroke": {
+                    "thickness": 1,
+                    "fill": "#DCE8F3"
+                  },
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "t6y95",
+                      "name": "logoTxt1",
+                      "fill": "#234662",
+                      "content": "FarmaVida",
+                      "fontFamily": "Sora",
+                      "fontSize": 16,
+                      "fontWeight": "700"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "aEYeW",
+                  "name": "logo2",
+                  "width": "fill_container",
+                  "height": 64,
+                  "fill": "#FFFFFF",
+                  "cornerRadius": 12,
+                  "stroke": {
+                    "thickness": 1,
+                    "fill": "#DCE8F3"
+                  },
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "H9DLU",
+                      "name": "logoTxt2",
+                      "fill": "#234662",
+                      "content": "SaúdeMais",
+                      "fontFamily": "Sora",
+                      "fontSize": 16,
+                      "fontWeight": "700"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "2uPmI",
+                  "name": "logo3",
+                  "width": "fill_container",
+                  "height": 64,
+                  "fill": "#FFFFFF",
+                  "cornerRadius": 12,
+                  "stroke": {
+                    "thickness": 1,
+                    "fill": "#DCE8F3"
+                  },
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "sQzCg",
+                      "name": "logoTxt3",
+                      "fill": "#234662",
+                      "content": "Drogaria Popular Brasil",
+                      "fontFamily": "Sora",
+                      "fontSize": 16,
+                      "fontWeight": "700"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "mGgGr",
+                  "name": "logo4",
+                  "width": "fill_container",
+                  "height": 64,
+                  "fill": "#FFFFFF",
+                  "cornerRadius": 12,
+                  "stroke": {
+                    "thickness": 1,
+                    "fill": "#DCE8F3"
+                  },
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "wo3E0",
+                      "name": "logoTxt4",
+                      "fill": "#234662",
+                      "content": "FarmaCenter",
+                      "fontFamily": "Sora",
+                      "fontSize": 16,
+                      "fontWeight": "700"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "Y9G0I",
+                  "name": "logo5",
+                  "width": "fill_container",
+                  "height": 64,
+                  "fill": "#FFFFFF",
+                  "cornerRadius": 12,
+                  "stroke": {
+                    "thickness": 1,
+                    "fill": "#DCE8F3"
+                  },
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "FC2k8",
+                      "name": "logoTxt5",
+                      "fill": "#234662",
+                      "content": "Rede VidaFarma",
+                      "fontFamily": "Sora",
+                      "fontSize": 16,
+                      "fontWeight": "700"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "xXoeb",
+                  "name": "logo6",
+                  "width": "fill_container",
+                  "height": 64,
+                  "fill": "#FFFFFF",
+                  "cornerRadius": 12,
+                  "stroke": {
+                    "thickness": 1,
+                    "fill": "#DCE8F3"
+                  },
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "EqBVF",
+                      "name": "logoTxt6",
+                      "fill": "#234662",
+                      "content": "Grupo FarmaSul",
+                      "fontFamily": "Sora",
+                      "fontSize": 16,
+                      "fontWeight": "700"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "8eOwL",
+          "name": "Security Section",
+          "width": "fill_container",
+          "fill": "#FFFFFF",
+          "layout": "vertical",
+          "gap": 28,
+          "padding": [
+            72,
+            96
+          ],
+          "children": [
+            {
+              "type": "text",
+              "id": "LOpZT",
+              "name": "secTitle",
+              "fill": "#0E2B47",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Tecnologia de ponta para um mercado que não pode parar.",
+              "fontFamily": "Sora",
+              "fontSize": 40,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "AUo6T",
+              "name": "secSub",
+              "fill": "#45627B",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Infraestrutura enterprise desenhada para alta disponibilidade, segurança avançada e continuidade operacional em larga escala.",
+              "fontFamily": "Manrope",
+              "fontSize": 18,
+              "fontWeight": "500"
+            },
+            {
+              "type": "frame",
+              "id": "xGISH",
+              "name": "secRow",
+              "width": "fill_container",
+              "gap": 16,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "s6w8G",
+                  "name": "secLeft",
+                  "width": "fill_container",
+                  "fill": "#F5FAFF",
+                  "cornerRadius": 16,
+                  "stroke": {
+                    "thickness": 1,
+                    "fill": "#DCE8F3"
+                  },
+                  "layout": "vertical",
+                  "gap": 14,
+                  "padding": [
+                    20,
+                    22
+                  ],
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "2VIfB",
+                      "name": "secList",
+                      "fill": "#35546E",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "• Arquitetura moderna orientada a serviços\n• Alta disponibilidade com 99,98% de uptime\n• Backup automatizado e recuperação rápida\n• Segurança avançada em múltiplas camadas\n• Criptografia de dados sensíveis\n• Monitoramento contínuo de performance e integridade",
+                      "lineHeight": 1.55,
+                      "fontFamily": "Manrope",
+                      "fontSize": 17,
+                      "fontWeight": "600"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "9Fxme",
+                  "name": "secRight",
+                  "width": "fill_container",
+                  "layout": "vertical",
+                  "gap": 12,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "rJTtX",
+                      "name": "Security Image",
+                      "metadata": {
+                        "type": "unsplash",
+                        "username": "tylergm",
+                        "link": "https://unsplash.com/@tylergm",
+                        "author": "Tyler"
+                      },
+                      "width": "fill_container",
+                      "height": 126,
+                      "fill": {
+                        "type": "image",
+                        "enabled": true,
+                        "url": "https://images.unsplash.com/photo-1680992045563-2ab442f3feee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NDM0ODN8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzE3MTg2NTV8&ixlib=rb-4.1.0&q=80&w=1080",
+                        "mode": "fill"
+                      },
+                      "cornerRadius": 14,
+                      "stroke": {
+                        "thickness": 1,
+                        "fill": "#DCE8F3"
+                      }
+                    },
+                    {
+                      "type": "frame",
+                      "id": "ZAlLe",
+                      "name": "box1",
+                      "width": "fill_container",
+                      "height": 80,
+                      "fill": "#FFFFFF",
+                      "cornerRadius": 14,
+                      "stroke": {
+                        "thickness": 1,
+                        "fill": "#DCE8F3"
+                      },
+                      "layout": "vertical",
+                      "gap": 4,
+                      "padding": [
+                        14,
+                        16
+                      ],
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "K7HvZ",
+                          "name": "box1a",
+                          "fill": "#5B7590",
+                          "content": "Disponibilidade",
+                          "fontFamily": "Manrope",
+                          "fontSize": 13,
+                          "fontWeight": "700"
+                        },
+                        {
+                          "type": "text",
+                          "id": "xxOXS",
+                          "name": "box1b",
+                          "fill": "#173B5B",
+                          "content": "99,98% uptime com redundância ativa",
+                          "fontFamily": "Sora",
+                          "fontSize": 17,
+                          "fontWeight": "700"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "5xr8C",
+                      "name": "box2",
+                      "width": "fill_container",
+                      "height": 80,
+                      "fill": "#FFFFFF",
+                      "cornerRadius": 14,
+                      "stroke": {
+                        "thickness": 1,
+                        "fill": "#DCE8F3"
+                      },
+                      "layout": "vertical",
+                      "gap": 4,
+                      "padding": [
+                        14,
+                        16
+                      ],
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "svKvm",
+                          "name": "box2a",
+                          "fill": "#5B7590",
+                          "content": "Proteção",
+                          "fontFamily": "Manrope",
+                          "fontSize": 13,
+                          "fontWeight": "700"
+                        },
+                        {
+                          "type": "text",
+                          "id": "aGOj8",
+                          "name": "box2b",
+                          "fill": "#173B5B",
+                          "content": "Criptografia e controle de acesso granular",
+                          "fontFamily": "Sora",
+                          "fontSize": 17,
+                          "fontWeight": "700"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "8W3pw",
+                      "name": "box3",
+                      "width": "fill_container",
+                      "height": 80,
+                      "fill": "#FFFFFF",
+                      "cornerRadius": 14,
+                      "stroke": {
+                        "thickness": 1,
+                        "fill": "#DCE8F3"
+                      },
+                      "layout": "vertical",
+                      "gap": 4,
+                      "padding": [
+                        14,
+                        16
+                      ],
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "rtKKB",
+                          "name": "box3a",
+                          "fill": "#5B7590",
+                          "content": "Monitoramento",
+                          "fontFamily": "Manrope",
+                          "fontSize": 13,
+                          "fontWeight": "700"
+                        },
+                        {
+                          "type": "text",
+                          "id": "Yq3xI",
+                          "name": "box3b",
+                          "fill": "#173B5B",
+                          "content": "Alertas proativos e observabilidade contínua",
+                          "fontFamily": "Sora",
+                          "fontSize": 17,
+                          "fontWeight": "700"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "vAoUD",
+          "name": "Final CTA Section",
+          "width": "fill_container",
+          "fill": {
+            "type": "gradient",
+            "gradientType": "linear",
+            "enabled": true,
+            "rotation": 35,
+            "size": {
+              "height": 1
+            },
+            "colors": [
+              {
+                "color": "#0D7C66",
+                "position": 0
+              },
+              {
+                "color": "#0E4A87",
+                "position": 1
+              }
+            ]
+          },
+          "layout": "vertical",
+          "gap": 24,
+          "padding": [
+            72,
+            96
+          ],
+          "children": [
+            {
+              "type": "text",
+              "id": "YVItX",
+              "name": "ctaTitle",
+              "fill": "#FFFFFF",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Pronto para transformar a gestão da sua rede de farmácias?",
+              "textAlign": "center",
+              "fontFamily": "Sora",
+              "fontSize": 46,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "FlbNf",
+              "name": "ctaSub",
+              "fill": "#DDECF8",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Agende uma demonstração estratégica e veja como o Pharmacor acelera crescimento com controle total da operação.",
+              "textAlign": "center",
+              "fontFamily": "Manrope",
+              "fontSize": 20,
+              "fontWeight": "500"
+            },
+            {
+              "type": "frame",
+              "id": "P16VD",
+              "name": "ctaRow",
+              "width": "fill_container",
+              "gap": 14,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "GO33c",
+                  "name": "ctaBtn1",
+                  "fill": "#FFFFFF",
+                  "cornerRadius": 14,
+                  "padding": [
+                    16,
+                    24
+                  ],
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "pWsoE",
+                      "name": "ctaBtn1Txt",
+                      "fill": "#0E3D65",
+                      "content": "Agendar Demonstração",
+                      "fontFamily": "Manrope",
+                      "fontSize": 16,
+                      "fontWeight": "700"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "2Tds7",
+                  "name": "ctaBtn2",
+                  "fill": "#0A3158",
+                  "cornerRadius": 14,
+                  "stroke": {
+                    "thickness": 1,
+                    "fill": "#5AAFD2"
+                  },
+                  "padding": [
+                    16,
+                    24
+                  ],
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "SwbqU",
+                      "name": "ctaBtn2Txt",
+                      "fill": "#FFFFFF",
+                      "content": "Solicitar Proposta",
+                      "fontFamily": "Manrope",
+                      "fontSize": 16,
+                      "fontWeight": "700"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "kjkq8",
+              "name": "ctaTrust",
+              "fill": "#D5E7F5",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "Implementação acompanhada por especialistas, onboarding consultivo e suporte contínuo.",
+              "textAlign": "center",
+              "fontFamily": "Manrope",
+              "fontSize": 14,
+              "fontWeight": "600"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "AFyPv",
+          "name": "Footer",
+          "width": "fill_container",
+          "fill": "#0A1C2D",
+          "layout": "vertical",
+          "gap": 24,
+          "padding": [
+            48,
+            96,
+            40,
+            96
+          ],
+          "children": [
+            {
+              "type": "frame",
+              "id": "qkP3s",
+              "name": "footTop",
+              "width": "fill_container",
+              "justifyContent": "space_between",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "4GBM7",
+                  "name": "footBrand",
+                  "width": "fill_container",
+                  "layout": "vertical",
+                  "gap": 14,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "iDnjV",
+                      "name": "footLogoRow",
+                      "gap": 10,
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "rectangle",
+                          "cornerRadius": 9,
+                          "id": "87occ",
+                          "name": "footMark",
+                          "fill": {
+                            "type": "gradient",
+                            "gradientType": "linear",
+                            "enabled": true,
+                            "rotation": 35,
+                            "size": {
+                              "height": 1
+                            },
+                            "colors": [
+                              {
+                                "color": "#0D7C66",
+                                "position": 0
+                              },
+                              {
+                                "color": "#0E4A87",
+                                "position": 1
+                              }
+                            ]
+                          },
+                          "width": 30,
+                          "height": 30
+                        },
+                        {
+                          "type": "text",
+                          "id": "2VIBM",
+                          "name": "footName",
+                          "fill": "#FFFFFF",
+                          "content": "Pharmacor",
+                          "fontFamily": "Sora",
+                          "fontSize": 22,
+                          "fontWeight": "700"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "URRsH",
+                      "name": "footDesc",
+                      "fill": "#BDD2E4",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "ERP completo para redes de farmácia em escala nacional.",
+                      "fontFamily": "Manrope",
+                      "fontSize": 15,
+                      "fontWeight": "500"
+                    },
+                    {
+                      "type": "text",
+                      "id": "7YBnD",
+                      "name": "footContact",
+                      "fill": "#E0ECF6",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "contato@pharmacor.com.br\n(11) 4000-9000\nSão Paulo – Brasil",
+                      "lineHeight": 1.5,
+                      "fontFamily": "Manrope",
+                      "fontSize": 15,
+                      "fontWeight": "600"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "08krz",
+                  "name": "footLinks",
+                  "gap": 44,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "4x5fi",
+                      "name": "footCol1",
+                      "layout": "vertical",
+                      "gap": 10,
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "6RkXL",
+                          "name": "f1",
+                          "fill": "#E6F0F8",
+                          "content": "Sobre",
+                          "fontFamily": "Manrope",
+                          "fontSize": 15,
+                          "fontWeight": "700"
+                        },
+                        {
+                          "type": "text",
+                          "id": "YIbjH",
+                          "name": "f2",
+                          "fill": "#E6F0F8",
+                          "content": "Soluções",
+                          "fontFamily": "Manrope",
+                          "fontSize": 15,
+                          "fontWeight": "700"
+                        },
+                        {
+                          "type": "text",
+                          "id": "bCBIy",
+                          "name": "f3",
+                          "fill": "#E6F0F8",
+                          "content": "Clientes",
+                          "fontFamily": "Manrope",
+                          "fontSize": 15,
+                          "fontWeight": "700"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "DGAxA",
+                      "name": "footCol2",
+                      "layout": "vertical",
+                      "gap": 10,
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "SCF24",
+                          "name": "f4",
+                          "fill": "#E6F0F8",
+                          "content": "Contato",
+                          "fontFamily": "Manrope",
+                          "fontSize": 15,
+                          "fontWeight": "700"
+                        },
+                        {
+                          "type": "text",
+                          "id": "5b5ku",
+                          "name": "f5",
+                          "fill": "#E6F0F8",
+                          "content": "Política de Privacidade",
+                          "fontFamily": "Manrope",
+                          "fontSize": 15,
+                          "fontWeight": "700"
+                        },
+                        {
+                          "type": "text",
+                          "id": "iYWnt",
+                          "name": "f6",
+                          "fill": "#E6F0F8",
+                          "content": "Termos de Uso",
+                          "fontFamily": "Manrope",
+                          "fontSize": 15,
+                          "fontWeight": "700"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "7eYxO",
+              "name": "footBottom",
+              "fill": "#9CB4C8",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "© 2026 Pharmacor. Todos os direitos reservados.",
+              "textAlign": "center",
+              "fontFamily": "Manrope",
+              "fontSize": 13,
+              "fontWeight": "600"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

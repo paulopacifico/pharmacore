@@ -1,0 +1,189 @@
+{
+  "total": 9,
+  "items": [
+    {
+      "name": "admin",
+      "description": "Perfil administrador com acesso completo ao sistema",
+      "permissionRefs": ["*"]
+    },
+    {
+      "name": "colaborador",
+      "description": "Perfil base para colaboradores com acesso apenas próprio",
+      "permissionRefs": [
+        "BASIC.USER.READ_OWN",
+        "BASIC.USER.UPDATE_OWN",
+        "BASIC.USER.DELETE_OWN"
+      ]
+    },
+    {
+      "name": "iam admin",
+      "description": "Administrador de identidades e acessos",
+      "permissionRefs": [
+        "BASIC.USER.READ_OWN",
+        "BASIC.USER.UPDATE_OWN",
+        "AUTH.MODULE.VIEW",
+        "AUTH.USER.VIEW",
+        "AUTH.ROLE.VIEW",
+        "AUTH.USER.READ",
+        "AUTH.USER.CREATE",
+        "AUTH.USER.UPDATE",
+        "AUTH.USER.DELETE",
+        "AUTH.ROLE.READ",
+        "AUTH.ROLE.CREATE",
+        "AUTH.ROLE.UPDATE",
+        "AUTH.ROLE.DELETE",
+        "AUTH.PERMISSION.READ",
+        "AUTH.AUDIT.READ"
+      ]
+    },
+    {
+      "name": "gerente operacoes",
+      "description": "Gestor de operações com administração de produtos, filiais e estoque",
+      "permissionRefs": [
+        "BASIC.USER.READ_OWN",
+        "BASIC.USER.UPDATE_OWN",
+        "PRODUCT.MODULE.VIEW",
+        "PRODUCT.READ",
+        "PRODUCT.CREATE",
+        "PRODUCT.UPDATE",
+        "PRODUCT.DELETE",
+        "PRODUCT.CATEGORY.READ",
+        "PRODUCT.CATEGORY.CREATE",
+        "PRODUCT.CATEGORY.UPDATE",
+        "PRODUCT.CATEGORY.DELETE",
+        "BRANCH.MODULE.VIEW",
+        "BRANCH.READ",
+        "BRANCH.CREATE",
+        "BRANCH.UPDATE",
+        "BRANCH.DELETE",
+        "STOCK.MODULE.VIEW",
+        "STOCK.CATALOG.READ",
+        "STOCK.LOCATION.READ",
+        "STOCK.LOCATION.CREATE",
+        "STOCK.LOCATION.UPDATE",
+        "STOCK.ITEM.READ",
+        "STOCK.MOVEMENT.READ",
+        "STOCK.MOVEMENT.CREATE_IN",
+        "STOCK.MOVEMENT.CREATE_OUT",
+        "STOCK.MOVEMENT.ADJUST",
+        "STOCK.MOVEMENT.TRANSFER",
+        "SALES.MODULE.VIEW",
+        "SALES.ORDER.READ"
+      ]
+    },
+    {
+      "name": "farmaceutico",
+      "description": "Farmacêutico responsável com acesso operacional e de supervisão",
+      "permissionRefs": [
+        "BASIC.USER.READ_OWN",
+        "BASIC.USER.UPDATE_OWN",
+        "PRODUCT.MODULE.VIEW",
+        "PRODUCT.READ",
+        "PRODUCT.UPDATE",
+        "PRODUCT.CATEGORY.READ",
+        "BRANCH.MODULE.VIEW",
+        "BRANCH.READ",
+        "BRANCH.UPDATE",
+        "STOCK.MODULE.VIEW",
+        "STOCK.CATALOG.READ",
+        "STOCK.ITEM.READ",
+        "STOCK.MOVEMENT.READ",
+        "STOCK.MOVEMENT.CREATE_IN",
+        "STOCK.MOVEMENT.CREATE_OUT",
+        "STOCK.MOVEMENT.ADJUST",
+        "SALES.MODULE.VIEW",
+        "SALES.ORDER.READ",
+        "SALES.ORDER.UPDATE",
+        "SALES.ORDER.CANCEL"
+      ]
+    },
+    {
+      "name": "atendente loja",
+      "description": "Atendente de loja focado na operação de vendas",
+      "permissionRefs": [
+        "BASIC.USER.READ_OWN",
+        "BASIC.USER.UPDATE_OWN",
+        "SALES.MODULE.VIEW",
+        "SALES.ORDER.READ",
+        "SALES.ORDER.CREATE",
+        "SALES.ORDER.UPDATE",
+        "SALES.ORDER.APPLY_DISCOUNT",
+        "PRODUCT.MODULE.VIEW",
+        "PRODUCT.READ",
+        "BRANCH.MODULE.VIEW",
+        "BRANCH.READ",
+        "STOCK.MODULE.VIEW",
+        "STOCK.CATALOG.READ",
+        "STOCK.ITEM.READ",
+        "STOCK.MOVEMENT.READ"
+      ]
+    },
+    {
+      "name": "comprador cadastro",
+      "description": "Comprador e cadastro com foco em produtos e entrada de estoque",
+      "permissionRefs": [
+        "BASIC.USER.READ_OWN",
+        "BASIC.USER.UPDATE_OWN",
+        "PRODUCT.MODULE.VIEW",
+        "PRODUCT.READ",
+        "PRODUCT.CREATE",
+        "PRODUCT.UPDATE",
+        "PRODUCT.CATEGORY.READ",
+        "PRODUCT.CATEGORY.CREATE",
+        "PRODUCT.CATEGORY.UPDATE",
+        "BRANCH.MODULE.VIEW",
+        "BRANCH.READ",
+        "STOCK.MODULE.VIEW",
+        "STOCK.CATALOG.READ",
+        "STOCK.LOCATION.READ",
+        "STOCK.ITEM.READ",
+        "STOCK.MOVEMENT.READ",
+        "STOCK.MOVEMENT.CREATE_IN",
+        "STOCK.MOVEMENT.TRANSFER"
+      ]
+    },
+    {
+      "name": "auditor interno",
+      "description": "Auditor interno com acesso de leitura transversal",
+      "permissionRefs": [
+        "BASIC.USER.READ_OWN",
+        "BASIC.USER.UPDATE_OWN",
+        "AUTH.MODULE.VIEW",
+        "AUTH.USER.VIEW",
+        "AUTH.ROLE.VIEW",
+        "AUTH.USER.READ",
+        "AUTH.ROLE.READ",
+        "AUTH.PERMISSION.READ",
+        "AUTH.AUDIT.READ",
+        "PRODUCT.MODULE.VIEW",
+        "PRODUCT.READ",
+        "PRODUCT.CATEGORY.READ",
+        "BRANCH.MODULE.VIEW",
+        "BRANCH.READ",
+        "STOCK.MODULE.VIEW",
+        "STOCK.CATALOG.READ",
+        "STOCK.ITEM.READ",
+        "STOCK.MOVEMENT.READ",
+        "SALES.MODULE.VIEW",
+        "SALES.ORDER.READ"
+      ]
+    },
+    {
+      "name": "executivo",
+      "description": "Perfil executivo com visibilidade estratégica de leitura",
+      "permissionRefs": [
+        "BASIC.USER.READ_OWN",
+        "BASIC.USER.UPDATE_OWN",
+        "PRODUCT.MODULE.VIEW",
+        "PRODUCT.READ",
+        "BRANCH.MODULE.VIEW",
+        "BRANCH.READ",
+        "STOCK.MODULE.VIEW",
+        "STOCK.CATALOG.READ",
+        "STOCK.MOVEMENT.READ",
+        "SALES.MODULE.VIEW",
+        "SALES.ORDER.READ"
+      ]
+    }
+  ]
+}

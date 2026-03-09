@@ -1,0 +1,133 @@
+### Variáveis
+
+@baseUrl = http://localhost:4000
+@branchId = 8d09744d-b2d8-4200-ba6c-4bb5149cf176
+@token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjYTkxYTEzMS1kNTAzLTQ1Y2MtODE2ZS1hZGIwZjgzMTMxNzEiLCJuYW1lIjoiQWRtaW4gVXNlciIsImVtYWlsIjoiYWRtaW5AZm9ybWFjYW8uZGV2IiwiaWF0IjoxNzcxNTA4NTQ5LCJleHAiOjE3NzE1MTIxNDl9.xSTOZoA5jrKSyL_pxzAFS1RxBRSCUuKF2i44MQGHVM4
+### Criar uma nova filial
+
+POST {{baseUrl}}/branches HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+{
+  "address": {
+    "city": "São Paulo",
+    "complement": "Loja 1",
+    "country": "Brasil",
+    "neighborhood": "Centro",
+    "number": "123",
+    "state": "SP",
+    "street": "Rua Principal",
+    "zip": "01310-100"
+  },
+  "cnpj": "11222333000181",
+  "isActive": true,
+  "name": "Farmácia Central"
+}
+
+
+### Listar todas as filiais
+
+GET {{baseUrl}}/branches HTTP/1.1
+Authorization: Bearer {{token}}
+
+### Listar filiais (paginado - página 1, 10 por página)
+
+GET {{baseUrl}}/branches?page=1&pageSize=10 HTTP/1.1
+Authorization: Bearer {{token}}
+
+### Listar filiais (paginado - página 2, 5 por página)
+
+GET {{baseUrl}}/branches?page=2&pageSize=5 HTTP/1.1
+Authorization: Bearer {{token}}
+
+### Listar filiais (filtrar por nome)
+
+GET {{baseUrl}}/branches?name=Central HTTP/1.1
+Authorization: Bearer {{token}}
+
+
+### Buscar filial por ID
+
+GET {{baseUrl}}/branches/{{branchId}} HTTP/1.1
+
+
+### Atualizar filial
+
+PATCH {{baseUrl}}/branches/{{branchId}} HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+{
+  "address": {
+    "city": "São Paulo",
+    "complement": "Loja 2",
+    "country": "Brasil",
+    "neighborhood": "Centro",
+    "number": "456",
+    "state": "SP",
+    "street": "Rua Principal",
+    "zip": "01310-200"
+  },
+  "isActive": false,
+  "name": "Farmácia Central Atualizada"
+}
+
+
+### Atualizar filial (apenas nome)
+
+PATCH {{baseUrl}}/branches/{{branchId}} HTTP/1.1
+Content-Type: application/json
+
+{
+  "name": "Farmácia Central - Novo Nome"
+}
+
+
+### Deletar filial
+
+DELETE {{baseUrl}}/branches/{{branchId}} HTTP/1.1S
+
+
+### Exemplo: Criar filial 1
+
+POST {{baseUrl}}/branches HTTP/1.1
+Content-Type: application/json
+
+{
+  "address": {
+    "city": "São Paulo",
+    "complement": "",
+    "country": "Brasil",
+    "neighborhood": "Bela Vista",
+    "number": "1000",
+    "state": "SP",
+    "street": "Av. Paulista",
+    "zip": "01310-100"
+  },
+  "cnpj": "11222333000281",
+  "isActive": true,
+  "name": "Farmácia Norte"
+}
+
+
+### Exemplo: Criar filial 2
+
+POST {{baseUrl}}/branches HTTP/1.1
+Content-Type: application/json
+
+{
+  "address": {
+    "city": "São Paulo",
+    "complement": "Sobrado",
+    "country": "Brasil",
+    "neighborhood": "Jardim América",
+    "number": "500",
+    "state": "SP",
+    "street": "Rua das Flores",
+    "zip": "01452-000"
+  },
+  "cnpj": "11222333000381",
+  "isActive": true,
+  "name": "Farmácia Sul"
+}

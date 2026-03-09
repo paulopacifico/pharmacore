@@ -1,0 +1,106 @@
+model Brand {
+  id    String @id @default(uuid())
+  alias String @unique
+  name  String @unique
+
+  products Product[]
+
+  createdAt DateTime  @default(now()) @map("created_at")
+  updatedAt DateTime  @updatedAt @map("updated_at")
+  deletedAt DateTime?
+
+  @@map("brands")
+}
+
+model Product {
+  id          String @id @default(uuid())
+  alias       String @unique
+  name        String @unique
+  description String @db.Text
+
+  price Float
+
+  sku String @unique
+
+  images ProductImage[]
+  characteristics ProductCharacteristic[]
+
+  subcategoryId String      @map("subcategory_id")
+  subcategory   Subcategory @relation(fields: [subcategoryId], references: [id])
+
+  brandId String     @map("brand_id")
+  brand   Brand @relation(fields: [brandId], references: [id])
+
+  nameTsvector          Unsupported("tsvector")? @map("name_tsvector") 
+  descriptionTsvector   Unsupported("tsvector")? @map("description_tsvector") 
+
+  createdAt DateTime  @default(now()) @map("created_at")
+  updatedAt DateTime  @updatedAt @map("updated_at")
+  deletedAt DateTime?
+
+  @@map("products")
+  @@index([nameTsvector], type: Gin)
+  @@index([descriptionTsvector], type: Gin)
+}
+
+model ProductCharacteristic {
+  id   String @id @default(uuid())
+  name String
+  value String
+
+  product   Product @relation(fields: [productId], references: [id], onDelete: Cascade)
+  productId String
+
+  createdAt DateTime  @default(now()) @map("created_at")
+  updatedAt DateTime  @updatedAt @map("updated_at")
+  deletedAt DateTime?
+
+  @@map("product_characteristics")
+}
+
+model ProductImage {
+  id        String  @id @default(uuid())
+  url       String  @db.Text
+  product   Product @relation(fields: [productId], references: [id], onDelete: Cascade)
+  productId String
+
+  createdAt DateTime  @default(now()) @map("created_at")
+  updatedAt DateTime  @updatedAt @map("updated_at")
+  deletedAt DateTime?
+
+  @@map("product_images")
+}
+
+model Category {
+  id    String @id @default(uuid())
+  alias String @unique
+  name  String @unique
+
+  subcategories Subcategory[]
+
+  createdAt DateTime  @default(now()) @map("created_at")
+  updatedAt DateTime  @updatedAt @map("updated_at")
+  deletedAt DateTime?
+
+  @@map("categories")
+}
+
+model Subcategory {
+  id    String @id @default(uuid())
+  alias String @unique
+  name  String
+  order Int    @default(0)
+
+  category Category @relation(fields: [parentId], references: [id], onDelete: Restrict)
+  parentId String
+
+  products Product[]
+
+  createdAt DateTime  @default(now()) @map("created_at")
+  updatedAt DateTime  @updatedAt @map("updated_at")
+  deletedAt DateTime?
+
+  @@unique([name, parentId])
+  @@map("subcategories")
+}
+

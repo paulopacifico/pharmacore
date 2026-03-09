@@ -1,0 +1,13 @@
+{
+    "material-icon-theme.folders.associations": {
+        ".agents": "robot",
+        "skills": "robot",
+        "branch": "cluster",
+        "product": "packages",
+        "dto": "json",
+        "usecase": "ci",
+        "stock": "sandbox",
+        "tailwindcss-config": "css",
+        "typescript-config": "typescript"
+    }
+}
